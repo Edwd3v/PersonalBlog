@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+
+        // 1 es Piedra - 2 es Papel - 3 es Tijera
+        let Player1 = 0
+        let PC = 2
+        Player1 = prompt("\n1. Piedra \n2. Papel \n3. Tijera")
+        //Alert
+
+        if (Player1 == 1) {
+            alert("Elegiste Piedra")
+        } else if (Player1 == 2) {
+            alert("Elegiste Papel")
+        } else if (Player1 == 3) {
+            alert("Elegiste Tijera")
+        } else {
+            alert("SELECCIONA UNA OPCIÒN ADECUADA")
+        }
+
+        if (PC == 1) {
+            alert("PC Elige Piedra")
+        } else if (PC == 2) {
+            alert("PC Elige Papel")
+        } else if (PC == 3) {
+            alert("PC Elige Tijera")
+        } else {
+            alert("SELECCIONA UNA OPCIÒN ADECUADA")
+        }
+
+        if(Player1 == PC){
+            alert("SON ELEMENTOS IGUALES \NADIE GANA!!")
+        } else if (Player1 == 1 && PC == 3){
+            alert("Piedra gana a papel GANASTE!!!")
+        } else if (Player1 == 2 && PC == 1){
+            alert("Papel gana a Piedra GANASTE")
+        } else if (Player1 == 3 && PC == 2){
+            alert("Tijera gana a Papel. GANASTE")            
+        } else {
+            alert("PIERDES!!!")
+        }
+    </script>
+</head>
+<body>
+    <H1>PIEDRA</H1>
+    <H1>PAPEL</H1>
+    <H1>TIJERA</H1>
+    
+</body>
+</html>
