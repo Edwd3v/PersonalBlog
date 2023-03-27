@@ -43,7 +43,7 @@ def run():
     print(set_symmetric_dif_y_x) # => {'Uva', 'Mango', 'Pera'}
 
     set_symmetric_dif_x_y = set_x.symmetric_difference(set_y)
-    print(set_symmetric_dif_x_y) # => {'Uva', 'Mango', 'Pera'}
+    print(set_symmetric_dif_x_y)  
 
     set_symmetric_dif_x_y = set_x ^ set_y
     print(set_symmetric_dif_x_y) # => {'Uva', 'Mango', 'Pera'}
