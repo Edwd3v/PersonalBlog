@@ -6,7 +6,7 @@ def run():
     numbers_v2 = []
     for i in numbers:
          numbers_v2.append(i * 2)
-    print(numbers_v2)
+    print(numbers_v2) # => -[2, 4, 6, 8]
 
     '''
     Ahora veamos como es la manera corta
@@ -16,11 +16,12 @@ def run():
      4. Si no transformamos la funcion 'map' en una lista  nos mostrara el mensaje <map object at 0x7f665c2fdf70> que es la representación del objeto map en Python. Indica que has creado un objeto de tipo map mediante la función map() y estás viendo su dirección de memoria en hexadecimal.
      5. La funcion lambda uniocamente nos aydara para hacer funciones simples, que no requieran mas de una linea de codigo y que la funcion no sea tan compleja.    
     '''
+
     numbers_v3 = list(map(lambda i:i**2, numbers))
     print(numbers_v3)
 
     '''
-    Ahora, intentemos hacer algo mas interesante, supongamos que tenemos dos listas en con 'x' cantidad de elementos y queremos sumar los elementos con su posición correspondiente. es decir la posición [0] de list_1 se suma con la posición [0] de la list_2 
+    Ahora, intentemos hacer algo mas interesante, supongamos que tenemos dos listas con 'x' cantidad de elementos y queremos sumar los elementos con su posición correspondiente. es decir la posición [0] de list_1 se suma con la posición [0] de la list_2 
     ''' 
     list_1 = [20, 6, 9, 41, 2]
     list_2 = [11, 18, 56, 3]

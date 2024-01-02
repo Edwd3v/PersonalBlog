@@ -1,0 +1,5590 @@
+Concepto: GRAPA MUELLE CAMIONETA 4X4 TYT- FTN (GRAPA MUELLE)
+Referencia: GRAPA MUELLE
+Fecha: 2022/04/18
+Precio: 9776.0
+--------------------------------
+Concepto: LIMPIADOR TECHNO CLEAN GALON (8940)
+Referencia: 8940
+Fecha: 2023/08/22
+Precio: 42017.0
+--------------------------------
+Concepto: TORNILLOS GRADUACION ALINEA TOYOTA LARGO (81900K010)
+Referencia: 81900K010
+Fecha: 2021/09/08
+Precio: 35900.0
+--------------------------------
+Concepto: BUJE MUELLE  TEFLON CORTO 33MM (BJM-TO-L01/GDS9736)
+Referencia: BJM-TO-L01/GDS9736
+Fecha: 2022/07/15
+Precio: 3500.0
+--------------------------------
+Concepto: BUJE MUELLE TEFLON LARGO 30mm (BJM-TO-C017/GDS9320)
+Referencia: BJM-TO-C017/GDS9320
+Fecha: 2021/12/21
+Precio: 5882.35
+--------------------------------
+Concepto: BUJE AMORTIGUADOR DEL NISSAN D23 DIESEL (E610-ED71A/562194KH7AAU)
+Referencia: E610-ED71A/562194KH7AAU
+Fecha: 2023/10/03
+Precio: 40336.0
+--------------------------------
+Concepto: BUJE MUELLE HOJA PPAL FORD RANGER  3.2 * (BJEFOM3.2)
+Referencia: BJEFOM3.2
+Fecha: 2023/07/27
+Precio: 36000.0
+--------------------------------
+Concepto: HOJA SEGU. VUELTA TRAS TOYOTA HILUX REVO (90-281/2)
+Referencia: 90-281/2
+Fecha: 2021/12/15
+Precio: 168067.23
+--------------------------------
+Concepto: HOJA TERCERA TRASERA TOYOTA HILUX REVO  (90-351/3)
+Referencia: 90-351/3
+Fecha: 2021/12/15
+Precio: 109243.7
+--------------------------------
+Concepto: HOJA PPAL TRAS. TOYOTA HILUX REVO DIES (90-281 IMAL)
+Referencia: 90-281 IMAL
+Fecha: 2021/12/15
+Precio: 193277.31
+--------------------------------
+Concepto: TORNILLO CENTRAL MUELLE TOYOTA HILUX (TCH01/TC02C5CHG5)
+Referencia: TCH01/TC02C5CHG5
+Fecha: 2023/07/21
+Precio: 2332.0
+--------------------------------
+Concepto: HOJA SEGUND PLANA FORD RANGER 3.2 (HS2PLFR)
+Referencia: HS2PLFR
+Fecha: 2023/03/31
+Precio: 218487.39
+--------------------------------
+Concepto: HOJA PRINCIPAL DELANTERA HINO FC4J (DEL195-4280)
+Referencia: DEL195-4280
+Fecha: 2023/07/18
+Precio: 502082.0
+--------------------------------
+Concepto: BUJE MUELLE SILENCIADOR UNIVERSAL (9622)
+Referencia: 9622
+Fecha: 2022/03/01
+Precio: 3361.74
+--------------------------------
+Concepto: HOJA PRINCIPAL MITSUBISHI L200 2.5 DIESE (HJAPAL01L200)
+Referencia: HJAPAL01L200
+Fecha: 2023/03/28
+Precio: 201681.0
+--------------------------------
+Concepto: HOJA SEGUNDA VUELTA MITSIB. L200 DIE (HJASDAL02)
+Referencia: HJASDAL02
+Fecha: 2022/03/25
+Precio: 151260.5
+--------------------------------
+Concepto: TORNILLO GUIA CENTRAL (TOR)
+Referencia: TOR
+Fecha: 2022/09/26
+Precio: 5042.0
+--------------------------------
+Concepto: HOJA PRINCIPAL FORD RANGER HOM (HJFR)
+Referencia: HJFR
+Fecha: 2023/05/11
+Precio: 268907.56
+--------------------------------
+Concepto: TERMINAL EXT DER NISSAN ORG (TERWA2818AU)
+Referencia: TERWA2818AU
+Fecha: 2023/08/29
+Precio: 45534.0
+--------------------------------
+Concepto: BUJE MUELLE TEFLON LARGO 33mm (BJLG33mm)
+Referencia: BJLG33mm
+Fecha: 2023/02/11
+Precio: 7563.03
+--------------------------------
+Concepto: BUJE AMORTIGUADOR DEL FORD RANGER 3.2 (614003/2019)
+Referencia: 614003/2019
+Fecha: 2023/06/22
+Precio: 36000.0
+--------------------------------
+Concepto: BUJE AMORTIGUADOR TEFLON GENERICO (9634)
+Referencia: 9634
+Fecha: 2023/10/27
+Precio: 2500.0
+--------------------------------
+Concepto: SUAVIZADOR POLIURETANO (SM-WSD)
+Referencia: SM-WSD
+Fecha: 2023/06/22
+Precio: 5000.0
+--------------------------------
+Concepto: CILINDRO FRENO FORD RANGER 2019 3.2 DIES (UC2R26610 / CR-32)
+Referencia: UC2R26610 / CR-32
+Fecha: 2023/04/11
+Precio: 61600.0
+--------------------------------
+Concepto: BATERIA 34RST 1200 MG (34RT1200MG)
+Referencia: 34RST1200MG
+Fecha: 2023/10/28
+Precio: 389021.0
+--------------------------------
+Concepto: TAPA RADIADOR CHEVROLET NPR 2011 (95620780)
+Referencia: 95620780
+Fecha: 2018/01/11
+Precio: 34106.0
+--------------------------------
+Concepto: TAPA TANQUE CON LLAVE  COMBUST NPR 2011 (8971158561)
+Referencia: 8971158561
+Fecha: 2018/01/11
+Precio: 102992.0
+--------------------------------
+Concepto: AMORTIGUADOR TRAS. CHEVROLET FRR RWARD (5234063 - 65123)
+Referencia: 5234063 - 65123
+Fecha: 2022/03/03
+Precio: 270000.0
+--------------------------------
+Concepto: BOMBILLO AMBAR DIRECC 1 FILAMENTO 12V (P21WY)
+Referencia: P21WY
+Fecha: 2023/07/31
+Precio: 36000.0
+--------------------------------
+Concepto: CORREA 17453 (17453)
+Referencia: 4PK1090
+Fecha: 2018/02/10
+Precio: 29412.0
+--------------------------------
+Concepto: CORREA 17570 (CR17570)
+Referencia: 6PK2655
+Fecha: 2018/04/20
+Precio: 58029.0
+--------------------------------
+Concepto: FILTRO ACEITE MOTOR INTERNATIONAL 7600 (LF14000NN)
+Referencia: LF14000NN
+Fecha: 2023/07/04
+Precio: 145000.0
+--------------------------------
+Concepto: CORREA 17455 (17455)
+Referencia: 17475
+Fecha: 2018/02/10
+Precio: 17468.0
+--------------------------------
+Concepto: PLUMILLAS 18" (PLUM18-01)
+Referencia: PLUM18-01
+Fecha: 2023/01/14
+Precio: 38400.0
+--------------------------------
+Concepto: TAPA FILTRO TRAMPA NPR REDWARD (TPCRREWARD)
+Referencia: TPCRREWARD
+Fecha: 2018/03/23
+Precio: 163025.0
+--------------------------------
+Concepto: PLUMILLAS 20" (PLUM20-01)
+Referencia: 17801-0L040
+Fecha: 2023/01/14
+Precio: 40238.0
+--------------------------------
+Concepto: BOMBILLO H4 12V (P43T64193472)
+Referencia: P43T64193472
+Fecha: 2023/11/23
+Precio: 9984.0
+--------------------------------
+Concepto: KIT FILTROS ISUZU NHR REWARD EURO IV (19314143)
+Referencia: 19314143
+Fecha: 2023/06/24
+Precio: 531352.0
+--------------------------------
+Concepto: BUJE BARRA ESTAB TRASERA  FRR (151780170)
+Referencia: 151780170
+Fecha: 2023/01/18
+Precio: 77633.0
+--------------------------------
+Concepto: BUJE TIJERA INF CENTRAL VW AMAROK 2.0 (131562/7L0417333)
+Referencia: GK-518086/131562/7L0417333
+Fecha: 2022/06/24
+Precio: 30246.0
+--------------------------------
+Concepto: FLOTADOR TANQUE COMBUSTIBLE NPS 2011 (93316190)
+Referencia: 93316190
+Fecha: 2018/06/13
+Precio: 46218.0
+--------------------------------
+Concepto: HOJA PRINCIPAL TRAS. CHEVROLET DMAX RT50 (98193429)
+Referencia: 98193429
+Fecha: 2023/07/21
+Precio: 134080.0
+--------------------------------
+Concepto: BOMBILLO H1 12V (H1 -12 V / 31NAR17919)
+Referencia: H1 -12 V / 31NAR17919
+Fecha: 2023/06/08
+Precio: 0.0
+--------------------------------
+Concepto: KIT GRADUACION FRENO DER NISSAN FRONTIER (GF-4244)
+Referencia: GF-4244
+Fecha: 2023/07/26
+Precio: 44538.0
+--------------------------------
+Concepto: REFRIGERANTE VERDE GALON (RFVG-01)
+Referencia: RFVG-01
+Fecha: 2023/02/13
+Precio: 21750.0
+--------------------------------
+Concepto: BOMBILLO H3-12V (48005-01)
+Referencia: 48005-01
+Fecha: 2022/01/25
+Precio: 4297.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR INTERNO FRR REWARD (SFARS3535)
+Referencia: SFARS3535
+Fecha: 2023/07/27
+Precio: 25245.0
+--------------------------------
+Concepto: FILTRO COMB  FRR REWARD (SFC8981628970)
+Referencia: SFC8981628970
+Fecha: 2022/11/21
+Precio: 24616.0
+--------------------------------
+Concepto: FILTRO ACEITE CHEVROLET NPR-FRR REWARD (HCX7041 /95631283)
+Referencia: HCX7041 /95631283
+Fecha: 2022/11/05
+Precio: 23450.0
+--------------------------------
+Concepto: RESORTES BANDAS FRENO VW AMAROK (R-5157)
+Referencia: R-5157
+Fecha: 2022/04/27
+Precio: 8403.0
+--------------------------------
+Concepto: DISCO DE FRENO VOLKSWAGUEN AMAROK 2.0 (DF-0485BR)
+Referencia: DF-0485BR
+Fecha: 2022/06/13
+Precio: 195300.0
+--------------------------------
+Concepto: TAPA RADIADOR CAMION SERIE NH / NP (8971778720)
+Referencia: 8971778720
+Fecha: 2021/08/17
+Precio: 32667.0
+--------------------------------
+Concepto: FILTRO COMB TRAMPA FRR  REWARD (SFC 2042)
+Referencia: SFC2042/FLP-435/HCP4811
+Fecha: 2022/11/05
+Precio: 23107.0
+--------------------------------
+Concepto: SOPORTE  MORTOR FORD RANGER BT50 (UR58-39-040 A-B)
+Referencia: UR58-39-040 A-B
+Fecha: 2023/06/30
+Precio: 151300.0
+--------------------------------
+Concepto: FILTRO ACEITE FOTON AUMARK (HCH10575)
+Referencia: HCH10575
+Fecha: 2023/01/24
+Precio: 37300.0
+--------------------------------
+Concepto: BOMBILLO H7 12V (H7 12V / PX26D)
+Referencia: H7 12V / PX26D
+Fecha: 2023/11/24
+Precio: 13949.58
+--------------------------------
+Concepto: SOPORTE CAJA FORD RANGER 2.5 DIESEL (SOPCJFORD)
+Referencia: SOPCJFORD
+Fecha: 2022/09/15
+Precio: 184874.0
+--------------------------------
+Concepto: ROTULA INF FORD RANGER 3.2 2018 HOM (K 800415)
+Referencia: K 800415
+Fecha: 2023/10/19
+Precio: 147060.0
+--------------------------------
+Concepto: AMORTIGUADOR DEL TOKIKO NISSAN D23 (U3813)
+Referencia: U3813
+Fecha: 2023/10/18
+Precio: 322000.0
+--------------------------------
+Concepto: BUJE TIJERA INF NISSAN D23 NP300 HOM (712040)
+Referencia: 712040
+Fecha: 2023/10/20
+Precio: 100000.0
+--------------------------------
+Concepto: MOTOR TAPA COMBUST. FORD RANGER 3.2 DIE (JB3B2122020AA)
+Referencia: JB3B2122020AA
+Fecha: 2022/03/08
+Precio: 239105.0
+--------------------------------
+Concepto: BANDAS FRENO TOYOTA HILUX (BAN-2290 / BS4465)
+Referencia: BAN-2290 / BS4465
+Fecha: 2023/03/14
+Precio: 162017.0
+--------------------------------
+Concepto: AMORTIGUADOR DEL TOKIKO TOYOTA VIGO (U3768)
+Referencia: U3768
+Fecha: 2023/07/27
+Precio: 201681.0
+--------------------------------
+Concepto: TOPE CAUCHO SUSPENSION NISSAN D23 ORG (552404KH2A)
+Referencia: 552404KH2A
+Fecha: 2023/07/10
+Precio: 277983.0
+--------------------------------
+Concepto: AMORTIGUADOR ALASKAN DEL (E61104KH9A-KYB / 340053)
+Referencia: E61104KH9A-KYB / 340053
+Fecha: 2023/06/27
+Precio: 227996.0
+--------------------------------
+Concepto: FITTING 5/8 (5098)
+Referencia: 5098
+Fecha: 2023/07/13
+Precio: 6723.0
+--------------------------------
+Concepto: GUARDAPOLVO LADO CAJA TOYOTA HILUX (105702)
+Referencia: 105702
+Fecha: 2021/06/23
+Precio: 19500.0
+--------------------------------
+Concepto: FILTRO SEPARADOR TRANSMISION INTER 7600 (BALWIN B2)
+Referencia: BALWIN B2
+Fecha: 2023/11/17
+Precio: 28000.0
+--------------------------------
+Concepto: FILTRO ACEITE MOTOR CAMIONETA JAC (OLP016/LF716)
+Referencia: OLP016/LF716
+Fecha: 2023/06/26
+Precio: 15000.0
+--------------------------------
+Concepto: TIJERA SUP DER MITSUBISHI L200 (4010A14-DER/EDK-D1-4010A148)
+Referencia: 4010A14-DER/EDK-D1-4010A148
+Fecha: 2023/10/20
+Precio: 268908.0
+--------------------------------
+Concepto: SOPORTE CARDAN MITSUBISHI SPORTERO (SPSPC-01C)
+Referencia: SPSPC-01C
+Fecha: 2023/03/28
+Precio: 134454.0
+--------------------------------
+Concepto: TERMINALES NISSAN FRONTIER NP300 CORTAS (SE-4832NSS)
+Referencia: SE-4832NSS
+Fecha: 2018/07/16
+Precio: 50420.0
+--------------------------------
+Concepto: BIELETA TOYOTA HILUX (48820-0K130)
+Referencia: 48820-0K130
+Fecha: 2019/12/05
+Precio: 37815.13
+--------------------------------
+Concepto: TERMINALES DIRECCION TOYOTA HILUX REVO (45046-09281)
+Referencia: 45046-09281
+Fecha: 2023/03/30
+Precio: 100840.0
+--------------------------------
+Concepto: PASTILLAS TOYOTA GENERICAS (FOR-15678776)
+Referencia: FOR-15678776
+Fecha: 2021/02/17
+Precio: 109244.0
+--------------------------------
+Concepto: COMPRESOR VW AMAROK CRAFTER EQUI DENSO (01S-0056)
+Referencia: 01S-0056
+Fecha: 2023/02/24
+Precio: 1218487.39
+--------------------------------
+Concepto: BUJE TIJERA CORTO NISSAN D23 (54542-2S610)
+Referencia: 54542-2S610
+Fecha: 2023/08/14
+Precio: 25571.0
+--------------------------------
+Concepto: BARRA CENTRAL DE DIRECCION NISSAN FR D22 (BRD D22)
+Referencia: ZSG-6304
+Fecha: 2021/02/18
+Precio: 193277.0
+--------------------------------
+Concepto: SOPORTE CARDAN NISSAN FRONTIER (37521-36625)
+Referencia: 37521-36625
+Fecha: 2021/11/09
+Precio: 109244.0
+--------------------------------
+Concepto: SOPORTE CARDAN TOYOTA HILUX (37230-35120)
+Referencia: 37230-35120
+Fecha: 2023/03/30
+Precio: 126050.0
+--------------------------------
+Concepto: CRUCETA 354 CARDAN TOYOTA HILUX (CR-354TY)
+Referencia: CR-354TY / JL354
+Fecha: 2021/01/05
+Precio: 33613.4
+--------------------------------
+Concepto: ROTULA SUPERIOR NISSAN FRONTIER NP300 (2655)
+Referencia: 2655/4010-EA000TH
+Fecha: 2020/05/14
+Precio: 42017.0
+--------------------------------
+Concepto: ROTULA INF NISSAN NP300 D23  HOM (RT-S-NSS-01/40160E/40160-EB70A)
+Referencia: RT-S-NSS-01/40160E/40160-EB70A
+Fecha: 2023/09/05
+Precio: 65900.0
+--------------------------------
+Concepto: CAPSULAS (5054)
+Referencia: 5054
+Fecha: 2023/07/13
+Precio: 1681.0
+--------------------------------
+Concepto: PERNO MITSUBISHI L200 2.5 DIE COMPLETO (PRMT 25L200)
+Referencia: PCFTN01
+Fecha: 2019/03/26
+Precio: 7563.0
+--------------------------------
+Concepto: KIT GRADUACION FRENO L200 (KITGR L200)
+Referencia: KITGR L200
+Fecha: 2023/01/13
+Precio: 27200.0
+--------------------------------
+Concepto: CILINDRO FRENO SPORTERO L200 (CIFRL200-01)
+Referencia: CIFRL200-01
+Fecha: 2018/02/06
+Precio: 42017.0
+--------------------------------
+Concepto: CORREA ACCESORIOS NQR REWARD 7PK1130 (7PK1130)
+Referencia: 7PK1130
+Fecha: 2022/03/02
+Precio: 40336.13
+--------------------------------
+Concepto: JUEGO TORNILLO CALIPER DMAX (CRDIMAX)
+Referencia: CRDIMAX
+Fecha: 2023/01/13
+Precio: 24370.0
+--------------------------------
+Concepto: BUJE BARRA ESTAB DEL NISSAN D23 (54613-2S600)
+Referencia: 54613-2S600
+Fecha: 2023/10/20
+Precio: 21008.0
+--------------------------------
+Concepto: BIELETA DIR BARRA EST DEL NISSAN D23 L (54668-4KH0A)
+Referencia: 54668-4KH0A
+Fecha: 2023/08/14
+Precio: 80067.0
+--------------------------------
+Concepto: TIJERA INFERIOR NISSAN FRONTIER D22 (TIJ2172)
+Referencia: TIJ2172
+Fecha: 2018/10/02
+Precio: 201682.0
+--------------------------------
+Concepto: FLOTADOR COMBUSTIBLE NISSAN FRONTIER D22 (FLO2172)
+Referencia: FLO2172
+Fecha: 2018/07/07
+Precio: 126050.0
+--------------------------------
+Concepto: PASTILLAS NISSAN FRONTIER NP300 (FOR-830-7703)
+Referencia: 10948200
+Fecha: 2019/02/27
+Precio: 58823.5
+--------------------------------
+Concepto: GUAYA FREDNO EMERGENCIA VW AMAROK (2H6609721A)
+Referencia: 2H6609721A
+Fecha: 2021/07/23
+Precio: 126077.0
+--------------------------------
+Concepto: SOPORTE CAJA AUXILIAR SPORTERO V11 V6 (MB58184)
+Referencia: MB581845
+Fecha: 2023/04/10
+Precio: 42017.0
+--------------------------------
+Concepto: BOMPER DELANTERO NISSAN FRONTIER 2012 (BMPD22)
+Referencia: EB3B17666AA
+Fecha: 2018/02/16
+Precio: 379832.0
+--------------------------------
+Concepto: GUARDAPOLVO NISSAN FRONTIER LADO CAJA (GP-NSSFR-01LC)
+Referencia: GP-NSSFR-01LC
+Fecha: 2021/05/07
+Precio: 47647.0
+--------------------------------
+Concepto: GUARDAPOLVO NISSAN FRONTIER LADO RUEDA (GP-NSSFR-01LR)
+Referencia: GP-NSSFR-01LR
+Fecha: 2021/05/07
+Precio: 47647.0
+--------------------------------
+Concepto: BOMBA AUX. MITSUBISHI L200 (MR9808)
+Referencia: MR9808
+Fecha: 2023/03/30
+Precio: 75630.0
+--------------------------------
+Concepto: BLOWERS MOTOR VENTILACION DOBLE ASPA 24 (01R-3001)
+Referencia: 01R-3001
+Fecha: 2023/02/24
+Precio: 201680.67
+--------------------------------
+Concepto: PASADOR HINO FSR FRR TRAS 25*115 (36960105)
+Referencia: 36960105
+Fecha: 2023/02/25
+Precio: 14977.0
+--------------------------------
+Concepto: CENTRAL-CENTRALES-GS (1/2*8 G.8 CT)
+Referencia: 1/2*8 G.8 CT
+Fecha: 2023/03/14
+Precio: 7083.0
+--------------------------------
+Concepto: PORTAMANGUETA TOYOTA HILUX 4X4 DIESEL (RPTAMAGTOY01)
+Referencia: RPTAMAGTOY01
+Fecha: 2018/02/19
+Precio: 285714.0
+--------------------------------
+Concepto: ROTULA SUP NAVARA NISSAN (40110-E)
+Referencia: 40110-E/40110-4
+Fecha: 2023/10/20
+Precio: 75630.0
+--------------------------------
+Concepto: ACEITE EUROL SUPER LITE 5W-30 (E100091-210L)
+Referencia: E100091 - 210L
+Fecha: 2023/07/25
+Precio: 17005.0
+--------------------------------
+Concepto: TIJERA INFERIOR TOYOTA HILUX 2014 DIESEL (TJINFTOY01)
+Referencia: TJINFTOY01
+Fecha: 2018/02/20
+Precio: 201681.0
+--------------------------------
+Concepto: GUAYA FRENO DE MANO NISSAN FRONTIER 2.5 (GYINSSFM01)
+Referencia: GYINSSFM01
+Fecha: 2018/02/20
+Precio: 50420.0
+--------------------------------
+Concepto: RETENEDORES VARIOS TOYOTA (RETV-01)
+Referencia: RETV-01
+Fecha: 2021/12/14
+Precio: 45966.0
+--------------------------------
+Concepto: AXIAL DIRECCION TOYOTA HILUX HOM (45503-09321)
+Referencia: 45503-09321
+Fecha: 2023/04/21
+Precio: 218487.0
+--------------------------------
+Concepto: ROTULA INF TOYOTA HILUX (43330-09295)
+Referencia: 43330-09295
+Fecha: 2022/09/05
+Precio: 52900.0
+--------------------------------
+Concepto: RODAMIENTO DEL TOYOTA HILUX GENERICO (2DUF054N-2GR)
+Referencia: 2DUF054N-2GR
+Fecha: 2022/07/15
+Precio: 184874.0
+--------------------------------
+Concepto: BUJE BARRA ESTAB MITSUB. L200 (4056A219/MD1701)
+Referencia: 4056A219/MD1701
+Fecha: 2023/06/06
+Precio: 21008.0
+--------------------------------
+Concepto: BUJE TIJERA INF CORTO TOYOTA HIL. FOTON (48654-OK040C /48654-GK512988)
+Referencia: 48654-OK040C /48654-GK512988
+Fecha: 2023/03/30
+Precio: 50420.0
+--------------------------------
+Concepto: KIT CALIPER MORDAZA TOYOTA HILUX (KT ORRIN HILUX)
+Referencia: KT ORRIN HILUX
+Fecha: 2022/04/19
+Precio: 18067.0
+--------------------------------
+Concepto: ROTULA SUP TOYOTA HILUX (RT-S-TOY-01/43310 - 09015)
+Referencia: RT-S-TOY-01/43310 - 09015
+Fecha: 2023/02/14
+Precio: 55900.0
+--------------------------------
+Concepto: BUJE TIJERA INF LARGO TOYOTA/FOTON (48665-OK040L)
+Referencia: 48665-OK040L
+Fecha: 2022/09/19
+Precio: 42017.0
+--------------------------------
+Concepto: HOJA BALLESTA IMA TRASERA (001-4280/22-097/3 FRR/3)
+Referencia: 001-4280/22-097/3 FRR/3
+Fecha: 2023/10/03
+Precio: 164997.0
+--------------------------------
+Concepto: TENSOR REPARTICION TOYOTA HILUX (ZA-62TB0629B25)
+Referencia: ZA-62TB0629B25
+Fecha: 2019/07/04
+Precio: 100840.0
+--------------------------------
+Concepto: RETEN ROD DEL NISSAN FRONTIER 2.5 (RETDELNS)
+Referencia: RETDELNS
+Fecha: 2018/03/23
+Precio: 4201.68
+--------------------------------
+Concepto: RODAMIENTO INT. DEL NISSAN FRONTIER (RD01NS2.5)
+Referencia: RD01NS2.5
+Fecha: 2018/03/23
+Precio: 42017.0
+--------------------------------
+Concepto: RODAMIENTO EXT. DEL NISSAN FRONTIER (RDEXNA022)
+Referencia: RDEXNA022
+Fecha: 2021/10/19
+Precio: 252900.0
+--------------------------------
+Concepto: BUJE MUELLE METALICO  HOJA PPAL TOYOTA (RB410/614007)
+Referencia: RB410/614007
+Fecha: 2023/07/21
+Precio: 7590.0
+--------------------------------
+Concepto: GUARDAPOLVO LADO RUEDA TOYOTA HILUX (105701)
+Referencia: 105701
+Fecha: 2019/09/21
+Precio: 21008.42
+--------------------------------
+Concepto: ROTULA INF MITSUBISHI L200 (UB39-99-354 TH)
+Referencia: UB39-99-354 TH
+Fecha: 2023/04/21
+Precio: 75630.0
+--------------------------------
+Concepto: DISCO DE FRENO MITSUBISHI L200 (DISCL200)
+Referencia: DISCL200
+Fecha: 2020/01/03
+Precio: 109243.7
+--------------------------------
+Concepto: ROTULA SUPERIOR MITSUBISHI (ROTL201SP)
+Referencia: ROTL201SP
+Fecha: 2018/04/02
+Precio: 50420.0
+--------------------------------
+Concepto: BUJE TIJERA SUP L200 2.5 DIESEL (BJSUPTJ01/MR5193)
+Referencia: GK-512854 / MR5193
+Fecha: 2023/01/23
+Precio: 32900.0
+--------------------------------
+Concepto: CRUCETA CARDAN MITSUBISHI L200 2.5 DIESE (CUCCDL200)
+Referencia: CUCCDL200
+Fecha: 2020/01/08
+Precio: 42016.75
+--------------------------------
+Concepto: CARCASA BOMBIN TOYOTA HILUX (CZBT-01)
+Referencia: CZBT-01
+Fecha: 2019/09/24
+Precio: 235294.0
+--------------------------------
+Concepto: FILTRO COMB TOYOTA HILUX 2.5 DIES (23390-0L041)
+Referencia: 23390-0L041
+Fecha: 2022/10/06
+Precio: 54622.0
+--------------------------------
+Concepto: BUJE AMORTIGUADOR DEL. MISUBISHI L200 (MB-72-15200TGL200)
+Referencia: MB-72-15200TGL200
+Fecha: 2023/04/21
+Precio: 25210.0
+--------------------------------
+Concepto: TERMINAL DIRECCION MITSUBISHI L200 (TERML200)
+Referencia: TERML200/ES800430TH
+Fecha: 2023/10/04
+Precio: 75630.0
+--------------------------------
+Concepto: SOPORTE  CAJA MITSUBISHI SPORTERO L200 (SPTECAJAL200/ MR9927)
+Referencia: SPTECAJAL200/ MR9927
+Fecha: 2023/06/06
+Precio: 294118.0
+--------------------------------
+Concepto: PIN SEMI EJE FORD RANGER (SELLO ACEITE) (AB393B9623AA)
+Referencia: AB393B9623AA
+Fecha: 2021/11/12
+Precio: 768.0
+--------------------------------
+Concepto: RODAMIENTO DEL. MITSUBISHI L200 SPORTERO (RODDELL200)
+Referencia: RODDELL200
+Fecha: 2021/11/09
+Precio: 184874.0
+--------------------------------
+Concepto: LLANTA 265/70R16TPR04 LC01 LAUFEN
+Referencia: 12
+Fecha: 2023/05/26
+Precio: 0.0
+--------------------------------
+Concepto: ACEITE 75W-90 SINTETICO COEX (75W-90 COEX)
+Referencia: 75W-90 COEX
+Fecha: 2021/08/21
+Precio: 34097.91
+--------------------------------
+Concepto: BENDIX ARRANQUE (01)
+Referencia: 17370
+Fecha: 2018/06/15
+Precio: 46218.5
+--------------------------------
+Concepto: FILTRO COMB TRAMPA YUTONG BUSETA (R90)
+Referencia: R90
+Fecha: 2023/07/04
+Precio: 60000.0
+--------------------------------
+Concepto: BOMBA HIDRAULICO SPORTER (02)
+Referencia: FSMAXI70AMP
+Fecha: 2018/06/18
+Precio: 462185.0
+--------------------------------
+Concepto: CORREA DE REPARTICION  TOYOTA HILUX (13568-39016)
+Referencia: BX69
+Fecha: 2019/07/04
+Precio: 109244.0
+--------------------------------
+Concepto: AXIAL DIRECCION VOLKWAGUEN AMAROK 2.0 (7LO-42-821B)
+Referencia: 7LO-42-821B/VX7L10/JB24
+Fecha: 2021/10/19
+Precio: 40000.0
+--------------------------------
+Concepto: PUNTA DE EJE LADO RUEDA TOYOTA HILUX (TO38106-762)
+Referencia: TO38106-762
+Fecha: 2019/07/18
+Precio: 92437.0
+--------------------------------
+Concepto: CRUCETA GUN46 (CR-GUN46)
+Referencia: CR-GUN46
+Fecha: 2018/07/01
+Precio: 25210.0
+--------------------------------
+Concepto: GUAYA TAPA TANQUE TOYOTA HILUX ORG (77035-OK130)
+Referencia: 77035-OK130
+Fecha: 2019/08/14
+Precio: 65469.0
+--------------------------------
+Concepto: SOPORTE CAJA NISSAN FRONTIER (SCNSSFR-01)
+Referencia: SCNSSFR-01
+Fecha: 2020/05/14
+Precio: 37815.0
+--------------------------------
+Concepto: PASADOR HINO FC/GD BUSETON TRAS P/DEL (005-000-30X124/36035086)
+Referencia: 005-000-30X124/36035086
+Fecha: 2023/07/18
+Precio: 25385.0
+--------------------------------
+Concepto: CORREAS ACCESORIOS TOYOTA 7PK1515 (7PK1515)
+Referencia: BX37
+Fecha: 2019/08/28
+Precio: 58823.5
+--------------------------------
+Concepto: PERNO COMPLETO TOYOTA (PERTY-01)
+Referencia: PERTY-01
+Fecha: 2020/06/30
+Precio: 5882.4
+--------------------------------
+Concepto: PASTILLAS MAZDA BT50 GENERICA (FOR-1574-8754)
+Referencia: FOR-1574-8754
+Fecha: 2019/01/22
+Precio: 115966.0
+--------------------------------
+Concepto: PERNO COMPLETO MAZDA BT50 / FORD RANGER (PERN03T01)
+Referencia: PERN03T01
+Fecha: 2018/09/13
+Precio: 8403.34
+--------------------------------
+Concepto: HOJA BALLESTA IMA (22-097/5 FRR/5)
+Referencia: 22-097/5 FRR/5
+Fecha: 2023/03/14
+Precio: 240138.0
+--------------------------------
+Concepto: BUJE BARRA ESTAB TOYOTA HILUX FOTON TUN (48815-OK040)
+Referencia: 48815-OK040
+Fecha: 2023/05/08
+Precio: 25210.0
+--------------------------------
+Concepto: GUARDA POLVO LIR BT50 (BT50)
+Referencia: BT50
+Fecha: 2018/08/13
+Precio: 16807.0
+--------------------------------
+Concepto: LLANTA 265/65/R17 CAMIONETA MT HANKOOK (HK813-RT05)
+Referencia: HK813-RT05
+Fecha: 2023/05/26
+Precio: 0.0
+--------------------------------
+Concepto: GRAPA ST-GRAPAS IBH (0828N0 3/4*23/4*14)
+Referencia: 0828N0 3/4*23/4*14
+Fecha: 2023/03/14
+Precio: 10094.0
+--------------------------------
+Concepto: TERMOSTATO NISSAN FRONTIER (467)
+Referencia: 467
+Fecha: 2018/09/05
+Precio: 46218.5
+--------------------------------
+Concepto: VALVULAS  IN YOSK NISSAN FRONTIER (IN463)
+Referencia: AP3227-2
+Fecha: 2018/09/05
+Precio: 252101.0
+--------------------------------
+Concepto: EMPAQUE TAPAVALVULAS NISSAN FRONTIER (466)
+Referencia: FS10AMP/3P
+Fecha: 2018/09/05
+Precio: 16807.0
+--------------------------------
+Concepto: CULATA YD25-NISSAN FRONTIER (YD25)
+Referencia: FS30AMP-30
+Fecha: 2018/09/05
+Precio: 2100841.0
+--------------------------------
+Concepto: MANGUERA FRENO DIMAX DEL IZQ (8981220430)
+Referencia: 8981220430
+Fecha: 2022/11/29
+Precio: 100840.0
+--------------------------------
+Concepto: FILTRO COMB FORD RANGER 3.2 2021 ORG (EB3Z9365B/LU2Z9365A/AB399176AC)
+Referencia: EB3Z9365B/LU2Z9365A/AB399176AC
+Fecha: 2023/10/03
+Precio: 96616.0
+--------------------------------
+Concepto: ASIENTO GOMA RESORTE DEL NISSAN NP300 (54034EB70A)
+Referencia: 54034EB70A
+Fecha: 2023/08/14
+Precio: 60588.0
+--------------------------------
+Concepto: PERNO COMPLETO NISSAN (PRNSS-01)
+Referencia: PRNSS-01
+Fecha: 2018/09/13
+Precio: 50420.16
+--------------------------------
+Concepto: GRASERA CURVA 3/8" RF  (G26/5251ML0026)
+Referencia: G26/5251ML0026
+Fecha: 2023/02/25
+Precio: 1818.0
+--------------------------------
+Concepto: KID EMBRAGUE TOYOTA HILUX (480)
+Referencia: 480
+Fecha: 2018/09/13
+Precio: 588235.3
+--------------------------------
+Concepto: TERMOSTATO TOYOTA HILUX (481)
+Referencia: 481
+Fecha: 2018/09/13
+Precio: 50420.0
+--------------------------------
+Concepto: CRUCETA CARDAN MAZDA BT50 (482)
+Referencia: GUD29
+Fecha: 2018/09/26
+Precio: 33613.0
+--------------------------------
+Concepto: BOMBILLO GOTERA LUZ MEDIA 158 (07I06118/O7I06118)
+Referencia: 07I06118/O7I06118
+Fecha: 2023/07/27
+Precio: 1344.0
+--------------------------------
+Concepto: PATIN TENSOR CORREA ACCESORIOS TOYOTA HI (PTA-CCT-01)
+Referencia: PTA-CCT-01
+Fecha: 2020/10/14
+Precio: 193277.0
+--------------------------------
+Concepto: RODAMIENTO DEL TOYOTA HILUX ORGINAL (43560-60010)
+Referencia: 43560-60010
+Fecha: 2018/11/16
+Precio: 151261.0
+--------------------------------
+Concepto: MEDIDOR COMBUSTIBLE TANQUE L200 (MC01200)
+Referencia: MC01200
+Fecha: 2023/06/06
+Precio: 184874.0
+--------------------------------
+Concepto: LLANTA 215/75R17.5 CM986 CHAOYANG DIR. (CM986)
+Referencia: CM986
+Fecha: 2023/04/11
+Precio: 495714.0
+--------------------------------
+Concepto: JUEGO DE GRADUACIONES TOYOTA (JGRD)
+Referencia: JGRD
+Fecha: 2018/10/22
+Precio: 42016.83
+--------------------------------
+Concepto: JUEGO DE RESORTES TOYOTA (JRTOY)
+Referencia: JRTOY
+Fecha: 2020/05/11
+Precio: 0.0
+--------------------------------
+Concepto: JUEGO DE PUNTILLAS (JFPUNT)
+Referencia: JFPUNT
+Fecha: 2022/04/18
+Precio: 11765.0
+--------------------------------
+Concepto: CORREA 17305 NISSAN (17305)
+Referencia: COR17440
+Fecha: 2018/10/22
+Precio: 21008.5
+--------------------------------
+Concepto: TUERCA PERNOS NISSAN (TRCPRNSS)
+Referencia: TRCPRNSS
+Fecha: 2018/10/22
+Precio: 8403.33
+--------------------------------
+Concepto: TUERCA PERNOS TOYOTA (TRCPRTY-01)
+Referencia: TRCPRTY-01
+Fecha: 2018/10/22
+Precio: 8403.33
+--------------------------------
+Concepto: CILINDRO FRENO TOYOTA HILUX (47550-09070)
+Referencia: 47550-09070
+Fecha: 2019/07/13
+Precio: 42017.0
+--------------------------------
+Concepto: EMPAQUE TAPA VALVULA TOYOTA HILUX (EMPTTOY)
+Referencia: FSMAXI80AMP
+Fecha: 2018/10/22
+Precio: 16807.0
+--------------------------------
+Concepto: FILTRO COMB LUV DMAX (HCX-94143479)
+Referencia: HCX-94143479
+Fecha: 2022/11/05
+Precio: 7875.0
+--------------------------------
+Concepto: BANDAS FRENO FORD RANGER BT50 DIESEL (BP1004/UCYR-26-38Z/58139/BS1004)
+Referencia: BP1004/UCYR-26-38Z/58139/BS1004
+Fecha: 2023/09/18
+Precio: 105000.0
+--------------------------------
+Concepto: PLUMILLA 24´ ACEDELCO GOLD HOMOLOGADA (PLU ACD 1935539)
+Referencia: PLU ACD 1935539
+Fecha: 2023/10/03
+Precio: 38940.0
+--------------------------------
+Concepto: DISCO DE FRENO TOYOTA HILUX 2.5 DIESEL (D1012)
+Referencia: D1012
+Fecha: 2022/09/10
+Precio: 108325.0
+--------------------------------
+Concepto: BUJE TIJERA INF TRAS VW AMAROK 2.0 (131563)
+Referencia: 131563
+Fecha: 2022/06/24
+Precio: 34844.0
+--------------------------------
+Concepto: BUJES DE TIJERA NISSAN LARGO (35-4023BJNSS)
+Referencia: 35-4023BJNSS
+Fecha: 2018/11/16
+Precio: 42016.75
+--------------------------------
+Concepto: CRUCETA 521 HD (CR-521HD)
+Referencia: CR-521HD
+Fecha: 2018/11/16
+Precio: 33613.5
+--------------------------------
+Concepto: CRUCETA CARDAN BULL 331 FOTON (BL331 /T3515378X)
+Referencia: BL331 /T3515378X
+Fecha: 2022/05/24
+Precio: 39309.0
+--------------------------------
+Concepto: PLUMILLA 18´ ACEDELCO GOLD HOMOLOGADA (PLU ACD 19375533)
+Referencia: PLU ACD 19375533
+Fecha: 2023/10/03
+Precio: 40031.0
+--------------------------------
+Concepto: ACEITE EUROL GLOBENCE SA 15W-40 (E100157-210L)
+Referencia: E100157 - 210L
+Fecha: 2023/07/25
+Precio: 15941.0
+--------------------------------
+Concepto: DEPOSITO AUX REFRIGERANTE VIGO (TARRO)
+Referencia: TARRO
+Fecha: 2018/12/22
+Precio: 134453.78
+--------------------------------
+Concepto: BUJES GS B/MET 30X25X70 (043-0.00)
+Referencia: 043-000-30X25X70
+Fecha: 2023/05/19
+Precio: 7590.0
+--------------------------------
+Concepto: CRUCETA GUN BL359 FOTON (CR-GUN359)
+Referencia: CR-GUN359
+Fecha: 2019/06/27
+Precio: 29411.8
+--------------------------------
+Concepto: KIT PRENSA DISCO VALVULINA TOYOTA HILUX (KIT VIGO)
+Referencia: KIT VIGO
+Fecha: 2019/02/28
+Precio: 571428.57
+--------------------------------
+Concepto: BUJE TIJERA INFERIOR NISSAN NP300 (BJINFD23)
+Referencia: HCH10695
+Fecha: 2021/04/28
+Precio: 37815.0
+--------------------------------
+Concepto: TERMINAL DIRECCION NISSAN FRONTIER D23 (TERMD2301)
+Referencia: TERMD2301
+Fecha: 2023/06/08
+Precio: 156937.0
+--------------------------------
+Concepto: AXIAL DIRECCION NISSAN FRONTIER D23 ORIG (485214KH0A)
+Referencia: 485214KH0A
+Fecha: 2022/10/25
+Precio: 254202.0
+--------------------------------
+Concepto: AMORTIGUADOR TRAS NISSAN D23 ORIG (AMRTRASD23)
+Referencia: AMRTRASD23
+Fecha: 2023/05/12
+Precio: 243025.0
+--------------------------------
+Concepto: BIELETA BARRA EST DEL NISSAN D23 R (54618-4KH0A)
+Referencia: 54618-4KH0A/K 800434
+Fecha: 2023/08/14
+Precio: 80067.0
+--------------------------------
+Concepto: ACEITE EUROL SYNTENCE 5W-30 (E100062-210L)
+Referencia: E100062 - 210L
+Fecha: 2023/07/25
+Precio: 23467.0
+--------------------------------
+Concepto: BIELETA B. ESTABILI DELAN DERE FORD
+Referencia: EB3C3052BA
+Fecha: 2022/08/19
+Precio: 0.0
+--------------------------------
+Concepto: FILTRO ACEITE CAMION INTERNATIONAL (BD7154)
+Referencia: BD7154
+Fecha: 2021/07/17
+Precio: 119000.0
+--------------------------------
+Concepto: GUARDAPOLVO EJE GENERICO (GPG-01)
+Referencia: GPG-01/111218A
+Fecha: 2019/03/26
+Precio: 8403.3
+--------------------------------
+Concepto: TUERCA PERNO FORD RANGER (TPF00219mm)
+Referencia: TPF00219mm
+Fecha: 2021/09/16
+Precio: 4000.0
+--------------------------------
+Concepto: BIELETA BARRA EST CHEVROLET/COLORADO RH (K717081)
+Referencia: K717081
+Fecha: 2023/10/17
+Precio: 35900.0
+--------------------------------
+Concepto: GUARDA POLVO LADO CAJA LUV DMAX 2015 (GPDMX15LC)
+Referencia: GPDMX15LC
+Fecha: 2019/04/23
+Precio: 16807.0
+--------------------------------
+Concepto: GUARDA POLVO LADO RUEDA LUV DMAX 2015 (GPDMX15LR)
+Referencia: GPDMX15LR
+Fecha: 2019/04/23
+Precio: 16807.0
+--------------------------------
+Concepto: BUJE TIJERA DEL VW AMAROK INF PEQ (2H0407183A+ /510359)
+Referencia: 2H0407183A+
+Fecha: 2023/05/23
+Precio: 40483.0
+--------------------------------
+Concepto: ROTULA SUP LUV DMAX RT50 (804022431923)
+Referencia: 804022431923/8980058270
+Fecha: 2022/07/15
+Precio: 45000.0
+--------------------------------
+Concepto: KIT EMBRAGUE MITSUBISHI SPORTERO 2.5 DIE (KTEML200)
+Referencia: DIS009
+Fecha: 2019/05/11
+Precio: 546218.5
+--------------------------------
+Concepto: RETENEDOR CIGUEÑAL L200 SPORTERO (RET01CG01)
+Referencia: RET01CG01
+Fecha: 2019/05/11
+Precio: 46218.5
+--------------------------------
+Concepto: AMORTIGUADOR DEL MONROE DAKAR DIMAX RT50 (5LD65358/TS65402)
+Referencia: 5LD65358/TS65402
+Fecha: 2023/07/11
+Precio: 261708.0
+--------------------------------
+Concepto: UREA MGREEN GALON (UMGREENGL)
+Referencia: UMGREENGL
+Fecha: 2023/06/26
+Precio: 26000.0
+--------------------------------
+Concepto: FILTRO ACEITE MOTOR NISSAN D23 ORG (15208BN30A)
+Referencia: 15208BN30A
+Fecha: 2023/11/02
+Precio: 45546.0
+--------------------------------
+Concepto: CORREA DE ACCESORIOS NISSAN FRONTIER D23 (7PK1750)
+Referencia: 7PK1750
+Fecha: 2023/10/20
+Precio: 54622.0
+--------------------------------
+Concepto: BUJE TIJERA SUP TOYOTA/FOTON (BS48664-OK-040C)
+Referencia: BS48664-OK-040C
+Fecha: 2022/05/10
+Precio: 33613.0
+--------------------------------
+Concepto: SOPORTE CAJA TOYOTA HILUX 2.5 DIESEL (SOPTYCJA01)
+Referencia: SOPTYCJA01
+Fecha: 2020/11/28
+Precio: 92437.0
+--------------------------------
+Concepto: GUAYA FRENO DE MANO TOYOTA IZQ (GFITO1)
+Referencia: GFITO1
+Fecha: 2022/08/02
+Precio: 250420.0
+--------------------------------
+Concepto: KIT EMBRAGUE TOYOTA HILUX 2.5CC DIESEL (KTEMGTY01)
+Referencia: KTEMGTY01
+Fecha: 2020/02/12
+Precio: 588235.0
+--------------------------------
+Concepto: BIELETA DIR BARRA EST L200 2.5 DIE (L) (BIEL200/4056A19)
+Referencia: BIEL200/4056A19
+Fecha: 2023/06/06
+Precio: 67227.0
+--------------------------------
+Concepto: TIJERA SUPERIOR DER. NISSAN FRONTIER D22 (TIJSPD22DER)
+Referencia: TIJSPD22DER
+Fecha: 2019/07/24
+Precio: 142857.0
+--------------------------------
+Concepto: PASTILLA FRENO NISSAN FRONTIER D23-JAC (SP4080/91411911BPR/9141/8906-1736BPR)
+Referencia: SP4080/91411911BPR/9141
+Fecha: 2023/08/28
+Precio: 87000.0
+--------------------------------
+Concepto: PASTILLAS FRENO KIA K2700 DIESEL (OK60A3328ZA)
+Referencia: K7072
+Fecha: 2019/08/20
+Precio: 71428.95
+--------------------------------
+Concepto: CILINDRO FRENO NISSAN FRONTIER D23 (44100-86G10)
+Referencia: 44100-86G10
+Fecha: 2023/07/26
+Precio: 65126.0
+--------------------------------
+Concepto: FILTRO AIRE ACOND FORD RANGER 2.2 3.2 (SFAAA3919N619 /ACP-120/HB3Z19N619MKT)
+Referencia: SFAAA3919N619/ACP-120/HB3Z19N619MKT
+Fecha: 2023/10/20
+Precio: 13500.0
+--------------------------------
+Concepto: CRUCETA CARDAN  GUM 21 CARDAN FOTON (CR-GUT1)
+Referencia: CR-GUT-21
+Fecha: 2023/06/26
+Precio: 21008.0
+--------------------------------
+Concepto: CORREA  ACCESORIOS MITSUBISHI L200 (CRRL200)
+Referencia: 8PK1805
+Fecha: 2019/08/28
+Precio: 67227.0
+--------------------------------
+Concepto: FILTRO COMB HINO FC9J EU V (FLP506 / 23304-EV470)
+Referencia: FLP506/23304-EV470
+Fecha: 2023/08/22
+Precio: 87000.0
+--------------------------------
+Concepto: HOJA BALLESTA IMA TRAS (22-097/1 FRR/1)
+Referencia: 001-4280/22-097/1 FRR/1
+Fecha: 2023/10/03
+Precio: 280353.0
+--------------------------------
+Concepto: PASTILLAS DE FRENO FOTON TUNLAND DC (7298LD / SP12222)
+Referencia: 7298LD / SP12222
+Fecha: 2022/05/10
+Precio: 84034.0
+--------------------------------
+Concepto: JUEGO PUNTILLAS L200- REVO (KP61-07)
+Referencia: KP61-07
+Fecha: 2023/03/14
+Precio: 28000.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR TOYOTA HILUX REVO HOM (HCAL040/AIP977)
+Referencia: HCAL040/AIP977
+Fecha: 2023/10/20
+Precio: 27000.0
+--------------------------------
+Concepto: DESINCRUSTANTE COIL CLEANER LIMPIEZA EX (01DC-001)
+Referencia: 01DC-001
+Fecha: 2023/02/24
+Precio: 12605.04
+--------------------------------
+Concepto: LIQUIDO DE FRENOS DOT4 LITRO (LIQ-FRE-1000C)
+Referencia: LIQ-FRE-1000C
+Fecha: 2023/07/13
+Precio: 22388.5
+--------------------------------
+Concepto: BIELETA DIR BARRA EST L200 2.5 DIE (R) (BIEL200TO01/4056A19)
+Referencia: BIEL200TO01/4056A19
+Fecha: 2023/06/06
+Precio: 67227.0
+--------------------------------
+Concepto: ACEITE EUROL EVOLENCE 0W-20 12L (E100128-12L)
+Referencia: E100128 - 1L
+Fecha: 2023/07/25
+Precio: 23619.0
+--------------------------------
+Concepto: PUNTA DE EJE LADO CAJA TOYOTA HILUX (TO82351153)
+Referencia: TO82351153
+Fecha: 2020/01/03
+Precio: 159664.0
+--------------------------------
+Concepto: GRAPAS GS ST (3/4*2 3/4*14)
+Referencia: 3/4*2 3/4*14/5/8
+Fecha: 2023/03/14
+Precio: 15940.0
+--------------------------------
+Concepto: BIELETA DIRECCION FORD RANGER 2020 (JB3C3052AA)
+Referencia: JB3C3052AA
+Fecha: 2022/07/01
+Precio: 137168.0
+--------------------------------
+Concepto: PERNO COMPLETO LUV DMAX 2.5 DIESEL 2018+ (1026PR)
+Referencia: 1026PR
+Fecha: 2020/02/12
+Precio: 8403.0
+--------------------------------
+Concepto: CILINDRO FRENO LUV DMAX RT50 (CL8973193000 / CR0903)
+Referencia: CL8973193000 / CR0903
+Fecha: 2022/08/01
+Precio: 48739.0
+--------------------------------
+Concepto: AMORTIGUADOR TRAS TOYOTA TOKIKO - KYB (E2979/ 44012/ 349015)
+Referencia: E2979/ 44012/ 349015
+Fecha: 2023/07/27
+Precio: 168067.0
+--------------------------------
+Concepto: AMORTIGUADOR TRAS TOKYKO MITSUBISHI L200 (2989)
+Referencia: 2989
+Fecha: 2023/10/04
+Precio: 193277.0
+--------------------------------
+Concepto: PASTILLAS TOYOTA HILUX ORIGINAL (04465-35290)
+Referencia: 04465-35290
+Fecha: 2020/04/24
+Precio: 100840.0
+--------------------------------
+Concepto: FILTRO AIRE TOYOTA HILUX 2.5 DIESEL  ORI (17801-OrigC-010)
+Referencia: BRID25570R16
+Fecha: 2020/04/24
+Precio: 42017.0
+--------------------------------
+Concepto: PASTILLAS FRENO LUV DMAX RT50 DIESEL (ACD000226-10298 / 89051676BPH)
+Referencia: ACD000226-10298 / 89051676BPH
+Fecha: 2023/05/08
+Precio: 80750.0
+--------------------------------
+Concepto: FILTRO COMB NISSAN D23 ALASKAN HOM (FLP472/HCP4720/SAKURA-EF18050/ACD000497)
+Referencia: FLP472/HCP4720/SAKURA-EF18050/ACD000497
+Fecha: 2023/10/20
+Precio: 28500.0
+--------------------------------
+Concepto: CRUCETA CARDAN CHEVROLET DMAX (T35153X)
+Referencia: T35153X
+Fecha: 2022/11/19
+Precio: 21008.0
+--------------------------------
+Concepto: ALETA G/FANGO TRASERO IZQUIERDO FORD (EB3Z16A550AM)
+Referencia: EB3Z16A550AM
+Fecha: 2022/08/17
+Precio: 174998.0
+--------------------------------
+Concepto: BANDAS FRENO NISSAN D23 4X4 ORIGINAL
+Referencia: D40604KH3A
+Fecha: 2022/08/19
+Precio: 401765.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR SPORTERO L200 ORIGINAL
+Referencia: 1500A098
+Fecha: 2022/08/02
+Precio: 67227.0
+--------------------------------
+Concepto: FILTRO ACEITE  SPORTERO L200 ORIGINAL (1230A186)
+Referencia: 1230A186
+Fecha: 2022/08/02
+Precio: 46218.0
+--------------------------------
+Concepto: FILTRO COMBUSTIBLE SPORTERO L200 ORIGINA (1770A233)
+Referencia: 1770A233
+Fecha: 2021/07/07
+Precio: 50420.0
+--------------------------------
+Concepto: SOPORTE MOTOR FORD RANGER 3.2 DER ORIG (UF9-39-05XA / AB3Z6038V/)
+Referencia: UF9-39-05XA / AB3Z6038V/
+Fecha: 2023/07/04
+Precio: 134359.0
+--------------------------------
+Concepto: BIELETA BARRA EST TRASERA NISSAN D23 (5626-14KH0A)
+Referencia: 5626-14KH0A
+Fecha: 2023/07/10
+Precio: 95546.0
+--------------------------------
+Concepto: MUÑECO DELANTERO TOYOTA (1022)
+Referencia: 4881060040TH
+Fecha: 2021/04/28
+Precio: 50420.0
+--------------------------------
+Concepto: TIJERA INFERIOR BT 50 FORD RANGER DER (K340420R)
+Referencia: K340420R
+Fecha: 2023/05/18
+Precio: 299800.0
+--------------------------------
+Concepto: FILTRO AIRE ACOND CHEVROLET COLORADO HOM (ACP153K)
+Referencia: ACP153K
+Fecha: 2023/02/16
+Precio: 18720.0
+--------------------------------
+Concepto: ACEITE EUROL TRANSYN 75W-90 GL 4/5 - 210 (E110075-210 L)
+Referencia: E110075 - 210 L
+Fecha: 2023/07/25
+Precio: 19277.0
+--------------------------------
+Concepto: CRUCETA CARDAN GUM 91 L200 (GUM91/T35153X/04M00602)
+Referencia: GUM91/T35153X/04M00602
+Fecha: 2023/10/31
+Precio: 18487.45
+--------------------------------
+Concepto: CRUCETA CARDAN GUM 93 L200 (CR-GUN-93)
+Referencia: CR-GUN-93
+Fecha: 2023/10/31
+Precio: 23529.4
+--------------------------------
+Concepto: SENSOR ABS TRAS FORD RANGER 3.2 DER (JB3Z2C190A/2233193)
+Referencia: JB3Z2C190A/2233193
+Fecha: 2023/11/23
+Precio: 461246.0
+--------------------------------
+Concepto: CORREA 17350 NISSAN (17350)
+Referencia: 17445
+Fecha: 2021/03/03
+Precio: 16807.0
+--------------------------------
+Concepto: BANDAS FRENO DIMAX R750 / MIT. L200 HOM (BAN-6605/BS380/BP-6605)
+Referencia: BAN-6605/BS380/BP-6605
+Fecha: 2023/10/20
+Precio: 125000.0
+--------------------------------
+Concepto: ANTIRUIDOS RT-50 /NP300/RANGER/L200 (AP3227/3385/3394)
+Referencia: AP3394-3
+Fecha: 2021/04/17
+Precio: 27900.0
+--------------------------------
+Concepto: BANDAS FRENO NISSAN D23 HOM (BPI003 /BAN1189/BS1003)
+Referencia: BPI003/BAN1189/BS1003
+Fecha: 2023/10/26
+Precio: 135294.0
+--------------------------------
+Concepto: GUARDAPOLVO MITSUBISHI L200 LADO CAJA (GP-MITSU-01LC)
+Referencia: GP-MITSU-01LC
+Fecha: 2021/05/13
+Precio: 12605.0
+--------------------------------
+Concepto: GUARDAPOLVO MITSUBISHI L200 LADO RUEDA (GP-MITSU-01LR)
+Referencia: GP-MITSU-01LR
+Fecha: 2021/06/23
+Precio: 17500.0
+--------------------------------
+Concepto: CRUCETA BL387 FOTON TUNLAND (BL387)
+Referencia: BL387
+Fecha: 2021/07/30
+Precio: 33613.0
+--------------------------------
+Concepto: FILTRO AIRE ACOND NORMAL TOYOTA HILUX (HCC52020)
+Referencia: HCC52020
+Fecha: 2021/07/30
+Precio: 11765.0
+--------------------------------
+Concepto: ACEITE EUROL SYNTENCE - 5W-30  12L (E100062 - 12L)
+Referencia: E100062 - 1L
+Fecha: 2023/07/25
+Precio: 28920.0
+--------------------------------
+Concepto: AMORTIGUADOR DEL FORD 3.2 >2020 ORG (JB3Z18124S)
+Referencia: JB3Z18124S
+Fecha: 2023/10/17
+Precio: 0.0
+--------------------------------
+Concepto: FILTRO COMB TOYOTA HILUX REVO (FLP476)
+Referencia: FLP476/F11141-SAKURA
+Fecha: 2023/11/16
+Precio: 60000.0
+--------------------------------
+Concepto: BRAZO COMPENSADOR MAZDA BT-50 (45490-39)
+Referencia: DIS014
+Fecha: 2021/07/30
+Precio: 168067.0
+--------------------------------
+Concepto: PASTILLAS DE FRENO TOYOTA 4.5 (FOR-D4367298)
+Referencia: FOR-D4367298
+Fecha: 2021/08/18
+Precio: 75630.0
+--------------------------------
+Concepto: COPELA /SOPORTE AMORTIGUADOR TOYOTA (48609-0K050)
+Referencia: 48609-0K050
+Fecha: 2022/03/01
+Precio: 59496.0
+--------------------------------
+Concepto: CORREA AIRE ACOND L200 (CR 4PK0860)
+Referencia: 4PK0860
+Fecha: 2023/04/17
+Precio: 16807.0
+--------------------------------
+Concepto: CORREA ACCESORIOS MITSUBISHI L200 (6PK1500)
+Referencia: 6PK1500
+Fecha: 2023/05/11
+Precio: 18487.0
+--------------------------------
+Concepto: ACEITE EUROL HPG EP 85W-140 GL5 - 5L (E110640-5L)
+Referencia: E110640 - 5L
+Fecha: 2023/07/25
+Precio: 15036.0
+--------------------------------
+Concepto: BOMBA HIDRAULICO SPORTERO (MR 9928)
+Referencia: MR 9928
+Fecha: 2023/03/30
+Precio: 630252.0
+--------------------------------
+Concepto: ACEITE EUROL FUSION 10W-40 (E100113-210L)
+Referencia: E100113 - 210L
+Fecha: 2023/07/25
+Precio: 14682.0
+--------------------------------
+Concepto: AMORTIGUADOR DEL KYB TOKIKO MITSUB L200 (340033 / 34 /Q3784)
+Referencia: 340033 / 34 /Q3784
+Fecha: 2023/07/27
+Precio: 235294.0
+--------------------------------
+Concepto: AXIAL DIRECCION FORD RANGER 2.2 3.2 HOM (EV 800418)
+Referencia: EV 800418/AB313280AB
+Fecha: 2022/06/28
+Precio: 84034.0
+--------------------------------
+Concepto: BOMBA PRINCIPAL EMBRAGUE TOYOTA VIGO (31410-34)
+Referencia: 31410-34
+Fecha: 2022/07/26
+Precio: 184874.0
+--------------------------------
+Concepto: AMORTIGUADOR TRAS MONROE MITSUBISHI L200 (34803)
+Referencia: 34803
+Fecha: 2022/08/24
+Precio: 142857.0
+--------------------------------
+Concepto: FILTRO ACEITE TOYOTA 2.5 HILUX - REVO OR (90915-20003/A178)
+Referencia: 90915-20003/A178
+Fecha: 2023/09/14
+Precio: 26000.0
+--------------------------------
+Concepto: BOCIN DELANTERO MITSUBISHI L200 CON RODA (BOC321201 + RODAM)
+Referencia: BOC321201 + RODAM
+Fecha: 2023/10/20
+Precio: 109244.0
+--------------------------------
+Concepto: CAJA DE DIRECCION NP300 (49001)
+Referencia: 49001
+Fecha: 2022/10/25
+Precio: 1344538.0
+--------------------------------
+Concepto: BOMBA HIDRAULICA TOYOTA 4X4 HILUX (BOMHID)
+Referencia: BOMHID
+Fecha: 2022/12/21
+Precio: 705882.0
+--------------------------------
+Concepto: TERMINAL ENCHUFE HEMBRA PIN (42100/KTC235014)
+Referencia: 42100/KTC235014
+Fecha: 2023/07/31
+Precio: 90.0
+--------------------------------
+Concepto: SOPORTE MOTOR MITSUBISHI NATIVA SPORTERO (012541)
+Referencia: 012541
+Fecha: 2023/06/06
+Precio: 75630.0
+--------------------------------
+Concepto: CAJA DIRECCION HIDRAULICA MIT. L200 (7169276)
+Referencia: 7169276
+Fecha: 2023/03/30
+Precio: 1134454.0
+--------------------------------
+Concepto: RADIADOR MITSUBISHI L200 2.5 DIESEL HOM (HRALAN)
+Referencia: HRALAN
+Fecha: 2023/03/30
+Precio: 588235.0
+--------------------------------
+Concepto: RODAMIENTO COMPRESOR L200 SPORTERO  (ROD 6303)
+Referencia: ROD 6303
+Fecha: 2023/03/30
+Precio: 29412.0
+--------------------------------
+Concepto: TIJERA SUP IZQ MITSUBISHI L200 (4010A14-IZQ)
+Referencia: 4010A14-IZQ
+Fecha: 2023/10/20
+Precio: 268908.0
+--------------------------------
+Concepto: BUJE AMORTIGUADOR TRAS. NISSAN D23 DIE (BUJAMTRD23)
+Referencia: BUJAMTRD23
+Fecha: 2023/04/21
+Precio: 25210.0
+--------------------------------
+Concepto: SOPORTE CAJA MITSUBISHI L200 2.5 DIESEL (SPT01CJ01)
+Referencia: SPT01CJ01
+Fecha: 2023/04/21
+Precio: 294118.0
+--------------------------------
+Concepto: AXIAL DIRECCION MITSUBISHI L200 HOMO (580267TH/44250-0)
+Referencia: 580267TH/44250-0
+Fecha: 2023/11/07
+Precio: 71428.7
+--------------------------------
+Concepto: KIT REPARTICION MITSUBISHI L200 HOM (KITMITL200HOM)
+Referencia: KITMITL200HOM
+Fecha: 2023/08/28
+Precio: 33445.0
+--------------------------------
+Concepto: GUAYA FRENO DEL LH MITSUBISHI SPORTERO (MN1024)
+Referencia: MN1024
+Fecha: 2023/05/04
+Precio: 151261.0
+--------------------------------
+Concepto: FLOTADOR DE GASOLINA TOYOTA 4.5 (AG10339)
+Referencia: AG10339
+Fecha: 2023/05/04
+Precio: 210084.0
+--------------------------------
+Concepto: EMPAQUE TAPA VALVULAS MITSUBISHI L200 SP (V555403)
+Referencia: V555403
+Fecha: 2023/05/04
+Precio: 21008.0
+--------------------------------
+Concepto: RETEN INYECTORES GRANDES MITSUBISHI SPOR (MN-1583)
+Referencia: MN-1583
+Fecha: 2023/05/04
+Precio: 12605.0
+--------------------------------
+Concepto: RETEN TAPA VALVULAS SPORTERO DIESEL 2.5 (1052A09)
+Referencia: 1052A09
+Fecha: 2023/05/04
+Precio: 12605.0
+--------------------------------
+Concepto: BUJE TIJERA INF HOM NISSAN FRONTIER D23 (48655-0)
+Referencia: 48655-0
+Fecha: 2023/09/19
+Precio: 50420.0
+--------------------------------
+Concepto: BUJE BARRA ESTAB  NISSAN D23 HOM (BJESTR2301)
+Referencia: BJESTR2301
+Fecha: 2023/05/08
+Precio: 25210.0
+--------------------------------
+Concepto: AMORTIGUADOR DEL KYB  TOYOTA VIGO (341372)
+Referencia: 341372
+Fecha: 2023/05/08
+Precio: 218487.0
+--------------------------------
+Concepto: BUJE TIJERA SUP HILUX REVO (48632-0)
+Referencia: 48632-0
+Fecha: 2023/09/19
+Precio: 48739.0
+--------------------------------
+Concepto: ESPIRAL DEL TOYOTA RUNNER/PRADO (48131-60)
+Referencia: 48131-60
+Fecha: 2023/09/19
+Precio: 210084.0
+--------------------------------
+Concepto: AMORTIGUADOR TRAS IZQ TOYOTA HILUX-REVO (E35117)
+Referencia: E35117
+Fecha: 2023/10/04
+Precio: 184874.0
+--------------------------------
+Concepto: AMORTIGUADOR DEL TOYOTA FORTUNER (40053-T)
+Referencia: 40053-T
+Fecha: 2023/10/04
+Precio: 252101.0
+--------------------------------
+Concepto: POLEA ACC BOMBA HIDRAULICA SPORTERO L200 (1341A05)
+Referencia: 1341A05
+Fecha: 2023/10/20
+Precio: 84034.0
+--------------------------------
+Concepto: POLEA ACC BOMBA AGUA SPORTERO L200 (1341A80)
+Referencia: 1341A08
+Fecha: 2023/10/20
+Precio: 126050.0
+--------------------------------
+Concepto: CORREA ACANALADA MITSUBISHI L200 (7PK1625)
+Referencia: 7PK1625
+Fecha: 2023/10/20
+Precio: 100840.0
+--------------------------------
+Concepto: TENSOR CORREA ACC MITSUBISHI L200 (1345A11)
+Referencia: 1345A11
+Fecha: 2023/10/20
+Precio: 210084.0
+--------------------------------
+Concepto: CORREA DIR HIDRAULICA MITSUBISHI (17320-MI/4451A141)
+Referencia: 17320-MI/4451A141
+Fecha: 2023/10/20
+Precio: 117647.0
+--------------------------------
+Concepto: BUJE BARRA ESTAB DIMAX RT50 (BUJE DIMAX)
+Referencia: BUJE-DMAX/NE-T-39
+Fecha: 2023/10/20
+Precio: 16807.0
+--------------------------------
+Concepto: POLEA TENSOR CORREA  ACCESO. NISSAN D23 (11925ED320)
+Referencia: 11925ED320/8170240
+Fecha: 2023/10/20
+Precio: 235294.0
+--------------------------------
+Concepto: DISCO DE FRENO NISSAN NP300/D23 (DISCNP300)
+Referencia: DF-0324/DISCNP300
+Fecha: 2023/08/28
+Precio: 185000.0
+--------------------------------
+Concepto: COMPRA DE VEHICULO
+Referencia: 22
+Fecha: 2021/03/12
+Precio: 38965127.0
+--------------------------------
+Concepto: LLANTA 265/70R16TPR04 LC01 X FIT AT LAU (LF692)
+Referencia: LF692
+Fecha: 2023/05/24
+Precio: 437564.0
+--------------------------------
+Concepto: MANGUERA FRENO RANGER DELANTERA IZQUIERD (EB3Z2078F)
+Referencia: EB3Z2078F
+Fecha: 2023/04/11
+Precio: 172855.0
+--------------------------------
+Concepto: MANGUERA FRENO RANGER DELANTERA DERECHA (EB3Z2078E)
+Referencia: EB3Z2078E
+Fecha: 2023/04/11
+Precio: 172855.0
+--------------------------------
+Concepto: STOP NS NP300 2017 RH/LH DEPO (00117)
+Referencia: 00117
+Fecha: 2023/10/31
+Precio: 252101.0
+--------------------------------
+Concepto: RELE HELLA C/SOP NEGRO (HELLA 933332361/51/71)
+Referencia: HELLA 933332361/51/71
+Fecha: 2022/01/25
+Precio: 5032.0
+--------------------------------
+Concepto: LLANTA 245-75-16 AT LAUFENN (LF711)
+Referencia: LF711
+Fecha: 2023/07/26
+Precio: 460000.0
+--------------------------------
+Concepto: SOPORTE BATERIA GENERICO (SOPTBAT)
+Referencia: SOPTBAT
+Fecha: 2020/01/16
+Precio: 0.0
+--------------------------------
+Concepto: BORNES PARA BATERIA BRONCE (BRNBAT-01)
+Referencia: BRNBAT-01
+Fecha: 2022/04/21
+Precio: 11632.0
+--------------------------------
+Concepto: PASTILLA FRENO DEL WOLKWAGEN CRAFTER 50 (CO-10289M-1)
+Referencia: CO-10289M-1
+Fecha: 2018/01/10
+Precio: 62214.0
+--------------------------------
+Concepto: PASTILLA FRENO TRAS WOLKWAGEN CRAFTER 50 (CO-10289M-2)
+Referencia: CO-10289M-2
+Fecha: 2018/01/10
+Precio: 56533.0
+--------------------------------
+Concepto: LLANTA HANKOOK 245-75 R 16 AT (HK711 245-75/R16)
+Referencia: HK711
+Fecha: 2021/04/16
+Precio: 431345.0
+--------------------------------
+Concepto: BATERIA MAC 27 1000 (27 1000M)
+Referencia: 17500
+Fecha: 2020/10/19
+Precio: 387915.0
+--------------------------------
+Concepto: BATERIA MAC 27R1000 (27R1000M)
+Referencia: A4053SP
+Fecha: 2019/03/28
+Precio: 306625.0
+--------------------------------
+Concepto: BOCIN DEL NISSAN FRONTIER D23/NP300 HOM (402024KJ3)
+Referencia: 402024KJ3
+Fecha: 2023/10/27
+Precio: 299800.0
+--------------------------------
+Concepto: ACEITE 15W40 CI4 - PLUS COEXITO GRANEL (COEX15W40)
+Referencia: COEX15W40 / 302221/55
+Fecha: 2023/07/13
+Precio: 13240.72
+--------------------------------
+Concepto: LLANTA 245-75-R16 MT CHAOYAN (CZ622 / CZ711)
+Referencia: CZ622 / CZ711
+Fecha: 2023/07/14
+Precio: 470588.24
+--------------------------------
+Concepto: BATERIA MAC 48IST1100 GOLD (MAC48IST1100 MG)
+Referencia: DF3855
+Fecha: 2020/10/19
+Precio: 302005.0
+--------------------------------
+Concepto: LLANTA 215 65 R16 HANKOOK CAMIONETA (HK621)
+Referencia: HK621
+Fecha: 2018/04/12
+Precio: 247200.0
+--------------------------------
+Concepto: LLANTA 205/75/17.5 DIRECCIONAL HANKOOK (HK687-AH15)
+Referencia: HK687-AH15
+Fecha: 2019/05/25
+Precio: 466554.0
+--------------------------------
+Concepto: BATERIA 34ST950 MAC GOLD (34ST3950M)
+Referencia: 34ST3950M
+Fecha: 2021/11/10
+Precio: 265685.0
+--------------------------------
+Concepto: LLANTA 9.5 R17.5 HANKOOK TRACCION (HK1062A)
+Referencia: HK1062A
+Fecha: 2021/11/23
+Precio: 673110.0
+--------------------------------
+Concepto: BATERIA AUTO MAC (4D1500MC)
+Referencia: 4D1500MC
+Fecha: 2023/07/29
+Precio: 686884.0
+--------------------------------
+Concepto: LIQUIDO FRENOS PINTA COEXITO (LIQ-FRE-290C)
+Referencia: LIQ-FRE-290C
+Fecha: 2023/01/12
+Precio: 6401.2
+--------------------------------
+Concepto: PLUMILLA 18´ ACEDELCO HOMOLOGADA (PLU ACD 19101993)
+Referencia: PLU ACD 19101993
+Fecha: 2023/11/14
+Precio: 18047.0
+--------------------------------
+Concepto: RETENEDOR RDA TRS HINO BUS BUSETA FURGON (69100/127-147-11)
+Referencia: 69100/127-147-11
+Fecha: 2023/07/21
+Precio: 23633.0
+--------------------------------
+Concepto: LLANTA  HANKOOK 235/75 R17.5 PR14 DH 35 (HK1028)
+Referencia: HK1028
+Fecha: 2018/09/07
+Precio: 581513.0
+--------------------------------
+Concepto: FILTRO ACEITE RENAULT DUSTER (OLP-XT055)
+Referencia: OLP-XT055
+Fecha: 2023/09/21
+Precio: 12300.0
+--------------------------------
+Concepto: LLANTA HANKOOK 215/75R17 5 PR 12 AH30 (HK1057-AH30)
+Referencia: HK1057-AH30
+Fecha: 2019/11/12
+Precio: 437564.0
+--------------------------------
+Concepto: LLANTA HANKOOK 9 5 R17.5 PR16 DH35 (HK1062-DH35)
+Referencia: HK1062-DH35
+Fecha: 2022/03/15
+Precio: 782000.0
+--------------------------------
+Concepto: BATERIA SERVICIO TALLER. (ST31H1200)
+Referencia: ST31H1200
+Fecha: 2022/08/03
+Precio: 245875.0
+--------------------------------
+Concepto: BATERIA AUTO MAC 800 AMP CA 22 °C (24800M)
+Referencia: C17630
+Fecha: 2019/06/27
+Precio: 147840.0
+--------------------------------
+Concepto: AGUA DEMINERALIZADA BATERIA PINTA (AAT-DO72-01)
+Referencia: AAT-DO72-01
+Fecha: 2022/05/24
+Precio: 22547.0
+--------------------------------
+Concepto: BATERIA 48IST 1150-MACK GOLD (48IST1150-MG)
+Referencia: 48IST1150-MG
+Fecha: 2023/11/02
+Precio: 348908.0
+--------------------------------
+Concepto: SENSOR ABS DEL DERECHO RANGER 3.2 (DB392C204B)
+Referencia: DB392C204B
+Fecha: 2023/09/25
+Precio: 386941.0
+--------------------------------
+Concepto: RESORTES BANDAS FRENO MITSUB. L200 (R-5142)
+Referencia: R-5142/GF-4148
+Fecha: 2023/10/06
+Precio: 22689.0
+--------------------------------
+Concepto: ACEITE TRANS 80W90 GAL ESP (3030105  VALV)
+Referencia: DIS018
+Fecha: 2019/03/07
+Precio: 28899.0
+--------------------------------
+Concepto: BATERIA 27 1250 MG MAC GOLD (271250-MG)
+Referencia: 271250-MG
+Fecha: 2023/11/02
+Precio: 432968.0
+--------------------------------
+Concepto: BATERIA 27R 1250MG MAC GOLD (27R1250-MG)
+Referencia: 27R1250-MG
+Fecha: 2023/11/02
+Precio: 432968.0
+--------------------------------
+Concepto: LLANTA 9.5 R17.5 16 AH35 DIRECC.HANKOOK (HK1048A)
+Referencia: HK1048A
+Fecha: 2023/01/03
+Precio: 833866.0
+--------------------------------
+Concepto: REFRIGERANTE VERDE CUARTO (3601-6)
+Referencia: 3601-6
+Fecha: 2023/01/03
+Precio: 4258.67
+--------------------------------
+Concepto: ACEITE VALVULINA 80W90 CUARTO (80W90)
+Referencia: HGP EP85W-140
+Fecha: 2019/08/22
+Precio: 8172.5
+--------------------------------
+Concepto: ROTULA INF. NISSAN NP300 D23  ORIG (401604KH0A)
+Referencia: 401604KH0A
+Fecha: 2022/07/26
+Precio: 103361.0
+--------------------------------
+Concepto: SENSOR EJE LEVAS RANGER 3.2 (6C1112K073AC)
+Referencia: 6C1112K073AC
+Fecha: 2022/08/03
+Precio: 161514.0
+--------------------------------
+Concepto: GRASA CHASIS 2#3 35LBS COEXITO (402011/35)
+Referencia: 402011/35
+Fecha: 2023/10/09
+Precio: 235500.0
+--------------------------------
+Concepto: ACEITE TRANSMISION CAJA ATF DEXRON III (ATF-DEXRON III)
+Referencia: ATF-DEXRON III
+Fecha: 2022/01/14
+Precio: 9591.57
+--------------------------------
+Concepto: GRASA COMPLEJO LITIO EP2 CX24 LBS (403042/24)
+Referencia: 403042/24
+Fecha: 2022/03/26
+Precio: 10715.83
+--------------------------------
+Concepto: LLANTA 215/75/R17.5 PR16 DH35 HK CAMION (HK1093A)
+Referencia: HK1093A
+Fecha: 2020/12/16
+Precio: 484874.0
+--------------------------------
+Concepto: ACEITE HIDRAULICO 68 GLOBAL (ISO68 CUARTO)
+Referencia: ISO68 CUARTO
+Fecha: 2023/10/31
+Precio: 0.0
+--------------------------------
+Concepto: FILTRO COMB SEPARADOR BUS YUTONG (FS36253)
+Referencia: FS36253
+Fecha: 2023/04/30
+Precio: 45600.0
+--------------------------------
+Concepto: ROTULA INF DER/IZQ NISSAN ORG (ROTWA152AU)
+Referencia: VA152/LD15/ROTWA152AU
+Fecha: 2023/08/29
+Precio: 63479.0
+--------------------------------
+Concepto: CORREA 17300 NISSAN FRONTIER D22 A/A (17300)
+Referencia: 17300
+Fecha: 2023/05/11
+Precio: 15126.0
+--------------------------------
+Concepto: LLANTA 265/65/R17 AT RF11 HANKOOK (HK241-RF11)
+Referencia: HK241-RF11
+Fecha: 2022/12/20
+Precio: 521008.0
+--------------------------------
+Concepto: BALINERA COEXITO 60201 (60201-2RS)
+Referencia: 6201-2RS
+Fecha: 2020/10/19
+Precio: 3193.0
+--------------------------------
+Concepto: BALINERA COEXITO 6203 (CO6203-2RS)
+Referencia: CO6203-2RS
+Fecha: 2023/05/08
+Precio: 3100.0
+--------------------------------
+Concepto: LLANTA 195/75/R16 PR08 LAUFEN / VAN (LF108)
+Referencia: LF108
+Fecha: 2021/11/10
+Precio: 0.0
+--------------------------------
+Concepto: ACEITE MOBIL 1350 (1350)
+Referencia: 1350
+Fecha: 2023/06/26
+Precio: 20250.0
+--------------------------------
+Concepto: LLANTA 205/75/17.5 TRACCION HANKOOK (HK685A)
+Referencia: HK685A
+Fecha: 2020/09/16
+Precio: 481968.0
+--------------------------------
+Concepto: BATERIA AUTO MAC GOLD 750 (NS60ZL750)
+Referencia: BX89
+Fecha: 2020/12/16
+Precio: 255575.0
+--------------------------------
+Concepto: LLANTA LT245-75-R16.10 RT05 HANKOOK (HK622-RT05)
+Referencia: HK622-RT05
+Fecha: 2023/10/24
+Precio: 599916.0
+--------------------------------
+Concepto: REFRIGERANTE GLICOL ROJO GALON (CO-136)
+Referencia: CO-136
+Fecha: 2023/05/10
+Precio: 34760.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR HINO FC9J 2021 EV (CFS 007)
+Referencia: CFS 007
+Fecha: 2023/10/30
+Precio: 321029.0
+--------------------------------
+Concepto: ACEITE 80W-90 TRANSMISION COEXITO (80W90 COEXITO)
+Referencia: 80W90 COEXITO / 303010/55
+Fecha: 2023/07/13
+Precio: 12699.51
+--------------------------------
+Concepto: LLANTA 235/75/R17.5 TRACCION CHAOYANG (CZ1101)
+Referencia: CZ1101
+Fecha: 2023/08/29
+Precio: 453781.0
+--------------------------------
+Concepto: LLANTA 265/65/R17 MT CNFS (CNFSMTR17)
+Referencia: CNFSMTR17
+Fecha: 2021/11/23
+Precio: 558823.0
+--------------------------------
+Concepto: BATERIA MACK SILVER LN31200 MC (LN31200MC)
+Referencia: LN31200MC
+Fecha: 2023/11/23
+Precio: 426890.0
+--------------------------------
+Concepto: SUMINISTRO BATERIA TH (S-TH)
+Referencia: 16
+Fecha: 2022/03/22
+Precio: 0.0
+--------------------------------
+Concepto: LLANTA 235/75 R17.5 PR14 CM988 CHAOYANG (CZ1038)
+Referencia: CZ1038
+Fecha: 2023/07/13
+Precio: 572857.0
+--------------------------------
+Concepto: ACEITE 15W40 MOBIL DELVAC MX GALON
+Referencia: MX15W40GL
+Fecha: 2022/09/05
+Precio: 0.0
+--------------------------------
+Concepto: LLANTA 9 5 R17.5 CAMION TRACCIO CHAOYANG (CZ1100)
+Referencia: CZ1100
+Fecha: 2023/08/29
+Precio: 566639.0
+--------------------------------
+Concepto: LLANTA 195/55R15 PRA HANKOOK (HK 164-K120)
+Referencia: HK 164-K120
+Fecha: 2022/06/08
+Precio: 242016.0
+--------------------------------
+Concepto: MOTOR ELEVAVIDRIO DEL. IZQ FORD RANGER (6CP114553L1B)
+Referencia: 6CP114553L1B
+Fecha: 2022/11/01
+Precio: 610834.0
+--------------------------------
+Concepto: LLANTA 255/70R16T HANKOOK (HK702RF11)
+Referencia: HK702RF11
+Fecha: 2022/09/06
+Precio: 488151.0
+--------------------------------
+Concepto: UREA ADBLUE EUROL (E301200-5L)
+Referencia: E301200 - 5L
+Fecha: 2023/07/25
+Precio: 8674.0
+--------------------------------
+Concepto: LLANTA 215/75R17.5 MD738 CHAOYANG TRAC (CZ1093)
+Referencia: CZ1093
+Fecha: 2023/06/27
+Precio: 395000.0
+--------------------------------
+Concepto: REFRIGERANTE COEXITO ANTICORROSIVO VERDE (CO130)
+Referencia: CO130
+Fecha: 2022/10/03
+Precio: 8622.0
+--------------------------------
+Concepto: LLANTA 205/65R15 HPR04 LH41 G FIT AS LAU (LF599)
+Referencia: LF599
+Fecha: 2022/10/25
+Precio: 245883.0
+--------------------------------
+Concepto: LLANTA 295/80R/22.5 DIRECC CHAOYANG (CZ1098)
+Referencia: CZ1098
+Fecha: 2023/06/27
+Precio: 1033025.0
+--------------------------------
+Concepto: LLANTA 295/80R/22.5 PR18 TRACC CHAOYANG (CZ1103)
+Referencia: CZ1103
+Fecha: 2023/07/13
+Precio: 970672.0
+--------------------------------
+Concepto: BALINERA COEXITO 6202 (CO6202-2RS)
+Referencia: CO6202-2RS
+Fecha: 2023/05/08
+Precio: 2439.0
+--------------------------------
+Concepto: BALINERA COEXITO 6205 (CO6205-2RS)
+Referencia: CO6205-2RS
+Fecha: 2023/05/08
+Precio: 5610.0
+--------------------------------
+Concepto: BALINERA COEXITO 6303 (CO6303-2RS)
+Referencia: CO6303-2RS
+Fecha: 2023/05/08
+Precio: 5235.0
+--------------------------------
+Concepto: ANALIZADOR BATERIA 12 VOL.DHC (BT222)
+Referencia: BT222
+Fecha: 2023/07/31
+Precio: 180000.0
+--------------------------------
+Concepto: LLANTA LT265/70R17/RT05 10PR HANKOOK (HK814-RT0)
+Referencia: HK814-RT0
+Fecha: 2023/10/09
+Precio: 704118.0
+--------------------------------
+Concepto: BATERIA MAC SILVER NS60S700M (NS60S700M)
+Referencia: NS60S700M
+Fecha: 2023/11/02
+Precio: 255797.0
+--------------------------------
+Concepto: LLANTA CAMION 9.5 R17 129L DSR116 16PR (CH1048)
+Referencia: CH1048
+Fecha: 2023/11/09
+Precio: 443613.0
+--------------------------------
+Concepto: FILTRO COMB FOTON TUNLAND (FLP467/HCP4870)
+Referencia: FLP467/HCP4870
+Fecha: 2022/09/14
+Precio: 89034.0
+--------------------------------
+Concepto: HOJA PRINCIPAL TRASERA NHR REWARD (98001543)
+Referencia: 98001543
+Fecha: 2020/01/18
+Precio: 131944.0
+--------------------------------
+Concepto: BUJE MUELLE TEFLON CORTO 40mm (BJECO40mm)
+Referencia: BJECO40mm
+Fecha: 2021/06/28
+Precio: 4500.0
+--------------------------------
+Concepto: TORNILLO CENTRAL MUELLE DELANTERO FRR (009-000)
+Referencia: 009-000
+Fecha: 2023/03/14
+Precio: 6077.0
+--------------------------------
+Concepto: TUERCA TORNILLO CENTRAL FRR 1/2 ALTA (008-0.00)
+Referencia: 008-0.00
+Fecha: 2023/03/14
+Precio: 1844.0
+--------------------------------
+Concepto: HOJA PRINCIPAL DELANTERA CHEV. FRR IMAL (001-42.80)
+Referencia: 001-42.80
+Fecha: 2020/05/29
+Precio: 114266.0
+--------------------------------
+Concepto: ACEITE 5W-30 SHELL HELIX ULTRA SINTETICO (5W30 SHELL)
+Referencia: 5W30 SHELL
+Fecha: 2022/12/13
+Precio: 0.0
+--------------------------------
+Concepto: FILTRO COMB MITSUBHISHI FUSO CANTER (R90T)
+Referencia: R90T
+Fecha: 2023/07/04
+Precio: 60000.0
+--------------------------------
+Concepto: HOJA SEGUNDA VUELTA NISSAN FRONTIER (HRSEGNSS)
+Referencia: HRSEGNSS
+Fecha: 2018/08/24
+Precio: 54858.0
+--------------------------------
+Concepto: TORNILLO CTRAL MUELLE NISSAN FRONT 2.5 D (008-001)
+Referencia: 008-001
+Fecha: 2020/01/18
+Precio: 1791.0
+--------------------------------
+Concepto: AMORTIGUADOR DEL MONROE KENWORT T800 (TS74454/TS74003)
+Referencia: TS74454/TS74003
+Fecha: 2023/07/11
+Precio: 318214.0
+--------------------------------
+Concepto: HOJA PRINCIPAL TRASERA FRR IMAL (22-0971)
+Referencia: 22-0971
+Fecha: 2020/05/29
+Precio: 155401.0
+--------------------------------
+Concepto: FILTRO COMB TRAMPA FOTON AUMARK (HCX8019G)
+Referencia: HCX8019G
+Fecha: 2023/03/16
+Precio: 76612.5
+--------------------------------
+Concepto: PASTILLAS FRENO FORD RANGER 3.2 GEN (SP1596HIQ/8905FF-INCB/AB3Z22001B-BSH)
+Referencia: SP1596HIQ/8905FF-INCB/AB3Z22001B-BSH
+Fecha: 2023/11/14
+Precio: 157597.0
+--------------------------------
+Concepto: TUERCA ALTA IMPO TORNILLERIA-GS (5-16/TA-5/16-RF)
+Referencia: 5-16/TA-5/16-RF
+Fecha: 2023/07/21
+Precio: 313.0
+--------------------------------
+Concepto: ACEITE EUROL GEO-MAX SA 10W-30 (E100168-210L)
+Referencia: E100168 - 210L
+Fecha: 2023/07/25
+Precio: 16752.0
+--------------------------------
+Concepto: TUERCA ALTA PARA GRAPA MUELLE (TUERCAMLL)
+Referencia: TUERCAMLL
+Fecha: 2022/04/18
+Precio: 1266.0
+--------------------------------
+Concepto: GRAPA MUELLE  NHR NPR NQR (GRAPA MUELLE NHR/NPR)
+Referencia: GRAPA MUELLE NHR/NPR
+Fecha: 2021/03/03
+Precio: 3703.0
+--------------------------------
+Concepto: ACEITE EUROL BREAKE FLUID DOT4 12L (E801400-12L)
+Referencia: E801400 - 1L
+Fecha: 2023/07/25
+Precio: 21448.0
+--------------------------------
+Concepto: FILTRO AIRE FOTON AUMARK (SFAAF26509)
+Referencia: SFAAF26509
+Fecha: 2023/01/14
+Precio: 35915.0
+--------------------------------
+Concepto: ACEITE 5W40 SHELL HELIX SINTETICO CUARTO (HELIX 5W40)
+Referencia: HELIX 5W40
+Fecha: 2023/03/08
+Precio: 50000.0
+--------------------------------
+Concepto: ACEITE 5W40 SHELL HELIX SINTETICO GALON (HELIX 5W40 GALON)
+Referencia: HELIX 5W40 GALON
+Fecha: 2022/12/13
+Precio: 193000.0
+--------------------------------
+Concepto: SENSOR ABS VW AMAROK 2.0 HOM D.I. (WHT003856-7D / 2H0927807-
+Referencia: WHT003856-7D / 2H0927807-8A
+Fecha: 2022/07/15
+Precio: 84034.0
+--------------------------------
+Concepto: PASTILLA FRENO VOLKSWAGUEN AMAROK HOM (8767)
+Referencia: 8767BPH
+Fecha: 2023/07/21
+Precio: 162224.0
+--------------------------------
+Concepto: SOPORTE MUELLE DELANTERO BUS FRR (0132000)
+Referencia: 0132000
+Fecha: 2021/09/16
+Precio: 72612.0
+--------------------------------
+Concepto: LIQUIDO DE FRENOS EUROL BRAKE DOT4 (E801400-250ML)
+Referencia: DIS012
+Fecha: 2022/09/06
+Precio: 11003.0
+--------------------------------
+Concepto: AMORTIGUADOR DELANTERO FRR BUS (099000)
+Referencia: 099000
+Fecha: 2021/09/16
+Precio: 224957.0
+--------------------------------
+Concepto: MANGUERA AIRE INTERCOLER FORD 3.2  (AB3Z6K683E/AB396K683E)
+Referencia: AB3Z6K683E/AB396K683E
+Fecha: 2023/09/02
+Precio: 672269.0
+--------------------------------
+Concepto: PASTILLAS DE FRENO (9141)
+Referencia: 9141
+Fecha: 2022/09/06
+Precio: 103484.0
+--------------------------------
+Concepto: HOJA PRINCIPAL TRASERA HINO FC4J (TRAS 195-4280)
+Referencia: TRAS 195-4280
+Fecha: 2023/06/29
+Precio: 502082.0
+--------------------------------
+Concepto: HOJA SEGUND VUELTA TRASERA HINO FC4J (TRAS-SV 195-4280)
+Referencia: TRAS-SV 195-4280
+Fecha: 2023/07/18
+Precio: 427418.0
+--------------------------------
+Concepto: FILTRO COMB  MITSUBISHI FUSO FI (A70401SP / A4004770401)
+Referencia: A70401SP / A4004770401
+Fecha: 2023/07/04
+Precio: 36000.0
+--------------------------------
+Concepto: PASTILLAS FRENO MITSUBISHI SPORTERO L200 (SP1361 HI-Q/10296FF)
+Referencia: SP1361 HI-Q/10296FF/3530-BPTC
+Fecha: 2023/07/21
+Precio: 131279.0
+--------------------------------
+Concepto: HOJA BALLESTA IMA TRASERA (001-4280/22-097/2 FRR/2)
+Referencia: 001-4280/22-097/2 FRR/2
+Fecha: 2023/10/03
+Precio: 229179.0
+--------------------------------
+Concepto: TUERCA ALTA RO-TORNILLERIA- GS (3/4)
+Referencia: 3/4
+Fecha: 2023/03/14
+Precio: 1848.0
+--------------------------------
+Concepto: GRASERA RECTA 3/8 O 1/8 TORNILERRIA GS (G10/5251ML0010)
+Referencia: G10/5251ML0010
+Fecha: 2023/02/25
+Precio: 1334.0
+--------------------------------
+Concepto: TRASERA PBC PARABOLICAS IMA FORD RANGER (43-085/1PBC)
+Referencia: 43-085/1PBC
+Fecha: 2023/07/11
+Precio: 373205.0
+--------------------------------
+Concepto: BUJE MUELLE HOMOLOGADO (9736)
+Referencia: 9736
+Fecha: 2023/03/14
+Precio: 9666.0
+--------------------------------
+Concepto: HOJA BALLESTA IMA DEL (22-098/1)
+Referencia: 22-098/1
+Fecha: 2023/03/14
+Precio: 206142.0
+--------------------------------
+Concepto: BALANCIN MUELLE DELANTERO NHR/ NKR (105000)
+Referencia: 105000
+Fecha: 2023/05/19
+Precio: 60354.0
+--------------------------------
+Concepto: AMORTIGUADOR TRAS GABRIEL DMAX RT50 (3492221 / 69497)
+Referencia: 3492221 / 69497
+Fecha: 2023/07/11
+Precio: 86290.0
+--------------------------------
+Concepto: AMORTIGUADOR DEL GABRIEL LUV DMAX RT50 (G51075)
+Referencia: G51075
+Fecha: 2023/07/11
+Precio: 133878.0
+--------------------------------
+Concepto: BLOQ FREN AIRE MCBLOCK MITSUBISHI CANTER (9134XX/M-9134/011-3000)
+Referencia: 9134XX/M-9134/011-3000
+Fecha: 2023/07/21
+Precio: 280779.0
+--------------------------------
+Concepto: BUJES GS B/MET 36X30X70 (043-000-36X30X70)
+Referencia: 043-000-36X30X70
+Fecha: 2023/07/18
+Precio: 14334.0
+--------------------------------
+Concepto: LUBRICANTE SUPERLUB AFLOJATODO (LB8608/294134)
+Referencia: LB8608/294134
+Fecha: 2023/07/21
+Precio: 18245.0
+--------------------------------
+Concepto: BUJE CHEVROLET LUV TRAS-BUJES-GS (BJ-9304)
+Referencia: BJ-9304
+Fecha: 2023/07/21
+Precio: 1834.0
+--------------------------------
+Concepto: SILICONA GRIS LOCTITE 5699 70ML (SI5699/475944)
+Referencia: SI5699/475944
+Fecha: 2023/07/21
+Precio: 22797.0
+--------------------------------
+Concepto: BLOQ FREN HINO BUSETON TRAS FC4J (011-30.00/9217D-MC-BLOCK)
+Referencia: 011-30.00/9217D-MC-BLOCK
+Fecha: 2023/09/11
+Precio: 108596.0
+--------------------------------
+Concepto: ABRAZADERA-MISCELANEA-MAH (045-000/2 3/4X3)
+Referencia: 045-000/2 3/4X3
+Fecha: 2023/10/03
+Precio: 6240.0
+--------------------------------
+Concepto: TRA-PROM. PROD. IMAL-IMA (995-000/22-097/9 FRR/9)
+Referencia: 995-000/22-097/9 FRR/9
+Fecha: 2023/10/03
+Precio: 60418.0
+--------------------------------
+Concepto: HOJA TRAS BALLESTA IMA FRR (001-4280/22-097/4 FRR/4)
+Referencia: 001-4280/22-097/4 FRR/4
+Fecha: 2023/10/03
+Precio: 141253.0
+--------------------------------
+Concepto: HOJA TRAS BALLESTA IMA FRR (001-4280/22-097/5 FRR/5)
+Referencia: 001-4280/22-097/5 FRR/5
+Fecha: 2023/10/03
+Precio: 130045.0
+--------------------------------
+Concepto: HOJA TRASBALLESTA IMA FRR (001-4280/22-097/6 FRR/6)
+Referencia: 001-4280/22-097/6 FRR/6
+Fecha: 2023/10/03
+Precio: 107082.0
+--------------------------------
+Concepto: HOJA TRAS BALLESTA IMA FRR (001-4280/22-097/7 FRR/7)
+Referencia: 001-4280/22-097/7 FRR/7
+Fecha: 2023/10/03
+Precio: 139534.0
+--------------------------------
+Concepto: TRA-PROM. PROD. IMAL-IMA (995-0007/22-097/ FRR/10)
+Referencia: 995-0007/22-097/ FRR/10
+Fecha: 2023/10/03
+Precio: 49013.0
+--------------------------------
+Concepto: 1/2*10 CT G8-CENTRAL-GS (009-000/1/2*10 CT G8-CENTRAL-GS)
+Referencia: 009-000/1/2*10 CT G8-CENTRAL-GS
+Fecha: 2023/10/03
+Precio: 7154.0
+--------------------------------
+Concepto: HOJA BALLESTA IMA TRASERA (001-4280/22-129/A2D 98064449 FRR)
+Referencia: 001-4280/22-129/A2D 98064449 FRR
+Fecha: 2023/10/03
+Precio: 216309.0
+--------------------------------
+Concepto: 3/8 TUERCA HEX RO G2-TORNILLERIA-GS (008-000/3/8 TUERCA HEX-RO G2-TORNILL)
+Referencia: 008-000/3/8 TUERCA HEX-RO G2-TORNILL
+Fecha: 2023/10/03
+Precio: 420.0
+--------------------------------
+Concepto: 3/8X1 1/4 TORNILLO AVELLAN RDO-GS (008-000/3/8X1 1/4 TORNILLO AVELLAN RDO-G)
+Referencia: 008-000/3/8X1 1/4 TORNILLO AVELLAN RDO-G
+Fecha: 2023/10/03
+Precio: 1678.0
+--------------------------------
+Concepto: FILTRO COMB INTERNATIONAL 7600 (FS19624)
+Referencia: FS19624
+Fecha: 2023/07/04
+Precio: 55000.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR INTER 7600 INTERNO ORG (P613337 / A5441S)
+Referencia: P613337/A5441S
+Fecha: 2023/08/28
+Precio: 150000.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR INTER 7600 EXTERNO ORG (P628329 /A5441)
+Referencia: P628329 /A5441
+Fecha: 2023/08/28
+Precio: 250000.0
+--------------------------------
+Concepto: FILTRO COMB SEPARADOR AGUA INTER 7600 (WF2122 /WF2071 /BW5071)
+Referencia: WF2122/WF2071/BW5071/WC-5705
+Fecha: 2023/04/18
+Precio: 55000.0
+--------------------------------
+Concepto: FILTRO COMBUSTIBLE HINO 500 FC (HCX 7170 G)
+Referencia: HCX 7170 G
+Fecha: 2022/03/23
+Precio: 32200.0
+--------------------------------
+Concepto: GAS REFRIGERANTE  R134A LATA DUPONT (GAS R134A LATA)
+Referencia: GAS R134A LATA/2328
+Fecha: 2023/11/07
+Precio: 12184.87
+--------------------------------
+Concepto: ACEITE  COMPRESOR A. A. MOGA / VERDE (MOG100V)
+Referencia: MOG100V
+Fecha: 2023/05/09
+Precio: 29412.0
+--------------------------------
+Concepto: CORREA BX35 HIDRAULICO BUS WCS094 (CORBX35)
+Referencia: C17480
+Fecha: 2019/07/15
+Precio: 29411.92
+--------------------------------
+Concepto: BRAZO DE DIRECCION CHEV NQR (BRZNQR)
+Referencia: BRZNQR
+Fecha: 2023/08/01
+Precio: 319327.0
+--------------------------------
+Concepto: HORQUILLA CLUTCH ISUZU NKR 4JB1T CON T (8970337010)
+Referencia: 8970337010
+Fecha: 2023/07/05
+Precio: 56617.0
+--------------------------------
+Concepto: BARRA TORCION TRASERA NISSAN D23 (562305JJ0A)
+Referencia: 562305JJ0A
+Fecha: 2023/07/10
+Precio: 660168.0
+--------------------------------
+Concepto: MANGUERA  ADMISION AIRE INTERCOOLER D23 (144634KV0A)
+Referencia: 144634KV0A
+Fecha: 2022/06/29
+Precio: 406748.0
+--------------------------------
+Concepto: MANGUERA  ENTRADA  AIRE INTERCOOLER D23 (144634KV2A)
+Referencia: 144634KV2A
+Fecha: 2023/03/18
+Precio: 939916.0
+--------------------------------
+Concepto: GUAYA FRENO ESTACION DER. NISSAN D23 (365304KH0B)
+Referencia: 365304KH0B
+Fecha: 2019/10/11
+Precio: 138489.0
+--------------------------------
+Concepto: GUAYA FRENO ESTACION IZQ NISSAN D23 (365314KH0B)
+Referencia: 365314KH0B
+Fecha: 2019/10/11
+Precio: 154416.0
+--------------------------------
+Concepto: CORREA DIRECCION HIDRAULICA NISSAN D23 (11950EB70A /4PK820)
+Referencia: 11950EB70A /4PK820
+Fecha: 2023/05/12
+Precio: 36975.0
+--------------------------------
+Concepto: BARRA ARTICU INFERIOR DIRECCION D23 DIES (480804KD0A)
+Referencia: CO6301-2RS
+Fecha: 2020/02/12
+Precio: 468813.0
+--------------------------------
+Concepto: BUJE BARRA DE TORSION NISSAN D23 (546134HH2A)
+Referencia: 546134HH2A
+Fecha: 2020/05/28
+Precio: 16303.0
+--------------------------------
+Concepto: SWTICH ELEVAVIDRIOS DERECHO NISSAN D23 (254114JA0A)
+Referencia: 254114JA0A
+Fecha: 2020/07/28
+Precio: 176555.0
+--------------------------------
+Concepto: BOCIN DELANTERO NISSAN D23/NP300 ORIG (402024KH3A)
+Referencia: 402024KH3A
+Fecha: 2022/07/25
+Precio: 310000.0
+--------------------------------
+Concepto: SOPORTE DELANTERO MOTOR NISSAN D23/NP300 (112204JL0C)
+Referencia: 112204JL0C
+Fecha: 2021/01/06
+Precio: 263277.0
+--------------------------------
+Concepto: PISTON MORDAZA TOYOTA HILUX (PM-1135)
+Referencia: PM-1135
+Fecha: 2022/04/19
+Precio: 26050.0
+--------------------------------
+Concepto: TAPA  RADIADOR  (TPGOTRD01)
+Referencia: TPGOTRD01
+Fecha: 2020/10/30
+Precio: 47563.0
+--------------------------------
+Concepto: COPELA SOP AMORTIGUAD DELANTERO NISSAN (COPELA 56115E70A)
+Referencia: DIS019
+Fecha: 2023/06/22
+Precio: 77731.0
+--------------------------------
+Concepto: MANGUERA FRENO ORIGINAL (462104KH6A)
+Referencia: 462104KH6A
+Fecha: 2021/04/17
+Precio: 63193.0
+--------------------------------
+Concepto: LIMPIADOR DE PARTES FRENO BRAKE PART SPR (LIMFRE44149)
+Referencia: LIMFRE44149
+Fecha: 2022/08/01
+Precio: 22500.0
+--------------------------------
+Concepto: EMPAQUETADURA TURBO NISSAN NID23/NP300 (144155X00A)
+Referencia: 144155X00A
+Fecha: 2021/04/29
+Precio: 131428.0
+--------------------------------
+Concepto: PASTILLA FRENO CHEVROLET COLORADO (SP1714)
+Referencia: SP1714/8906-1736BPR
+Fecha: 2023/05/23
+Precio: 93000.0
+--------------------------------
+Concepto: AMORTIGUADOR DEL ORG NISSAN D23 (1A18890/E61105JJ0A)
+Referencia: 1A18890/E61105JJ0A
+Fecha: 2023/06/28
+Precio: 429916.0
+--------------------------------
+Concepto: LIMPIADOR DE PARTES FRENO NISSAN (NIMEXU03Q1)
+Referencia: NIMEXU03Q1
+Fecha: 2023/09/28
+Precio: 23277.0
+--------------------------------
+Concepto: LIMPIADOR CUERPO DE ACELERACION NISSAN (NIMEXU03Q2)
+Referencia: NIMEXU03Q2
+Fecha: 2023/09/28
+Precio: 23277.0
+--------------------------------
+Concepto: LUBRICANTE NISSAN AFLOJATODO (NIMEXU15Q4)
+Referencia: NIMEXU15Q4
+Fecha: 2023/10/25
+Precio: 18739.0
+--------------------------------
+Concepto: BIELETA BARRA EST NISSAN D23 LH HOM (54618-8H300)
+Referencia: 54618-8H300
+Fecha: 2023/10/03
+Precio: 35900.0
+--------------------------------
+Concepto: BIELETA BARRA EST NISSAN D23 RH HOM (54668-8H300)
+Referencia: 54668-8H300
+Fecha: 2023/10/03
+Precio: 35900.0
+--------------------------------
+Concepto: BORNE BATERIA NISSAN D23 (407999B)
+Referencia: 407999B
+Fecha: 2022/04/22
+Precio: 79748.0
+--------------------------------
+Concepto: BUJE CAUCHO AMORTIGUADOR DEL NISSAN D23 (56217EB70A)
+Referencia: 56217EB70A
+Fecha: 2023/02/03
+Precio: 16800.0
+--------------------------------
+Concepto: BUJE TIJERA INF NISSAN D23 NP300 ORIG (54560EB70A)
+Referencia: 54560EB70A/54560EB70AAU
+Fecha: 2023/10/18
+Precio: 113950.0
+--------------------------------
+Concepto: ACEITE 15W40 PURE GUARD (P1515U)
+Referencia: PU1515U
+Fecha: 2023/02/13
+Precio: 34958.0
+--------------------------------
+Concepto: CONECTOR BORDE BATERIA ORIGINAL (243407999B)
+Referencia: 243407999B
+Fecha: 2023/08/29
+Precio: 104034.0
+--------------------------------
+Concepto: PASTILLAS FRENO DELANTERA ORIGINAL
+Referencia: DA06M4KH0PNW
+Fecha: 2022/08/19
+Precio: 307311.0
+--------------------------------
+Concepto: FILTRO AIRE ACONDICIONADOP ORIGINAL
+Referencia: 272774KH0AL/ 272775JJOB
+Fecha: 2022/08/19
+Precio: 26555.0
+--------------------------------
+Concepto: SWITCH E/VIDRIO ISUZU DMAX RT50 DEL (8981922560/000000008981922561)
+Referencia: 8981922560/000000008981922561
+Fecha: 2023/08/02
+Precio: 388501.0
+--------------------------------
+Concepto: SEPARADOR AGUA PARA COMB FLEETGUARD (FS36209 / P506145 / SK48755)
+Referencia: FS36209 / P506145 / SK48755
+Fecha: 2023/06/26
+Precio: 125000.0
+--------------------------------
+Concepto: FILTRO SEP AGUA COMB CON VASO (AR60T)
+Referencia: AR60T
+Fecha: 2023/06/26
+Precio: 82000.0
+--------------------------------
+Concepto: FILTRO COMB NISSAN D23 ALASKAN ORGI (164034KV0A)
+Referencia: 164034KV0A
+Fecha: 2023/11/02
+Precio: 150084.0
+--------------------------------
+Concepto: MANGUERA ADMISION AIRE ORIGINAL (144634KV1C)
+Referencia: 144634KV1C
+Fecha: 2023/10/25
+Precio: 563193.0
+--------------------------------
+Concepto: SOPORTE AMORTIGUADOR DELAN COPELA ORIG (56115EB70A)
+Referencia: 56115EB70A
+Fecha: 2023/05/31
+Precio: 77731.0
+--------------------------------
+Concepto: TERMINAL AXIAL NISSAN D23 ORIGINAL (D8E21EB70A)
+Referencia: D8E21EB70A
+Fecha: 2022/10/31
+Precio: 253782.0
+--------------------------------
+Concepto: FILTRO AIRE ACOND  ORIG NISSAN D23 (SFA-AA TYNS)
+Referencia: SFA-AA TYNS
+Fecha: 2022/11/24
+Precio: 64496.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR NISSAN D23 ORG (VA) (165464JM1A/AF54M4JM1PNW)
+Referencia: 165464JM1A/AF54M4JM1PNW
+Fecha: 2023/11/02
+Precio: 33109.0
+--------------------------------
+Concepto: TORNILLOS BARRA TORSION NISSAN (54419-1)
+Referencia: 54419-1
+Fecha: 2023/01/18
+Precio: 75546.0
+--------------------------------
+Concepto: FILTRO ACEITE MOTOR  NISSAN D23 ORIGINAL (15208-BN30A)
+Referencia: DIS011
+Fecha: 2023/09/07
+Precio: 45546.0
+--------------------------------
+Concepto: KIT AMORTIGUAD DELANTE Y TRASEROS D23X (KITAMODELD23)
+Referencia: KITAMODELD23
+Fecha: 2023/09/28
+Precio: 972101.0
+--------------------------------
+Concepto: MANGUERA ENTRADA DE AIRE NISSAN ORG (144634KV2B)
+Referencia: 144634KV2B
+Fecha: 2023/10/25
+Precio: 394790.0
+--------------------------------
+Concepto: REFRIG AUPRO GALON ROJO ANTIOX Y ANTIC (AUPREFRICORRED/GLN)
+Referencia: AUPREFRICORRED/GLN
+Fecha: 2023/09/28
+Precio: 19412.0
+--------------------------------
+Concepto: REFRIGERANTE AUPRO EQUIPO PESADO LV (AUPREFRIGETRUCK)
+Referencia: AUPREFRIGETRUCK
+Fecha: 2023/05/31
+Precio: 44034.0
+--------------------------------
+Concepto: PASADOR ARTICULACION TRAVESANO (545805JJ0A)
+Referencia: 545805JJ0A
+Fecha: 2023/05/31
+Precio: 83109.0
+--------------------------------
+Concepto: ROTULA TIJERA SUPERIOR (401104KH0A)
+Referencia: 401104KH0A
+Fecha: 2023/05/31
+Precio: 240756.0
+--------------------------------
+Concepto: ARANDELA AJUSTE TIJERA DELANTERA (545592S40A)
+Referencia: 545592S40A
+Fecha: 2023/05/31
+Precio: 17227.0
+--------------------------------
+Concepto: RESORTE TRAS SUSPENSION NISSAN D23 ORG (550204KU7A)
+Referencia: 550204KU7A
+Fecha: 2023/07/10
+Precio: 333277.0
+--------------------------------
+Concepto: TERMOSTATO MOTOR 82 GRADOS NISSAN ORG (21200AD21A)
+Referencia: 21200AD21A
+Fecha: 2023/07/11
+Precio: 132689.0
+--------------------------------
+Concepto: SENSOR TEM ACEITE MAXGEAR (2263044B20)
+Referencia: 2263044B20
+Fecha: 2023/07/11
+Precio: 205294.0
+--------------------------------
+Concepto: BUJE TIJERA SUPERIOR DEL NISSAN (54542EB305AU)
+Referencia: 54542EB305AU
+Fecha: 2023/08/14
+Precio: 44538.0
+--------------------------------
+Concepto: CAUCHO BARRA ESTABILIZADORA (2H0411313D)
+Referencia: 2H0411313D/2H0411313B
+Fecha: 2023/09/28
+Precio: 9287.0
+--------------------------------
+Concepto: TERMINAL EXT IZQ NISSAN ORG (TERWA2817A)
+Referencia: TERWA2817A
+Fecha: 2023/08/29
+Precio: 45534.0
+--------------------------------
+Concepto: BARRA ESTABILIZADORA DER/IZQ NISSAN ORG (LINWA1317AU)
+Referencia: LINWA1317AU
+Fecha: 2023/08/14
+Precio: 35726.0
+--------------------------------
+Concepto: TERMINAL AXIAL DER/IZQ NISSAN ORG (AXIWA7LOAU)
+Referencia: AXIWA7LOAU
+Fecha: 2023/08/14
+Precio: 45239.0
+--------------------------------
+Concepto: FILTRO COMB SAKURA NISSAN FRONTIER NP300 (EF18050)
+Referencia: EF18050
+Fecha: 2023/08/14
+Precio: 69813.0
+--------------------------------
+Concepto: FILTRO COMB TOYOTA HILUX / MTL200 (FLP355 /HCPL010/F1111)
+Referencia: FLP355 /HCPL010/F1111
+Fecha: 2023/11/16
+Precio: 25100.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR NISSAN D23 (VA) (AF54M4JM1PNW)
+Referencia: DIS005
+Fecha: 2023/09/28
+Precio: 33109.0
+--------------------------------
+Concepto: BUJE AMORTIGUADOR DEL NISSAN FRONTIER (562194KH7AL)
+Referencia: 562194KH7AL
+Fecha: 2023/09/28
+Precio: 40336.0
+--------------------------------
+Concepto: REFRGETANTE AUPRO QT ANTIOX Y ANTICORR (AUPREFRICORR1/4)
+Referencia: AUPREFRICORR1/4
+Fecha: 2023/09/28
+Precio: 7227.0
+--------------------------------
+Concepto: BUJE TIJERA INFERIOR DEL NISSAN (54560EB70AAU)
+Referencia: DIS010
+Fecha: 2023/10/25
+Precio: 40000.0
+--------------------------------
+Concepto: BOMBA DIR HIDRAULICA NISSAN D23 ORG (491104KV0A)
+Referencia: 491104KV0A
+Fecha: 2023/11/01
+Precio: 2316891.0
+--------------------------------
+Concepto: GUAYA FRENO DE MANO TOYOTA DER (GFDTO1)
+Referencia: GFDTO1
+Fecha: 2022/08/02
+Precio: 205042.0
+--------------------------------
+Concepto: PLUMILLA 16´ ACEDELCO GOLD HOMOLOGADA (PLU ACD 19375531)
+Referencia: PLU ACD 19375531
+Fecha: 2023/07/25
+Precio: 34168.0
+--------------------------------
+Concepto: PIN SEGURO GUAYA TAPA COMB. HILUX (770K010)
+Referencia: 770K010
+Fecha: 2019/08/14
+Precio: 9244.0
+--------------------------------
+Concepto: GUAYA EMERG. MAZDA BT50 DER (UR61-44-410A)
+Referencia: UR61-44-410A
+Fecha: 2019/05/15
+Precio: 154302.0
+--------------------------------
+Concepto: CHAPA DE PLATON (DER E IZQ) ORIGINAL (657800K010)
+Referencia: 657800K010
+Fecha: 2022/09/27
+Precio: 110924.0
+--------------------------------
+Concepto: PERNO COMPLETO TRASERO FRR L (PRTRFRRL)
+Referencia: PRTRFRRL
+Fecha: 2020/12/23
+Precio: 18487.39
+--------------------------------
+Concepto: PERNO COMPLETO TRASERO FRR R (PRTRFRR-01)
+Referencia: PRTRFRR-01
+Fecha: 2020/12/23
+Precio: 18487.39
+--------------------------------
+Concepto: PERNO COMPLETO DELANTERO FRR R (PERDEL01)
+Referencia: PERDEL01
+Fecha: 2020/12/23
+Precio: 15126.07
+--------------------------------
+Concepto: PERNO COMPLETO DELANTERO FRR L (PERDEL02)
+Referencia: PERDEL02
+Fecha: 2022/03/26
+Precio: 182000.0
+--------------------------------
+Concepto: PERNO COMPLETO DELANTERO HINO L (PERTRHINO01)
+Referencia: PERTRHINO01
+Fecha: 2020/12/23
+Precio: 14705.89
+--------------------------------
+Concepto: PERNO COMPLETO TRASERO HINO L (PERTRHINO02)
+Referencia: PERTRHINO02
+Fecha: 2020/12/23
+Precio: 18487.39
+--------------------------------
+Concepto: PERNO COMPLETO DELANTERO HINO R (PERDELHINO02)
+Referencia: PERDELHINO02
+Fecha: 2020/12/23
+Precio: 14705.89
+--------------------------------
+Concepto: PERNO COMPLETO TRASERO HINO R (PERTRESHIN01)
+Referencia: PERTRESHIN01
+Fecha: 2020/12/23
+Precio: 18487.39
+--------------------------------
+Concepto: SOPORTE BALLESTA TRASERA (SS0740SC)
+Referencia: SS0740SC
+Fecha: 2023/02/24
+Precio: 109243.0
+--------------------------------
+Concepto: SIKAFLEX 212 FC NEGRO 300 ML (0102SK-75107)
+Referencia: 0102SK-75107
+Fecha: 2023/10/04
+Precio: 16806.72
+--------------------------------
+Concepto: DUCHA GRAFITADA NEGRA LUBRISTONE X 1/4 (0801PB-1000025)
+Referencia: 0801PB-1000025
+Fecha: 2023/10/04
+Precio: 13445.37
+--------------------------------
+Concepto: PROBADOR DESTORNILLADOR PEQUEÑO (PRDET01)
+Referencia: K7102
+Fecha: 2018/02/20
+Precio: 5500.0
+--------------------------------
+Concepto: FUSIBLE MINI 10 AMP (FS10AMP)
+Referencia: FS10AMP
+Fecha: 2022/01/25
+Precio: 158.0
+--------------------------------
+Concepto: FUSIBLE MINI 20 AMP (FS20AMP)
+Referencia: FS20AMP
+Fecha: 2020/06/30
+Precio: 0.0
+--------------------------------
+Concepto: FUSIBLE MINI 30 AMP (FS30AMP)
+Referencia: FS30AMP
+Fecha: 2020/06/30
+Precio: 0.0
+--------------------------------
+Concepto: FUSIBLE MINI 15 AMP (FS15AMP)
+Referencia: FS15AMP
+Fecha: 2020/06/30
+Precio: 0.0
+--------------------------------
+Concepto: TERMINAL ELECTRICA PLANCHETA PQUEÑA (TERPL01)
+Referencia: TERPL01
+Fecha: 2018/02/20
+Precio: 700.0
+--------------------------------
+Concepto: TERMINAL ELECTRICA PLANCHETA MEDIANA (TERPL02)
+Referencia: TERPL02
+Fecha: 2018/02/20
+Precio: 800.0
+--------------------------------
+Concepto: TERMINAL ELECTRICA PLANCHETA GRANDE (TERPL03)
+Referencia: TERPL03
+Fecha: 2018/02/20
+Precio: 800.0
+--------------------------------
+Concepto: TERMINALES ELECTRICAS DE OJO (TEROJO010)
+Referencia: TEROJO010
+Fecha: 2023/07/31
+Precio: 100.0
+--------------------------------
+Concepto: PITO DE REVERSO GENERICO MULTIVOLTAJE (ES-85-PSM79)
+Referencia: ES-85-PSM79
+Fecha: 2022/08/01
+Precio: 14621.0
+--------------------------------
+Concepto: FUSIBLE MICRO 20 AMP (FSMCR)
+Referencia: FSMCR
+Fecha: 2022/01/25
+Precio: 322.0
+--------------------------------
+Concepto: FUSIBLE MICRO 10 AMP  (FSMCR10)
+Referencia: FSMCR10
+Fecha: 2022/01/25
+Precio: 322.0
+--------------------------------
+Concepto: FUSIBLE MICRO 15 AMP  (FSMCR15)
+Referencia: FSMCR15
+Fecha: 2021/02/04
+Precio: 380.0
+--------------------------------
+Concepto: PLUMILLA BUS 31" MARCOPOLO (PLUM31")
+Referencia: PLUM31"
+Fecha: 2019/02/28
+Precio: 14610.0
+--------------------------------
+Concepto: CAMPANA DE FRENO CHEVROLET DMAX RT 50 (CF 05-12)
+Referencia: CF 05-12
+Fecha: 2022/06/21
+Precio: 207563.0
+--------------------------------
+Concepto: BOMBILLO H7 24V (PX26D-24V)
+Referencia: H7 24V / PX26D-24V
+Fecha: 2021/01/19
+Precio: 15126.0
+--------------------------------
+Concepto: FUSIBLE MAXI 20 AMP (FSMAXI20AMP)
+Referencia: FSMAXI20AMP
+Fecha: 2021/02/04
+Precio: 2650.0
+--------------------------------
+Concepto: FUSIBLE MAXI 30 AMP (FSMAXI30AMP)
+Referencia: FSMAXI30AMP
+Fecha: 2021/05/28
+Precio: 9500.0
+--------------------------------
+Concepto: FUSIBLE MAXI 60 AMP (FSMAXI60AMP)
+Referencia: FSMAXI60AMP
+Fecha: 2021/02/04
+Precio: 2650.0
+--------------------------------
+Concepto: FILTRO REFRIGERANTE INTER 7600 (WF2071)
+Referencia: WF2071/WC5705
+Fecha: 2023/08/28
+Precio: 55000.0
+--------------------------------
+Concepto: CORAZA CORRUGADA 1/2  13.2MM (CORAZA1/2)
+Referencia: CORAZA1/2
+Fecha: 2021/02/04
+Precio: 1100.0
+--------------------------------
+Concepto: CORAZA CORRUGADA 1/4  7.4MM (CORAZA1/4)
+Referencia: CORAZA1/4
+Fecha: 2021/02/04
+Precio: 720.0
+--------------------------------
+Concepto: CORAZA CORRUGADA 3/8  10.7MM (CORAZA3/8)
+Referencia: CORAZA3/8
+Fecha: 2021/03/16
+Precio: 18487.0
+--------------------------------
+Concepto: CORAZA TERMOENCOGIBLE 1/4 6MM (CORAZATERMOEN1/4)
+Referencia: CORAZATERMOEN1/4
+Fecha: 2021/02/04
+Precio: 900.0
+--------------------------------
+Concepto: FUSIBLE MICRO 30 AMP (FSMCR30)
+Referencia: FSMCR30
+Fecha: 2021/04/17
+Precio: 295.0
+--------------------------------
+Concepto: SOQUET LUCES TRICETA (CRTRICET)
+Referencia: CRTRICET
+Fecha: 2021/05/28
+Precio: 7500.0
+--------------------------------
+Concepto: SWTICH ON/OFF PEQUEÑO CUADRADO (KTC251003)
+Referencia: KTC251003
+Fecha: 2021/05/28
+Precio: 5042.0
+--------------------------------
+Concepto: BOMBILLO DOBLE FILAMENTO 24V (204-080)
+Referencia: 204-080
+Fecha: 2021/08/03
+Precio: 1200.0
+--------------------------------
+Concepto: FUSIBLE MAXI 40 AMP (FSMAXI40AMP)
+Referencia: FSMAXI40AMP
+Fecha: 2021/07/17
+Precio: 3361.0
+--------------------------------
+Concepto: BOMBILLO DIRECCIONAL 1FILAMENTO 24V (R10W 12V)
+Referencia: R10W 12V
+Fecha: 2022/10/28
+Precio: 8538.0
+--------------------------------
+Concepto: BOMBILLO T20 12V 2 FILAMENTOS (T20W-12V)
+Referencia: T20W-12V/W21-5W
+Fecha: 2023/10/25
+Precio: 14752.0
+--------------------------------
+Concepto: BOMBILLO T20 1 F (T20 1 F)
+Referencia: T20 1 F
+Fecha: 2022/01/13
+Precio: 7422.96
+--------------------------------
+Concepto: BOMBILLO W5W (158) 24V (W5W 24V)
+Referencia: W5W 24V
+Fecha: 2023/10/25
+Precio: 1950.0
+--------------------------------
+Concepto: SOKE H7 CURVO (KTC230071)
+Referencia: KTC230071
+Fecha: 2023/07/31
+Precio: 5650.0
+--------------------------------
+Concepto: BOMBILLO H15 12V (H15 12V)
+Referencia: H15 12V
+Fecha: 2023/07/31
+Precio: 21900.0
+--------------------------------
+Concepto: EXTINTORES DE 10 LB (EXT10L-01)
+Referencia: EXT10L-01
+Fecha: 2023/05/26
+Precio: 50000.0
+--------------------------------
+Concepto: EXTINTORES DE 20 LB (EXT20L-01)
+Referencia: EXT20L-01
+Fecha: 2023/05/26
+Precio: 29000.0
+--------------------------------
+Concepto: BOTIQUIN 18 PRODC (BOT-01)
+Referencia: BOT-01
+Fecha: 2023/09/20
+Precio: 0.0
+--------------------------------
+Concepto: CHALECO REFLECTIVO (CH0101)
+Referencia: DIS016
+Fecha: 2018/03/12
+Precio: 10000.0
+--------------------------------
+Concepto: FILTRO AIRE RANGER DIE BT50 PROF (MG2MZ9601MKT)
+Referencia: DIS008
+Fecha: 2023/09/19
+Precio: 35100.0
+--------------------------------
+Concepto: FILTRO COMB CAMIONETA JAC J7 BOMBIN  (N4310 BOSCH)
+Referencia: N4310 BOSCH
+Fecha: 2023/06/26
+Precio: 78000.0
+--------------------------------
+Concepto: ACEITE EUROL SHPD 15W-40 SYNT PLUS - 6L (E100111-6L)
+Referencia: E100111 - 6L
+Fecha: 2023/07/25
+Precio: 14632.0
+--------------------------------
+Concepto: GRASA EUROL LITHIUM GREASE EP3 (E901040-400G)
+Referencia: E901040-400G
+Fecha: 2023/07/25
+Precio: 15995.0
+--------------------------------
+Concepto: ACEITE EUROL PRO LITE 10W30 (E100134-210L)
+Referencia: E100134 - 210L
+Fecha: 2023/07/25
+Precio: 13214.0
+--------------------------------
+Concepto: ACEITE EUROL SUPER LITE 5W-30 12L (E100091-12L)
+Referencia: E100091 - 1L
+Fecha: 2023/07/25
+Precio: 21488.0
+--------------------------------
+Concepto: ACEITE EUROL SUPER LITE 5W-30 - 5L (E100091-5L)
+Referencia: E100091 - 5L
+Fecha: 2023/07/25
+Precio: 19277.0
+--------------------------------
+Concepto: ACEITE EUROL PROLITE 20W - 50 SLN - 4L (E100162-4L)
+Referencia: E100162 - 4L
+Fecha: 2023/07/25
+Precio: 16399.0
+--------------------------------
+Concepto: ACEITE EUROL FUSION 10W - 40 - 5L (E100113-5L)
+Referencia: E100113 - 5L
+Fecha: 2023/07/25
+Precio: 17005.0
+--------------------------------
+Concepto: ACEITE EUROL PROLITE 10W - 30 - 4L (E100134-4L)
+Referencia: E100134 - 4L
+Fecha: 2023/07/25
+Precio: 15743.0
+--------------------------------
+Concepto: ACEITE EUROL SHPD 20W - 50 4 L (E100047-4 L)
+Referencia: E100047 - 4L
+Fecha: 2023/07/25
+Precio: 14985.0
+--------------------------------
+Concepto: ACEITE EUROL GLOBENCE SA 15W-40 6 L (E100157-6L)
+Referencia: E100157 - 6L
+Fecha: 2023/07/25
+Precio: 18566.0
+--------------------------------
+Concepto: ACEITE EUROL HPG 80W-90 5L (E110630-5L)
+Referencia: E110630 - 5L
+Fecha: 2023/07/25
+Precio: 14581.0
+--------------------------------
+Concepto: REFRIGERANTE EUROL COOLANT XL 36°C (E504140-5L)
+Referencia: E504140 - 5L
+Fecha: 2023/07/25
+Precio: 9936.0
+--------------------------------
+Concepto: EUROL DIESEL INJECTION CLEANER (E802492-250ML)
+Referencia: E802492-250ML
+Fecha: 2023/07/25
+Precio: 19176.0
+--------------------------------
+Concepto: ACEITE EUROL SHPD 15W-40 SYNT PLUS (E100111 -210L)
+Referencia: E100111 - 210L
+Fecha: 2023/07/25
+Precio: 12508.0
+--------------------------------
+Concepto: ACEITE EUROL PRO LITE 20W-50 SN (E100162-210L)
+Referencia: E100162 - 210L
+Fecha: 2023/07/25
+Precio: 13824.0
+--------------------------------
+Concepto: ACEITE EUROL SHPD 20W-50 (E100047-210L)
+Referencia: E100047 - 210L
+Fecha: 2023/07/25
+Precio: 12410.0
+--------------------------------
+Concepto: LUBRICANTE EUROL HPG 85W-140 GL5 (E110640-210L)
+Referencia: E110640 - 210L
+Fecha: 2023/07/25
+Precio: 13117.0
+--------------------------------
+Concepto: ACEITE EUROL HPG 80W - 90 GL5 - 210 L (E110630-210)
+Referencia: E110630 - 210L
+Fecha: 2023/07/25
+Precio: 12612.0
+--------------------------------
+Concepto: ACEITE EUROL SYNTECE 5W-30 5L (E100062 - 5L)
+Referencia: E100062 - 5L
+Fecha: 2023/07/27
+Precio: 133.5
+--------------------------------
+Concepto: BARRA ANTIVUELCO CAMIONETA D.C. (BTA001)
+Referencia: EB3C18045DB
+Fecha: 2019/02/06
+Precio: 450000.0
+--------------------------------
+Concepto: COMPRA MODULO MEDIOS MAGNETICOS 2018
+Referencia: 17
+Fecha: 2019/05/07
+Precio: 385000.0
+--------------------------------
+Concepto: TERMINAL DIR R/L CHEVROLET FRR (4058 R/L – FD-4058/TERMINAL FRR)
+Referencia: 4058 R/L – FD-4058/TERMINAL FRR
+Fecha: 2023/07/17
+Precio: 159663.0
+--------------------------------
+Concepto: PUNTA EJE HOMOCINETICA FORD RANGER L/C (34330000-9)
+Referencia: 34330000-9
+Fecha: 2023/05/26
+Precio: 285716.0
+--------------------------------
+Concepto: TIJERA INFERIOR BT-50  / FORD RANGER 3.2 (K340420)
+Referencia: K340420
+Fecha: 2023/05/18
+Precio: 299800.0
+--------------------------------
+Concepto: TIJERA SUPERIOR VW AMAROK (TJ34330000-9) (K407021L)
+Referencia: TJ34330000-9
+Fecha: 2022/06/15
+Precio: 130000.0
+--------------------------------
+Concepto: MUÑECO VW AMAROK (MN34330000-9)
+Referencia: VL1317/MN34330000-9/LINWA1317AU
+Fecha: 2021/04/17
+Precio: 67226.0
+--------------------------------
+Concepto: SEMI EJE FORD RANGER 3.2 (SEMIEJEFORD)
+Referencia: SEMIEJEFORD
+Fecha: 2023/02/21
+Precio: 700000.0
+--------------------------------
+Concepto: EJE COMPLETO FORD RANGER 3.2 (EJRM01)
+Referencia: EJRM01
+Fecha: 2023/02/21
+Precio: 430000.0
+--------------------------------
+Concepto: TUNEL DE SEMI EJE FORD RANGER 3.2 DIE (TUN343300)
+Referencia: TUN343300
+Fecha: 2022/04/07
+Precio: 546218.0
+--------------------------------
+Concepto: BUJE TIJERA SUP FORD RANGER - 3.2 DIESEL (K200363 / AB313A493BB)
+Referencia: K200363 / AB313A493BB
+Fecha: 2023/09/18
+Precio: 45900.0
+--------------------------------
+Concepto: ROTULA SUP FORD RANGER 2.2/3.2 HOM GDS (K 800414)
+Referencia: K 800414
+Fecha: 2023/08/01
+Precio: 50420.0
+--------------------------------
+Concepto: BRAZO DIRECCION HINO (151023)
+Referencia: 151023
+Fecha: 2023/07/17
+Precio: 504201.0
+--------------------------------
+Concepto: TERMINAL LH FORD RANGER 2.2 - 3.2  HOM (ES 800419)
+Referencia: ES 800419L
+Fecha: 2023/08/01
+Precio: 63025.0
+--------------------------------
+Concepto: TERMINAL RH FORD RANGER 2.2 - 3.2 HOM (ES 800420)
+Referencia: ES 800419R
+Fecha: 2023/07/17
+Precio: 71428.0
+--------------------------------
+Concepto: CHAPA PLATON DE TOYOTA HILUX FORD RANGER (CHA-016)
+Referencia: CHA-016
+Fecha: 2023/05/11
+Precio: 100000.0
+--------------------------------
+Concepto: ANTIRUIDOS MITSUBISHI L200 (AP-3265)
+Referencia: AP-3265
+Fecha: 2023/05/08
+Precio: 21008.0
+--------------------------------
+Concepto: PARCHE FRIO #3  MONTALLANTAS (PF17097)
+Referencia: PF17097
+Fecha: 2023/08/28
+Precio: 643.0
+--------------------------------
+Concepto: PARCHE FRIO #5  MONTALLANTAS (PF17099)
+Referencia: PF17099
+Fecha: 2018/02/19
+Precio: 1064.0
+--------------------------------
+Concepto: TACO MELCOCHA CAMION /TURBO GRANDE (TCM21017)
+Referencia: TCM21017
+Fecha: 2021/11/09
+Precio: 126.05
+--------------------------------
+Concepto: TACO MELCOCHA AUTOMOVIL / CAMIONETA (TCM21019)
+Referencia: TCM21019
+Fecha: 2018/04/16
+Precio: 117.65
+--------------------------------
+Concepto: EJE HO COLORADO 17/22 DEL (52083441)
+Referencia: 52083441
+Fecha: 2023/05/11
+Precio: 1804996.0
+--------------------------------
+Concepto: CORREA INDUSTRIAL COMPRESOR (B74 CANDO)
+Referencia: B74 CANDO
+Fecha: 2023/05/11
+Precio: 19328.0
+--------------------------------
+Concepto: FILTRO AVEO (037)
+Referencia: 037
+Fecha: 2023/05/26
+Precio: 50000.0
+--------------------------------
+Concepto: CALIBRADOR 160 LBS CROMADO BOCA RECTA (CALIB2041)
+Referencia: DIS015
+Fecha: 2018/04/16
+Precio: 21849.0
+--------------------------------
+Concepto: CALIBRADOR MANOMETRO TURBO 160 LBS (CALIB2010)
+Referencia: CALIB2010
+Fecha: 2018/04/16
+Precio: 29515.0
+--------------------------------
+Concepto: VALVULAS CAMIONETA (CRVALCTA-01)
+Referencia: CRVALCTA-01
+Fecha: 2023/03/31
+Precio: 830.0
+--------------------------------
+Concepto: GUSANILLO (5222)
+Referencia: 5222
+Fecha: 2023/07/13
+Precio: 1681.0
+--------------------------------
+Concepto: FILTRO COMB FORD RANGER 3.2 2021 HOM (FLP509)
+Referencia: FLP509
+Fecha: 2023/08/28
+Precio: 51000.0
+--------------------------------
+Concepto: BOMBA INYECCION COMBUSTIBLE TOYOTA HILUX (TY0700)
+Referencia: TY0700
+Fecha: 2018/12/04
+Precio: 1595000.0
+--------------------------------
+Concepto: SOPORTE EXTINTOR 10 LB (SPTEXT-01-10LB)
+Referencia: SPTEXT-01-10LB
+Fecha: 2022/07/26
+Precio: 16000.0
+--------------------------------
+Concepto: BASE EXTINTOR DE 20 LBS (BSEXT20)
+Referencia: FSMCR25
+Fecha: 2020/09/16
+Precio: 31000.0
+--------------------------------
+Concepto: BOMBILLO UN FILAMENTO PQ COCUYO (R10W)
+Referencia: R10W
+Fecha: 2022/04/04
+Precio: 12278.24
+--------------------------------
+Concepto: RESORTES BANDAS FRENO LUV D´MAX (R-5080)
+Referencia: R-5080/GF-4147
+Fecha: 2023/10/06
+Precio: 22689.0
+--------------------------------
+Concepto: RELE CORRIENTE 24V 5 TERMINALES (933332411)
+Referencia: 933332411
+Fecha: 2020/06/30
+Precio: 0.0
+--------------------------------
+Concepto: RELE CORRIENTE 12V 5 TERMINALES (933332361)
+Referencia: 933332361
+Fecha: 2020/06/30
+Precio: 0.0
+--------------------------------
+Concepto: FUSIBLE MINI 25 AMP (FS25AMP MN)
+Referencia: FS25AMP MN
+Fecha: 2020/06/30
+Precio: 0.0
+--------------------------------
+Concepto: LUBRICANTE PENETRATIN OIL SPRAY (E701300)
+Referencia: E701300
+Fecha: 2023/04/18
+Precio: 18000.0
+--------------------------------
+Concepto: LUBRICANTE HYKROL ISO68 VG EUROL (E108730-5L)
+Referencia: E108730 - 5L
+Fecha: 2020/12/23
+Precio: 11586.0
+--------------------------------
+Concepto: ACEITE 0W20 LUBRICANTE SINTETICO EUROL (E100128-1L)
+Referencia: TACO-PARCHE
+Fecha: 2020/10/27
+Precio: 22485.0
+--------------------------------
+Concepto: PITOS CLAXON 12v (349GLI)
+Referencia: 349GLI
+Fecha: 2022/06/13
+Precio: 25210.0
+--------------------------------
+Concepto: BOMBILLO HB3-12V (H3-12V)
+Referencia: HB3-12V 60W
+Fecha: 2023/06/22
+Precio: 25440.0
+--------------------------------
+Concepto: BOMBILLO H11 12V (H11 12V)
+Referencia: H11 12V
+Fecha: 2023/10/25
+Precio: 33200.0
+--------------------------------
+Concepto: BOMBILLO HD4 12V (HD4 12V)
+Referencia: HB4 12V
+Fecha: 2020/12/23
+Precio: 11700.0
+--------------------------------
+Concepto: ENGINE FLUSH EUROL (E802310-500ML)
+Referencia: E802310-500ML
+Fecha: 2021/03/15
+Precio: 33200.0
+--------------------------------
+Concepto: EUROL CONTACT CLEANER SPRAY (E701465)
+Referencia: E701465
+Fecha: 2021/03/15
+Precio: 20000.0
+--------------------------------
+Concepto: ACEITE 5W-40 EUROL SUPER LITE GALON (EU5W40SINTE)
+Referencia: E100092 -1L
+Fecha: 2022/04/26
+Precio: 22800.0
+--------------------------------
+Concepto: SEMIEJE FORD RANGER LADO DERECHO RM (SREMAN)
+Referencia: SREMAN
+Fecha: 2023/02/21
+Precio: 300000.0
+--------------------------------
+Concepto: AMORTIGUADOR DEL GTC -VW AMAROK (34959G+/2H0413031K+)
+Referencia: 34959G+/2H0413031K+
+Fecha: 2023/10/31
+Precio: 180672.0
+--------------------------------
+Concepto: RETEN EJE FORD RANGER (5L8Z4B416AA)
+Referencia: 5L8Z4B416AA
+Fecha: 2023/09/01
+Precio: 0.0
+--------------------------------
+Concepto: RODILLO AGUJAS EJE FORD RANGER (YL8Z4B413AA)
+Referencia: YL8Z4B413AA
+Fecha: 2023/08/29
+Precio: 0.0
+--------------------------------
+Concepto: RODAMIENTO DEL FORD RANGER 2.2/3.2 HOM (G-9447008)
+Referencia: G-9447008
+Fecha: 2023/09/06
+Precio: 143900.0
+--------------------------------
+Concepto: FILTRO AIRE ACOND NISSAN FRONTIER D23 (ACP123 / SFAA710704)
+Referencia: ACP123/SFAA710704
+Fecha: 2023/10/20
+Precio: 12600.0
+--------------------------------
+Concepto: TIJERA SUPERIOR IZQ. MAZDA BT50 2.5 DIES (UH75-260B)
+Referencia: UH75-260B
+Fecha: 2020/06/30
+Precio: 105900.0
+--------------------------------
+Concepto: TIJERA SUPERIOR DER. MAZDA BT50 2.5 DIES (UH75-34-210B)
+Referencia: UH75-34-210B
+Fecha: 2020/10/29
+Precio: 235385.0
+--------------------------------
+Concepto: BIELETA DIR EST DER FORD RANGER 3.2 HOM (K 800416)
+Referencia: K 800416
+Fecha: 2023/05/18
+Precio: 35900.0
+--------------------------------
+Concepto: BIELETA DIR EST IZQ FORD RANGER 3.2 HOM (K 800417)
+Referencia: K 800417
+Fecha: 2023/05/18
+Precio: 35900.0
+--------------------------------
+Concepto: AMORTIGUADOR TRAS MONROE MERCEDES 515 (66417)
+Referencia: 66417
+Fecha: 2020/07/08
+Precio: 113445.0
+--------------------------------
+Concepto: ROTULA INFERIOR LUV DIMAX RT50 (8-94452-102-1)
+Referencia: 8-94452-102-1/8980058750
+Fecha: 2022/07/15
+Precio: 70000.0
+--------------------------------
+Concepto: AXIAL DIRECCION LUV. DMAX RT50 (ES3489R)
+Referencia: ES3489R
+Fecha: 2022/03/01
+Precio: 114425.76
+--------------------------------
+Concepto: TERMINAL DIRECCION LUV. DMAX RT50 (557460++)
+Referencia: 557460++
+Fecha: 2022/03/01
+Precio: 51789.0
+--------------------------------
+Concepto: ROTULA INFERIOR FORD MAZDA 4X4 2.5 DIESE (UR61-34-550)
+Referencia: UR61-34-550
+Fecha: 2020/10/30
+Precio: 54622.0
+--------------------------------
+Concepto: SENSOR TEMP DIE RANGER (BK2Q9D995AA)
+Referencia: BK2Q9D995AA
+Fecha: 2023/05/31
+Precio: 222778.0
+--------------------------------
+Concepto: TECHNO TRON (8941)
+Referencia: 8941
+Fecha: 2023/08/22
+Precio: 33613.0
+--------------------------------
+Concepto: TIJERA SUPERIOR  FORD RANGER (1D02-34-260B/210B)
+Referencia: 1D02-34-260B/210B/UC3C34200D
+Fecha: 2021/06/21
+Precio: 235386.0
+--------------------------------
+Concepto: TORNILLOS GRADUACION ALINEA TOYOTA CORTO (81900KO10)
+Referencia: 81900KO10
+Fecha: 2021/06/23
+Precio: 35000.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR CAMIONETA JAC (AIP1068/A23040)
+Referencia: AIP1068/A23040/HCA23040
+Fecha: 2023/09/20
+Precio: 25800.0
+--------------------------------
+Concepto: TIJERA SUPERIOR BT50/FORD RANGER IZQU (K340428)
+Referencia: K340428
+Fecha: 2023/05/24
+Precio: 155900.0
+--------------------------------
+Concepto: AMORTIGUADOR DEL KYB FORD RANGER 3.2 (340124)
+Referencia: 340124
+Fecha: 2023/08/29
+Precio: 320500.0
+--------------------------------
+Concepto: BUJE TIJERA INF DEL FORD RANGER 2.2 -3.2 (K 200362)
+Referencia: K 200362
+Fecha: 2023/09/18
+Precio: 100900.0
+--------------------------------
+Concepto: SOPORTE CARDAN CHEVROLET DMAX RT-50 (8979476600*)
+Referencia: 8979476600*
+Fecha: 2022/04/18
+Precio: 120000.0
+--------------------------------
+Concepto: BUJE TIJERA INF DEL VW AMAROK 2.0 (7D0407183/131561)
+Referencia: 7D0407183/131561
+Fecha: 2023/01/23
+Precio: 45083.0
+--------------------------------
+Concepto: AMORTIGUADOR TRAS ORG FORD RANGER 3.2 (EB3C18080DC/JB3Z18125
+Referencia: EB3C18080DC/JB3Z18125T
+Fecha: 2022/05/11
+Precio: 625008.0
+--------------------------------
+Concepto: TIJERA INFERIOR VOLKSWAGUEN AMAROK 2.0 (K3129L)
+Referencia: K3129L
+Fecha: 2022/09/14
+Precio: 218487.39
+--------------------------------
+Concepto: AMORTIGUADOR TRAS VW AMAROK ORG (2H0513029H+)
+Referencia: 2H0513029H+
+Fecha: 2023/10/27
+Precio: 167707.0
+--------------------------------
+Concepto: BUJE TIJERA SUP VW AMAROK 2.0 (131564)
+Referencia: 131564
+Fecha: 2022/07/15
+Precio: 30000.0
+--------------------------------
+Concepto: AMORTIGUADOR TRAS KYB FORD RANGER 3.2 (345077/345101)
+Referencia: 345077/345101
+Fecha: 2023/11/23
+Precio: 145900.0
+--------------------------------
+Concepto: ROTULA INFERIOR VW AMAROK HOMO (K253009)
+Referencia: K253009
+Fecha: 2022/09/14
+Precio: 46218.49
+--------------------------------
+Concepto: ROTULA SUPERIOS VW AMAROK HOMO (K254631)
+Referencia: K254631
+Fecha: 2022/09/14
+Precio: 37815.13
+--------------------------------
+Concepto: TIJERA SUP IZQ VW AMAROK HOMO (K407021L)
+Referencia: K407021L
+Fecha: 2022/09/14
+Precio: 121848.74
+--------------------------------
+Concepto: TIJERA SUP DERE AMAROK HOMO (K407022R)
+Referencia: K407022R
+Fecha: 2022/09/14
+Precio: 121848.74
+--------------------------------
+Concepto: CAJA DE DIRECCION HIDRAULICA FORD RANGER (SG32110)
+Referencia: SG32110
+Fecha: 2022/09/27
+Precio: 0.0
+--------------------------------
+Concepto: CAUCHO BARRA ESTABILIZADORA DMAX (9616)
+Referencia: 9616
+Fecha: 2022/10/07
+Precio: 12500.0
+--------------------------------
+Concepto: CAUCHO BARRA ESTABILIZADORA NISSAN (9807)
+Referencia: 9807
+Fecha: 2023/08/29
+Precio: 15000.0
+--------------------------------
+Concepto: AXIAL DIRECCION NISSAN D23 HOMO (EV800432TH/ D8521-EB70ATH)
+Referencia: EV800432TH/ D8521-EB70ATH
+Fecha: 2023/09/05
+Precio: 45900.0
+--------------------------------
+Concepto: BUJE TIJERA INFERIOR L200 (912043)
+Referencia: 912043 / GK-516183
+Fecha: 2023/01/23
+Precio: 38900.0
+--------------------------------
+Concepto: AMORTIGUADOR TRAS BT50 FORD RANGER (340108)
+Referencia: 340108
+Fecha: 2023/05/18
+Precio: 290400.0
+--------------------------------
+Concepto: TIJERA SUPERIOR BT50 FORD RANGER DER (K340428R)
+Referencia: K340428R
+Fecha: 2023/05/24
+Precio: 155900.0
+--------------------------------
+Concepto: BUJE PEQUEÑO INF AMAROK (GK-510359)
+Referencia: GK-510359
+Fecha: 2023/05/24
+Precio: 35900.0
+--------------------------------
+Concepto: TERMINAL DIR RH NISSAN FRONTIER NP300 (ES800431TH)
+Referencia: ES800431TH
+Fecha: 2023/07/14
+Precio: 65900.0
+--------------------------------
+Concepto: TERMINAL DIR LH NISSAN FRONTIER NP300 (ES800430TH)
+Referencia: ES800430TH
+Fecha: 2023/07/14
+Precio: 65000.0
+--------------------------------
+Concepto: BOCIN RUEDA DEL. NISSAN NAVARA FRONTIER (40202JR70C)
+Referencia: 40202JR70C
+Fecha: 2023/10/17
+Precio: 299800.0
+--------------------------------
+Concepto: SOPORTE MOTOR FORD RANGER 3.2 DER HOM (694001/EM-5611837)
+Referencia: 694001/EM-5611837
+Fecha: 2023/09/14
+Precio: 122900.0
+--------------------------------
+Concepto: SOPORTE MOTOR FORD RANGER 3.2 IZQ HOM (694002/EM-5611838)
+Referencia: 694002/EM-5611838
+Fecha: 2023/09/14
+Precio: 122900.0
+--------------------------------
+Concepto: AMORTIGUADOR KYB MONOMAX RANGER T6 BT50 (8410004)
+Referencia: 8410004
+Fecha: 2023/10/29
+Precio: 0.0
+--------------------------------
+Concepto: BOCIN DELANTERO MITSUBISHI L200 SIN RODA (BOC12317901)
+Referencia: BOC12317901
+Fecha: 2023/10/03
+Precio: 280000.0
+--------------------------------
+Concepto: ROTULA SUP CHEVROLETH/COLORADO (K80684-G)
+Referencia: K80684-G
+Fecha: 2023/10/17
+Precio: 85900.0
+--------------------------------
+Concepto: BIELETA BARRA EST CHEVROLET/COLORADO LH (K717080)
+Referencia: K717080
+Fecha: 2023/10/17
+Precio: 35900.0
+--------------------------------
+Concepto: BOCIN DEL CHEVROLETH/COLORADO (G-516167)
+Referencia: G-516167
+Fecha: 2023/10/17
+Precio: 550000.0
+--------------------------------
+Concepto: BOCIN DEL NISSAN NP300 D23 2WD (40202-4KH1A)
+Referencia: 40202-4KH1A
+Fecha: 2023/10/27
+Precio: 338900.0
+--------------------------------
+Concepto: PUNTA EJE HOMOCINETICA FORD RANGER L/R (N00235)
+Referencia: N00235
+Fecha: 2023/10/27
+Precio: 160000.0
+--------------------------------
+Concepto: SENSOR POS. CIGUEÑAL CHEV FRR FORWARD (8976069430)
+Referencia: 8976069430
+Fecha: 2018/02/19
+Precio: 195626.0
+--------------------------------
+Concepto: SENSOR DE VELOCIDAD FRR EURO 2 (8973280581)
+Referencia: 8973280581
+Fecha: 2018/02/22
+Precio: 466328.0
+--------------------------------
+Concepto: ROTULA LUV DMAX INFERIOR ORIGINAL  (8980058750)
+Referencia: 8980058750
+Fecha: 2022/11/18
+Precio: 108867.0
+--------------------------------
+Concepto: RETENES ENFRIA ACEITE T5 (O3L198441+)
+Referencia: O3L198441+
+Fecha: 2022/12/12
+Precio: 40110.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR INT. HINO FC 500 (SFA 178013391)
+Referencia: SFA 178013391
+Fecha: 2022/06/24
+Precio: 36334.0
+--------------------------------
+Concepto: RETEN CAJA ENFLACHER  NHR REWARD (8981894430)
+Referencia: 8981894430
+Fecha: 2018/09/08
+Precio: 12800.0
+--------------------------------
+Concepto: PITO CLAXON 12V HELLA JUEGOX2 111 DC (HELLA 11225802)
+Referencia: HELLA 11225802
+Fecha: 2022/06/13
+Precio: 0.0
+--------------------------------
+Concepto: BUJE SUP. TIJERA  LUV DMAX 2016+ (9474190)
+Referencia: 9474190
+Fecha: 2019/03/05
+Precio: 67937.0
+--------------------------------
+Concepto: CORREA ACCESORIOS 17375 (17305)
+Referencia: 17360
+Fecha: 2019/08/02
+Precio: 20640.0
+--------------------------------
+Concepto: CORREA ACCESORIOS 17300 (17300)
+Referencia: COR17380
+Fecha: 2019/08/02
+Precio: 48800.0
+--------------------------------
+Concepto: GUAYA FRENO DE EMERGENCIA  CHEVROLET FRR (8983476960)
+Referencia: 8983476960
+Fecha: 2019/08/28
+Precio: 481468.0
+--------------------------------
+Concepto: REFRIGERANTE COOL PEAK 2.5 GAL ROJ/VER (REFRI COOLPEACK 2.5)
+Referencia: REFRI COOLPEACK 2.5
+Fecha: 2022/11/21
+Precio: 61000.0
+--------------------------------
+Concepto: SENSOR ABS TRASERO DERECHO RANGER (DB392C190AC)
+Referencia: DB392C190AC
+Fecha: 2022/08/03
+Precio: 224169.0
+--------------------------------
+Concepto: KIT EMBRAGUE CHEVRILET DIMAX RT50 (95625625)
+Referencia: 95625625
+Fecha: 2021/09/02
+Precio: 659839.0
+--------------------------------
+Concepto: BUJE TIJERA INF LUV DMAX RT50 (8979470871)
+Referencia: 8979470871
+Fecha: 2022/03/01
+Precio: 109590.0
+--------------------------------
+Concepto: UREA BLUE DEF USA GALON 2.5 (UREAGLN)
+Referencia: UREAGLN
+Fecha: 2022/10/04
+Precio: 56000.0
+--------------------------------
+Concepto: CORREA ACCESORIOS DIR HID-A/A DMAX RT-50 (8979851220)
+Referencia: 17595
+Fecha: 2021/04/16
+Precio: 78000.0
+--------------------------------
+Concepto: CORREA ALTERNADOR DMAX RT-50/FRR REWARD (7PK1030)
+Referencia: 7PK1030
+Fecha: 2022/03/01
+Precio: 33613.0
+--------------------------------
+Concepto: RETEN DEL. INT LUV D´MAX (8980365950)
+Referencia: 8980365950
+Fecha: 2021/05/08
+Precio: 37603.0
+--------------------------------
+Concepto: RETEN DEL. EXT LUV D´MAX (8980365940)
+Referencia: 8980365940
+Fecha: 2021/05/08
+Precio: 21048.0
+--------------------------------
+Concepto: RODAMIENTO DEL. INT LUV D´MAX (8942588190+)
+Referencia: 8942588190+
+Fecha: 2021/05/08
+Precio: 67817.0
+--------------------------------
+Concepto: RODAMIENTO DEL. EXT LUV D´MAX (8942270410+)
+Referencia: 8942270410+
+Fecha: 2021/05/08
+Precio: 43902.0
+--------------------------------
+Concepto: ALTERNADOR NKR/NHR HOM (8983003350+)
+Referencia: 8983003350+
+Fecha: 2021/05/27
+Precio: 402500.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR CHEVROLET COLORADO HOM (SFA40734/ AIP-1051)
+Referencia: SFA40734/ AIP-1051
+Fecha: 2023/02/16
+Precio: 29480.0
+--------------------------------
+Concepto: FILTRO ACEITE CHEVORLET COLORADO HOM (HCP6838/1948771)
+Referencia: HCP6838/ OLP131
+Fecha: 2023/02/16
+Precio: 18600.0
+--------------------------------
+Concepto: FILTRO COMB CHEVROLET COLORADO HOM (HCP1044/FLP-481)
+Referencia: HCP1044/FLP-481
+Fecha: 2023/02/16
+Precio: 25080.0
+--------------------------------
+Concepto: BOMBILLO P21W 24 V 2F (P2W 24 2F)
+Referencia: P2W 24 2F
+Fecha: 2023/10/25
+Precio: 1828.0
+--------------------------------
+Concepto: BOMBILLO P21 24 V 1F AMBAR (P21 AMBAR 1F)
+Referencia: P21 AMBAR 1F
+Fecha: 2021/11/23
+Precio: 2430.0
+--------------------------------
+Concepto: BOMBILLO H1 24V (H1-24V)
+Referencia: H1-24V
+Fecha: 2023/05/09
+Precio: 15041.0
+--------------------------------
+Concepto: BOMBILLO H4 24V (H4 24V /P43T64196)
+Referencia: H4 24V /P43T64196
+Fecha: 2023/10/25
+Precio: 20169.0
+--------------------------------
+Concepto: CRUCETA GUN 500 (CR-GUN 500)
+Referencia: CR-GUN 500
+Fecha: 2022/01/13
+Precio: 36507.94
+--------------------------------
+Concepto: BOMBILLO W5W 12V COCUYO (W5W 12V)
+Referencia: W5W 12V
+Fecha: 2023/04/17
+Precio: 1469.0
+--------------------------------
+Concepto: CRUCETA CARDAN LUV DMAX SPICER (CR -7078)
+Referencia: CR -7078
+Fecha: 2022/07/15
+Precio: 36664.0
+--------------------------------
+Concepto: ROTULA LUV DMAX SUPERIOR ORIGINAL (8980058270)
+Referencia: 8980058270
+Fecha: 2022/11/18
+Precio: 96941.0
+--------------------------------
+Concepto: KIT FILTROS NKR ACCEDELCO (98552903)
+Referencia: 98552903
+Fecha: 2023/10/03
+Precio: 96458.0
+--------------------------------
+Concepto: BOMBILLO 2 FILAMENTOS 12V STOP (P21 -W21/5w/12v)
+Referencia: P21 -W21/5w/12v
+Fecha: 2023/10/25
+Precio: 2802.0
+--------------------------------
+Concepto: BRAZO AXIAL DMAX (8981649670)
+Referencia: 8981649670
+Fecha: 2022/11/18
+Precio: 77952.0
+--------------------------------
+Concepto: FILTRO  COMBUSTIBLE ACCEDELCO (19279670)
+Referencia: 19279670
+Fecha: 2023/02/17
+Precio: 24618.0
+--------------------------------
+Concepto: FILTRO ACEITE LUV DMAX RT50 (HCX0710/OLP114)
+Referencia: HCX0710/OLP114
+Fecha: 2023/02/17
+Precio: 20216.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR CHEVROLET DMAX (HCA 2266 / AIP-912)
+Referencia: HCA 2266/AIP-912
+Fecha: 2023/02/17
+Precio: 43434.0
+--------------------------------
+Concepto: BOMBILLO 7515 21/5W 12V OSRAM (07I06103)
+Referencia: 07I06103
+Fecha: 2023/07/27
+Precio: 13428.0
+--------------------------------
+Concepto: TERMINAL CORT FFR DER (1431507481+/45420-1590/45430-1590)
+Referencia: 1431507481+/45420-1590/45430-1590
+Fecha: 2023/09/05
+Precio: 187840.0
+--------------------------------
+Concepto: ROTULA INFERIOR FORD RANGER 3.2 DIE (UC2R34550/)
+Referencia: UC2R34550/
+Fecha: 2022/05/24
+Precio: 126050.42
+--------------------------------
+Concepto: ROTULA INF FORD RANGER 3.2 2022 HOM (SAGH-50311)
+Referencia: SAGH-50311
+Fecha: 2022/08/23
+Precio: 126050.42
+--------------------------------
+Concepto: ACEITE 10W30 SINTETICO MOTORCRAFT DIESEL (ACMT10W30 / XO10W30QSDF)
+Referencia: XO10W30Q1SP / ACMT10W30 / XO10W30QSDF
+Fecha: 2023/06/27
+Precio: 21000.0
+--------------------------------
+Concepto: FILTRO COMB FORD RANGER 3.2 ORIG (LU2Z-9365-A / AB399176AC)
+Referencia: DIS001
+Fecha: 2023/09/22
+Precio: 86109.0
+--------------------------------
+Concepto: FILTRO ACEITE FORD RANGER 3.2 ORIG (BB3Q6744BA/JU2Z6731A)
+Referencia: BB3Q6744BA/JU2Z6731A
+Fecha: 2023/09/21
+Precio: 46022.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR FORD RANGER 3.2 ORIG (AB399601AD /AIP-892)
+Referencia: AB399601AD
+Fecha: 2023/10/03
+Precio: 35100.0
+--------------------------------
+Concepto: FILTRO AIRE ACOND FORD RANGER 3.2 ORG (HB3Z19N619-MKT/HB2Z19N619B/AB3919N61AA)
+Referencia: HB3Z19N619B/AB3919N61AA
+Fecha: 2023/10/03
+Precio: 18900.0
+--------------------------------
+Concepto: RETENEDOR CHEV COLORADO (40X69X10SAV)
+Referencia: 40X69X10SAV
+Fecha: 2023/07/29
+Precio: 16807.0
+--------------------------------
+Concepto: PATIN CORREA DISTRIB FORD RANGER BT 2.5 (WE01-12-700)
+Referencia: K7068-6
+Fecha: 2018/04/06
+Precio: 335994.0
+--------------------------------
+Concepto: ROTULA SUP DEL IZQUIERDA AMAROK (2H0407366)
+Referencia: 2H0407366
+Fecha: 2022/10/28
+Precio: 82714.0
+--------------------------------
+Concepto: CORREA DISTRIB FORD RANGER BT50 2.5 DIE (WE01-12-205TT)
+Referencia: WE01-12-205TT
+Fecha: 2018/04/06
+Precio: 110081.0
+--------------------------------
+Concepto: ROTULA SUP DEL DERECHA AMAROK (2H0407365)
+Referencia: 2H0407365
+Fecha: 2022/10/28
+Precio: 66960.0
+--------------------------------
+Concepto: COMPRESOR AIRE ACOND FORD RANGER 2.2 DIE (AB3919D629BC)
+Referencia: 52160963
+Fecha: 2018/01/30
+Precio: 1960784.0
+--------------------------------
+Concepto: FILTRO ACEITE FORD RANGER BT50 2.5 DIESE (WE0114302T)
+Referencia: WE0114302T
+Fecha: 2022/06/18
+Precio: 28847.0
+--------------------------------
+Concepto: RETEN CIGUEÑAL FORD RANGER 2.2 DIESEL (3S7Q6700AD)
+Referencia: 3S7Q6700AD
+Fecha: 2018/02/28
+Precio: 70421.0
+--------------------------------
+Concepto: CORREA DE ACCESORIOS FORD RANGER 3.2 DIE (AB396C301AB)
+Referencia: AB396C301AB
+Fecha: 2023/01/21
+Precio: 138201.0
+--------------------------------
+Concepto: EMPAQUE PORTATOBERA MAZDA BT50 2.5 DIESE (WE01-13R79B)
+Referencia: FS20AMP-20
+Fecha: 2018/03/12
+Precio: 3300.0
+--------------------------------
+Concepto: TERMINAL CORT DIRE FORD RANGER (UR61-32-280)
+Referencia: UR61-32-280
+Fecha: 2022/10/19
+Precio: 70529.0
+--------------------------------
+Concepto: TERMINAL DE DIRECCION LARGA FORD RANGER (UR56-32-250)
+Referencia: UR56-32-250
+Fecha: 2018/08/15
+Precio: 108737.0
+--------------------------------
+Concepto: SOPORTE CARDAN VW AMAROK (230119-1)
+Referencia: 230119-1
+Fecha: 2023/05/30
+Precio: 0.0
+--------------------------------
+Concepto: SOPORTE MANIJA LIB CAPO AMAROK (7L0823633H/L0823633H)
+Referencia: 7L0823633H/L0823633H
+Fecha: 2023/07/05
+Precio: 263544.0
+--------------------------------
+Concepto: SENSOR COMBUSTIBLE MAZDA BT50 FORD 2.5 D (WL81-13-ZA6)
+Referencia: WL81-13-ZA6
+Fecha: 2019/01/11
+Precio: 20000.0
+--------------------------------
+Concepto: BUJE TIJERA INF TRAS FORD RANGER 2.2 3.2 (AB313069AB)
+Referencia: AB313069AB
+Fecha: 2021/11/22
+Precio: 130505.0
+--------------------------------
+Concepto: EJE DELANTERO VW AMAROK 2.0 (2H0407271F+)
+Referencia: 2H0407271F+
+Fecha: 2023/05/12
+Precio: 530000.0
+--------------------------------
+Concepto: CIGUEÑAL MOTOR FORD RANGER 2.5 DIESEL (WL01-11-300A)
+Referencia: HR-NHR-05
+Fecha: 2018/05/05
+Precio: 1775000.0
+--------------------------------
+Concepto: CORREA ALTERNADOR FORD MAZDA 2.5 DIESEL (WL51-18-380ATT)
+Referencia: C17600
+Fecha: 2018/07/04
+Precio: 76000.0
+--------------------------------
+Concepto: CORREA AIRE ACOND LUV DIMAX RT50 DIESEL (8-97985122-0)
+Referencia: 8-97985122-0 / 17570
+Fecha: 2022/02/16
+Precio: 18487.0
+--------------------------------
+Concepto: FILTRO TRAMPA BUS YUTONG (P550748)
+Referencia: P550748
+Fecha: 2023/07/13
+Precio: 180000.0
+--------------------------------
+Concepto: GUAYA EMERG. MAZDA BT50 IZQ (UR61-44-420A)
+Referencia: UR61-44-420A
+Fecha: 2018/07/30
+Precio: 94000.0
+--------------------------------
+Concepto: CUBIERTA ESPEJO RANGER DIE DER (AB3917K746AA)
+Referencia: AB3917K746AA
+Fecha: 2022/11/25
+Precio: 96066.0
+--------------------------------
+Concepto: TORNILLO GRADUACION TIJERA AMAROK 2.0 (WHT001833)
+Referencia: WHT001833
+Fecha: 2021/07/21
+Precio: 87462.5
+--------------------------------
+Concepto: STOP FORD RANGER 2.2 / 3.2 ORIGINAL RH (AB396038JB)
+Referencia: AB396038JB
+Fecha: 2022/03/23
+Precio: 378151.0
+--------------------------------
+Concepto: TUBO CONEXION VALVULA RANGER DIESEL (BB3Q9KO22AG)
+Referencia: BB3Q9KO22AG
+Fecha: 2018/09/26
+Precio: 431129.0
+--------------------------------
+Concepto: SENSOR ABS TRAS FORD RANGER 3.2 IZQ (JB3Z2C190B/983927)
+Referencia: JB3Z2C190B/983927
+Fecha: 2023/11/23
+Precio: 461431.0
+--------------------------------
+Concepto: REFRIGERANTE RADIADOR ORANGE MCRAF (VC3B)
+Referencia: VC3B
+Fecha: 2019/05/15
+Precio: 36873.0
+--------------------------------
+Concepto: FILTRO COMB  HINO FC9J EU V (FLP505/23304EV550/HCPEV550)
+Referencia: FLP505/23304EV550/HCPEV550/SAKURA-F13140
+Fecha: 2023/08/22
+Precio: 87000.0
+--------------------------------
+Concepto: D-FRENO B2600 BT-50 DEL (UR61-33-251+)
+Referencia: FS25AMP
+Fecha: 2018/10/24
+Precio: 176694.0
+--------------------------------
+Concepto: RODAMIENTO DELAN NISSAN D23 ORIGINAL (RODFR01)
+Referencia: RODFR01
+Fecha: 2023/10/27
+Precio: 9243.7
+--------------------------------
+Concepto: COPELA TOPE AMORTIGUADOR FORD RANGER 3.2 (AB315A318AB)
+Referencia: AB315A318AB
+Fecha: 2021/11/22
+Precio: 114638.0
+--------------------------------
+Concepto: SEMI EJE PROP BT-50 IZQUIERDA (PP02-2560XA)
+Referencia: PP02-2560XA
+Fecha: 2018/10/24
+Precio: 915638.0
+--------------------------------
+Concepto: JUEGO PUNTILLAS (KP61-01/03/04/06/11)
+Referencia: KP61-01/03/04/06/11
+Fecha: 2023/03/14
+Precio: 6723.0
+--------------------------------
+Concepto: STOP FORD RANGER  2.2 / 3.2 ORIGINAL LH (AB3913404FA)
+Referencia: AB3913404FA
+Fecha: 2022/03/23
+Precio: 378151.0
+--------------------------------
+Concepto: DISCO FRENO CHEVROLET COLORADO (DF07-CHCOL)
+Referencia: DF07-CHCOL
+Fecha: 2022/06/13
+Precio: 175100.0
+--------------------------------
+Concepto: FILTRO ACEITE MITSUBISHI L200 (2022) HOM (HCX7317/OLP-XT019/C1011/C1028)
+Referencia: HCX7317/OLP-XT019/C1011/C1028
+Fecha: 2023/11/16
+Precio: 20500.0
+--------------------------------
+Concepto: DEFLECTOR RADIADOR RANGER DIE FORD RANGE (AB398B407AD)
+Referencia: AB398B407AD
+Fecha: 2019/02/20
+Precio: 220283.0
+--------------------------------
+Concepto: EXPLORADORA FIESTA R/L 2013 FORD RANGER (4F9Z15200AA)
+Referencia: HR-NHR-06
+Fecha: 2019/02/20
+Precio: 47736.0
+--------------------------------
+Concepto: ALETA G/FANGO TRASERO DERECHO FORD
+Referencia: EB3Z16A550AL
+Fecha: 2022/09/02
+Precio: 106517.0
+--------------------------------
+Concepto: FILTRO ACEITE HCX-r6 (HCX-r6)
+Referencia: HCX-r6
+Fecha: 2023/03/25
+Precio: 13500.0
+--------------------------------
+Concepto: ALETA GUARD TRAS IZQ. FORD 2.2 - 3.2 DIE (AB3928400BC)
+Referencia: AB3928400BC
+Fecha: 2020/06/10
+Precio: 93601.0
+--------------------------------
+Concepto: FILTRO COMB FOTON AUMARK (BF1212 / HCX8019G/FLP486)
+Referencia: BF1212 / HCX8019G/FLP486
+Fecha: 2023/07/13
+Precio: 45600.0
+--------------------------------
+Concepto: SENSOR MAF FORD RANGER 2.2 DIESEL (MAF2.2DIE)
+Referencia: MAF2.2DIE
+Fecha: 2019/03/18
+Precio: 293940.0
+--------------------------------
+Concepto: BASE ANTENA FORD RANGER DIESEL 2.2 (AB3918A978BE)
+Referencia: 6206
+Fecha: 2019/04/09
+Precio: 58595.0
+--------------------------------
+Concepto: SENSOR POS CIG RANGER DIESEL (BK216D315BA)
+Referencia: BK216D315BA
+Fecha: 2019/03/30
+Precio: 292560.0
+--------------------------------
+Concepto: PLUMILLA IZQ. FORD RANGER 3.2 ORGINAL (EB3B17528AA)
+Referencia: EB3B17528AA
+Fecha: 2021/08/27
+Precio: 76391.0
+--------------------------------
+Concepto: PLUMILLA DER. FORD RANGER 3.2 ORGINAL (EB3B17528BA)
+Referencia: EB3B17528BA
+Fecha: 2021/08/27
+Precio: 43476.0
+--------------------------------
+Concepto: TAPA COMBUSTIBLE FORD RANGER 3.2 (AB319030CD)
+Referencia: AB319030CD
+Fecha: 2022/09/27
+Precio: 137200.0
+--------------------------------
+Concepto: TACOMETRO FORD RANGER 2.2 DIESEL (AB3910849DP)
+Referencia: AB3910849DP
+Fecha: 2019/09/11
+Precio: 1621346.0
+--------------------------------
+Concepto: ALETA GUARD.FAN DEL. IZQ FORD RANGER 3.2 (EB3Z16550D)
+Referencia: EB3Z16550D
+Fecha: 2022/08/13
+Precio: 116891.0
+--------------------------------
+Concepto: ALETA GUARD.FAN DEL. DER FORD RANGER 3.2 (EB3Z16A550B)
+Referencia: EB3Z16A550B
+Fecha: 2022/08/13
+Precio: 164164.0
+--------------------------------
+Concepto: BANDAS DE FRENO FORD RANGER 3.2 DIESEL (URY1-26-38Z+)
+Referencia: BL6302X22CM
+Fecha: 2020/06/10
+Precio: 98832.0
+--------------------------------
+Concepto: ASPERSORES LAVA VIDRIOS FORD RANGER 3.2 (EB3B17666AB)
+Referencia: AP3348
+Fecha: 2020/01/03
+Precio: 96241.0
+--------------------------------
+Concepto: TAPA RADIADOR FORD RANGER 3.2 DIESEL (DG9Z8100A)
+Referencia: DG9Z8100A
+Fecha: 2023/09/12
+Precio: 39076.0
+--------------------------------
+Concepto: TERMOSTATO RADIADO FORD RANGER 3.2 (XS7Q8575AA)
+Referencia: XS7Q8575AA
+Fecha: 2022/06/28
+Precio: 158424.0
+--------------------------------
+Concepto: ACEITE 20W-50 GTX CASTROL GALON (DISP91)
+Referencia: 20W50GT GL
+Fecha: 2022/07/18
+Precio: 93500.0
+--------------------------------
+Concepto: TERMINAL CORT DIRE FORD RANGER 3.2 IZQ (AB313290BA/)
+Referencia: AB313290BA/
+Fecha: 2020/02/10
+Precio: 64162.0
+--------------------------------
+Concepto: TERMINAL CORT DIRE FORD RANGER 3.2 DER (AB313289BA/)
+Referencia: AB313289BA/
+Fecha: 2020/02/10
+Precio: 64162.0
+--------------------------------
+Concepto: SOPORTE MOTOR FORD RANGER 3.2 IZQ ORIG (UF9W-39-040A / AB3Z6038Z+)
+Referencia: UF9W-39-040A / AB3Z6038Z+
+Fecha: 2023/07/04
+Precio: 123600.0
+--------------------------------
+Concepto: CILINDRO FRENO VOLKSWAGUEN AMAROK 2.0 (CR-04-1045)
+Referencia: CR-04-1045/WC5194
+Fecha: 2022/03/04
+Precio: 75630.0
+--------------------------------
+Concepto: LUZ PLACA FORD RANGER (6M2A13550AC)
+Referencia: 6M2A13550AC
+Fecha: 2023/05/24
+Precio: 136701.0
+--------------------------------
+Concepto: ELEVADORES 24V 5 PINES EXIM (ELEV24V)
+Referencia: ELEV24V
+Fecha: 2022/08/01
+Precio: 7983.0
+--------------------------------
+Concepto: RODAMIENTO DEL. FORD RANGER 3.2 ORG (UC3C-33-047B++)
+Referencia: UC3C-33-047B++
+Fecha: 2021/11/06
+Precio: 181524.0
+--------------------------------
+Concepto: FAN CLOUTCH MOTOR FORD /MAZDA 3.2 2.2  (1D00-15-140)
+Referencia: 1D00-15-140
+Fecha: 2022/01/12
+Precio: 819574.0
+--------------------------------
+Concepto: MANGUERA FRENO FORD RANGER (EB3C2078CA)
+Referencia: EB3C2078CA
+Fecha: 2020/11/09
+Precio: 214114.0
+--------------------------------
+Concepto: SENSOR CONTROL TEMPERATURA A.A. (AB3919T563DA)
+Referencia: AB3919T563DA
+Fecha: 2022/07/18
+Precio: 127000.0
+--------------------------------
+Concepto: PERA DE REVERSA FORD RANGER 2.2/3.2 (CM5T15520CA)
+Referencia: CM5T15520CA
+Fecha: 2021/04/21
+Precio: 125779.0
+--------------------------------
+Concepto: THERMOSTATO UNIV. (ALUMINIO) (5224)
+Referencia: 5224
+Fecha: 2023/07/13
+Precio: 16807.0
+--------------------------------
+Concepto: AMORT. GATO CAPOT FORD RANGER 3.2 DER (EB3B16C826AA)
+Referencia: EB3B16C826AA
+Fecha: 2021/07/15
+Precio: 251355.0
+--------------------------------
+Concepto: AMORT. GATO CAPOT FORD RANGER 3.2 IZQ (EB3B16C827AA)
+Referencia: EB3B16C827AA
+Fecha: 2021/07/15
+Precio: 305200.0
+--------------------------------
+Concepto: MANGUERA BOMBA AGUA FORD RANGER 3.2 (BBQ8K512BD)
+Referencia: BBQ8K512BD
+Fecha: 2022/03/04
+Precio: 183800.0
+--------------------------------
+Concepto: SENSOR TEMP EXPLORER (DY1160)
+Referencia: DY1160
+Fecha: 2023/09/12
+Precio: 44283.0
+--------------------------------
+Concepto: PATIN TENSOR CORREA ACCESORIOS FORD  3.2 (FB3Q-6A228-BA)
+Referencia: FB3Q-6A228-BA
+Fecha: 2023/06/13
+Precio: 501308.0
+--------------------------------
+Concepto: SOPORTE AMORTIGUADOR DEL BT-50 (UC3C-34-340A)
+Referencia: UC3C-34-340A
+Fecha: 2023/10/31
+Precio: 148255.0
+--------------------------------
+Concepto: BOMBA DE DIRECCION HIDRAULICA FORD RANGE
+Referencia: AB313A696AB
+Fecha: 2022/08/23
+Precio: 1380000.0
+--------------------------------
+Concepto: SOPORTE BOMPER  DERECHO FORD RANGER (EB3B17W996AB)
+Referencia: EB3B17W996AB
+Fecha: 2022/09/07
+Precio: 0.0
+--------------------------------
+Concepto: SOPORTE LLANTA FORD RANGER (MALACATE) (AB3Z1A131B)
+Referencia: AB3Z1A131B
+Fecha: 2022/10/13
+Precio: 367010.0
+--------------------------------
+Concepto: DEFLECTOR RADIADOR FORD RANGER (EB3B8C291BC)
+Referencia: EB3B8C291BC
+Fecha: 2022/09/12
+Precio: 0.0
+--------------------------------
+Concepto: CAJA LLENADO FORD RANGER (AB392127936AJ)
+Referencia: AB392127936AJ
+Fecha: 2022/09/12
+Precio: 0.0
+--------------------------------
+Concepto: DEFLECTOR AIRE  FOORD RANGER (EB3Z8311M)
+Referencia: EB3Z8311M
+Fecha: 2022/09/13
+Precio: 0.0
+--------------------------------
+Concepto: SOPORTE BOMPER  IZQ FORD RANGER (EB3Z17A870L)
+Referencia: EB3Z17A870L
+Fecha: 2022/09/13
+Precio: 0.0
+--------------------------------
+Concepto: BALIBOMBA CLUCTH FORD RANGER 3.2 ORG (4C117C559AH+ / 1D0216510)
+Referencia: 4C117C559AH+ / 1D0216510
+Fecha: 2023/06/24
+Precio: 712953.0
+--------------------------------
+Concepto: BARRA ESTABILIZADORA FORD RANGER ORG (UC3C34151B)
+Referencia: UC3C34151B
+Fecha: 2022/09/20
+Precio: 1090000.0
+--------------------------------
+Concepto: POLEA TENSORA FORD RANGER (FB3Q19A216AA)
+Referencia: FB3Q19A216AA
+Fecha: 2023/04/03
+Precio: 210084.0
+--------------------------------
+Concepto: RETEN CIGUEÑAL FORD RANGER ORIGI (3S7Z6700B)
+Referencia: 3S7Z6700B
+Fecha: 2022/10/19
+Precio: 102362.0
+--------------------------------
+Concepto: FAROLA FORD RANGER ORIGINAL DEL DERECHA (EB3Z13008HT)
+Referencia: EB3Z13008HT
+Fecha: 2022/11/02
+Precio: 1583047.0
+--------------------------------
+Concepto: CREMALLERA E/VIDRIO FORD RANGER ORIGINAL (AB392123200BG)
+Referencia: AB392123200BG
+Fecha: 2022/11/04
+Precio: 1386541.0
+--------------------------------
+Concepto: GUAYA TEMPLETE COMPUERTA PLATON FORD RAN (DISP82)
+Referencia: DISP82
+Fecha: 2023/01/17
+Precio: 26781.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR FORD RANGER 3.2 HOM (SFA-AB39-9601/AIP-892/MG2MZ9601MKT)
+Referencia: SFA-AB39-9601/AIP-892/MG2MZ9601MKT
+Fecha: 2023/11/14
+Precio: 35100.0
+--------------------------------
+Concepto: STOP RANGER DIE IZQ (DB3Z13405E)
+Referencia: DB3Z13405E
+Fecha: 2023/05/31
+Precio: 1183412.0
+--------------------------------
+Concepto: MOTOR ARRANQUE RANGER 15 (AB3911000BA)
+Referencia: AB3911000BA
+Fecha: 2023/06/13
+Precio: 2795039.0
+--------------------------------
+Concepto: CORREA ACCESORIOS FORD RANGER 3.2 13 (AB3Z8620B)
+Referencia: AB3Z8620B
+Fecha: 2023/09/01
+Precio: 0.0
+--------------------------------
+Concepto: MANGUERA BOMBA AGUA RANGER DIE (AB399Y438BG/5297115)
+Referencia: AB399Y438BG/5297115
+Fecha: 2023/09/05
+Precio: 681187.0
+--------------------------------
+Concepto: MANGUERA CALEFACCION FORD RANGER DIE (EB3G18K579HA/2097244)
+Referencia: EB3G18K579HA/2097244
+Fecha: 2023/09/05
+Precio: 251847.0
+--------------------------------
+Concepto: MANGUERA CALEFACCION FORD RANGER DIE 13 (EB3G18K582CF)
+Referencia: EB3G18K582CF/2232738
+Fecha: 2023/09/05
+Precio: 620695.0
+--------------------------------
+Concepto: CALIPER FORD RANGER 20 DEL (AB3Z2B120A)
+Referencia: AB3Z2B120A
+Fecha: 2023/09/20
+Precio: 677646.0
+--------------------------------
+Concepto: PORTA MANGUETA DER FORD RANGER 22 (JB3Z3K185K/984039)
+Referencia: JB3Z3K185K/984039
+Fecha: 2023/09/20
+Precio: 1014500.0
+--------------------------------
+Concepto: SOPORTE CAPILER FORD RANGER DEL (AB312B135AA/2232477)
+Referencia: AB312B135AA/2232477
+Fecha: 2023/09/20
+Precio: 420868.0
+--------------------------------
+Concepto: MANGUERA TRANSIT FORD RANGER (BK3Z8597B/2233256)
+Referencia: BK3Z8597B/2233256
+Fecha: 2023/10/02
+Precio: 152016.0
+--------------------------------
+Concepto: MANGUERA ENTRADA ENFRIADOR FORD RANGER (EB3G9Y438BA/2233038)
+Referencia: EB3G9Y438BA/2233038
+Fecha: 2023/10/02
+Precio: 399135.0
+--------------------------------
+Concepto: MOTOR CONTROL CAMBIOS BT-50 PROF (1D00-17-YC0)
+Referencia: 1D00-17-YC0
+Fecha: 2023/10/31
+Precio: 2514706.0
+--------------------------------
+Concepto: AMORTIGUADOR DEL FORD RANGER 19 (JB3Z18124R)
+Referencia: JB3Z18124R
+Fecha: 2023/11/21
+Precio: 551202.0
+--------------------------------
+Concepto: FILTRO ACEITE VW AMAROK 2.0/ CRAFTER 2.0 (03L115562)
+Referencia: 03L115562
+Fecha: 2023/05/15
+Precio: 39210.0
+--------------------------------
+Concepto: FILTRO AIRE VOLKSWAGUEN CRAFTER 50 ORG (2E0129620D)
+Referencia: 2E0129620D
+Fecha: 2022/06/29
+Precio: 123197.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR VW AMAROK/CRAFTER ORIG (2H0129620D)
+Referencia: 2H0129620D/HCH7401D 
+Fecha: 2023/07/27
+Precio: 76175.0
+--------------------------------
+Concepto: FILTRO COMB VW AMAROK 2.0/CRAFTER 2.0 (2H0127401G+)
+Referencia: MAHLE-KL1079/FLP454/2H0127401G+
+Fecha: 2023/07/27
+Precio: 184555.0
+--------------------------------
+Concepto: DISCO FRENO VOLWAGUEN CRAFTER TRASERO (2E0615601A)
+Referencia: 2E0615601A
+Fecha: 2018/08/31
+Precio: 257441.0
+--------------------------------
+Concepto: PASTILLAS FRENO VW AMAROK ORIG (2H0698151A+)
+Referencia: 2H0698151A+
+Fecha: 2023/05/20
+Precio: 121147.0
+--------------------------------
+Concepto: FILTRO AIRE ACONDICIONADO VW CRAFTER (2E0819638)
+Referencia: 2E0819638
+Fecha: 2022/07/05
+Precio: 61407.0
+--------------------------------
+Concepto: SENSOR DESG FRENO CRAFTER (2E0906206B)
+Referencia: 2E0906206B
+Fecha: 2019/10/11
+Precio: 60000.0
+--------------------------------
+Concepto: PLUMILLA 20´ACEDELCO HOMOLOGADA (PLU ACD 19101995)
+Referencia: PLU ACD 19101995
+Fecha: 2023/11/14
+Precio: 19167.0
+--------------------------------
+Concepto: LIQUIDO FRENOS 500CC COFRE DOT5 (LQF500DOT5)
+Referencia: LQF500DOT5
+Fecha: 2019/05/15
+Precio: 14249.0
+--------------------------------
+Concepto: FILTRO COMB. CAMIONETA JAC (FLP392)
+Referencia: FLP392
+Fecha: 2023/04/12
+Precio: 45000.0
+--------------------------------
+Concepto: LUBRICANTE ZX4 240ML SIMONITZ (ZX4 240ML)
+Referencia: ZX4 240ML
+Fecha: 2019/10/01
+Precio: 9645.0
+--------------------------------
+Concepto: FILTRO COMB YUTONG BUSETA (FF5706)
+Referencia: FF5706
+Fecha: 2023/07/04
+Precio: 70000.0
+--------------------------------
+Concepto: SENSOR DSEG. DEL FRENO (06206C)
+Referencia: 06206C
+Fecha: 2019/10/11
+Precio: 56000.0
+--------------------------------
+Concepto: CORREA ACCESORIOS VOLKSWAGUEN CRAFTER 50 (CRRPR0101)
+Referencia: CRRPR0101
+Fecha: 2020/01/23
+Precio: 158730.0
+--------------------------------
+Concepto: KIT REPARTICION VW AMAROK 2.0 (03L198119F++)
+Referencia: 03L198119F++
+Fecha: 2023/10/20
+Precio: 866999.0
+--------------------------------
+Concepto: FILTRO AIRE ACOND VOLKSWAGUEN CRAFTER 50 (SFA9068300218)
+Referencia: SFA9068300218
+Fecha: 2021/02/15
+Precio: 22315.58
+--------------------------------
+Concepto: RODAMIENTO DEL VW AMAROK ORG (2H0498657A++)
+Referencia: 2H0498657A++
+Fecha: 2023/04/05
+Precio: 280587.0
+--------------------------------
+Concepto: KIT CORREA DE ACCESORIOS VW AMAROK (03L998137++)
+Referencia: 03L998137++
+Fecha: 2023/10/27
+Precio: 545120.0
+--------------------------------
+Concepto: ACEITE 5W-40 HELIX SINTETICO LITRO (HELIX5W40SINTE)
+Referencia: HELIX5W40SINTE
+Fecha: 2023/03/06
+Precio: 0.0
+--------------------------------
+Concepto: CORREA DE ACCESORIOS VW AMAROK 15405 (03L903137AC)
+Referencia: 03L903137AC
+Fecha: 2022/10/02
+Precio: 147301.0
+--------------------------------
+Concepto: TUBO REFRIGERACION VW AMAROK (2H0122447M)
+Referencia: 2H0122447M
+Fecha: 2023/04/24
+Precio: 113826.0
+--------------------------------
+Concepto: BALINERA CLOUTCH AMAROK (BALIBOMBA) (0C6141671D)
+Referencia: 0C6141671D
+Fecha: 2021/04/26
+Precio: 287000.0
+--------------------------------
+Concepto: KIT EMBRAGUE VW AMAROK (03L141016M)
+Referencia: 03L141016M
+Fecha: 2023/10/19
+Precio: 2801121.0
+--------------------------------
+Concepto: VOLANTE MOTOR AMAROK (03L105266DK)
+Referencia: DIS007
+Fecha: 2021/04/26
+Precio: 1418319.32
+--------------------------------
+Concepto: FILTRO COMB VW AMAROK HOM (MAHLE-KL 1079/FLP454)
+Referencia: DIS003
+Fecha: 2023/04/24
+Precio: 184555.0
+--------------------------------
+Concepto: BIELETA DEL VW AMAROK HOM (2H0411317B+)
+Referencia: 2H0411317B+
+Fecha: 2023/10/31
+Precio: 55488.0
+--------------------------------
+Concepto: MANGUERA REFRIG VW AMAROK SUPERIOR (2H0121101)
+Referencia: 2H0121101
+Fecha: 2021/07/23
+Precio: 73102.0
+--------------------------------
+Concepto: BANDAS FRENO VW AMAROK (BP-1667)
+Referencia: BP-1667
+Fecha: 2023/05/20
+Precio: 152101.0
+--------------------------------
+Concepto: BUJE CAJA DE DIRECCION VW AMAROK (2H0422405)
+Referencia: 2H0422405
+Fecha: 2023/05/19
+Precio: 58616.0
+--------------------------------
+Concepto: PITO REVERSA 12 - 24V HELLA PESADOS (PSR45)
+Referencia: PSR45
+Fecha: 2023/10/03
+Precio: 39638.0
+--------------------------------
+Concepto: FUSIBLE MAXI 10 AMP (FSMAXI10AMP)
+Referencia: FSMAXI10AMP
+Fecha: 2022/02/14
+Precio: 195.83
+--------------------------------
+Concepto: FILTRO AIRE ACOND WV AMAROK HOMOLOGADO (7H0819631A/RH131210/ACP010)
+Referencia: ACP-110/7H0819631A/RH131210
+Fecha: 2023/05/09
+Precio: 14640.0
+--------------------------------
+Concepto: PLUMILLA AMAROK ORI (2H1998002)
+Referencia: 2H1998002
+Fecha: 2022/04/05
+Precio: 192455.0
+--------------------------------
+Concepto: FILTRO COMB VW AMAROK 2.0/CRAFTER 2.0 (2H0127401G)
+Referencia: 2H0127401G
+Fecha: 2023/01/23
+Precio: 184555.0
+--------------------------------
+Concepto: BOMBA DE DIRECCION  HIDRAULICA AMAROK (2H0422154A+)
+Referencia: 2H0422154A+
+Fecha: 2022/09/05
+Precio: 836966.0
+--------------------------------
+Concepto: TENSOR CORREA ACCESORIOS VW AMAROK ORIG (3G145276)
+Referencia: 3G145276
+Fecha: 2022/10/02
+Precio: 179278.0
+--------------------------------
+Concepto: TENSOR CORREA ACCESORIOS VW AMAROK ORIG (038903315AP)
+Referencia: 038903315AP
+Fecha: 2022/10/02
+Precio: 346194.0
+--------------------------------
+Concepto: BOMBA COMBUSTIBLE VW AMAROK (2H0919050F)
+Referencia: 2H0919050F
+Fecha: 2023/04/24
+Precio: 2475102.0
+--------------------------------
+Concepto: PLUMILLA 20´ACEDELCO GOLD HOMOLOGADA (PLU ACD 19375535)
+Referencia: PLU ACD 19375535
+Fecha: 2023/07/25
+Precio: 19167.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR VW AMAROK HOM (AIP-781 / LX3234)
+Referencia: AIP-781/LX3234/LX876/2H0129620D+
+Fecha: 2023/02/13
+Precio: 76175.0
+--------------------------------
+Concepto: FILTRO ACEITE FORD RANGER 2.2-3.2 HOM (OLP-115/HCP14302/JU2Z6731A-MKT)
+Referencia: OLP-115/HCP14302/JU2Z6731A-MKT
+Fecha: 2023/11/14
+Precio: 29106.0
+--------------------------------
+Concepto: BUJE TIJERA INF GRANDE AMAROK (2H0407182A+)
+Referencia: 2H0407182A+/GK-518088
+Fecha: 2023/05/23
+Precio: 49022.0
+--------------------------------
+Concepto: BUJE TIJERA CENTRAL AMAROK (2H0412333A+)
+Referencia: 2H0412333A+/VO-SB-13736
+Fecha: 2023/05/23
+Precio: 51286.0
+--------------------------------
+Concepto: MANIJA COMPUERTA AMAROK (2H5829505F GRU+/10709)
+Referencia: 2H5829505F GRU+/10709
+Fecha: 2023/07/05
+Precio: 106568.0
+--------------------------------
+Concepto: FILTRO COMB FORD RANGER 2.5 BT50 (WE01-13ZA5AT-MKT)
+Referencia: WE01-13ZA5AT-MKT
+Fecha: 2023/09/19
+Precio: 23600.0
+--------------------------------
+Concepto: PITO DE REVERSO HELLA / MULTIVOLTAJE (HELLA 9148141)
+Referencia: HELLA 9148141
+Fecha: 2023/09/19
+Precio: 39638.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR NISSAN FRONTIER D22 (SFA-16546-95001)
+Referencia: SFA-16546-95001
+Fecha: 2022/06/07
+Precio: 22838.0
+--------------------------------
+Concepto: FILTRO COMBUSTIBLE SECUNDARIO NISSAN (FLP-353)
+Referencia: FLP-353
+Fecha: 2021/08/18
+Precio: 16575.0
+--------------------------------
+Concepto: FILTRO ACEITE NISSAN NP300 D23 HOM (OLP008/HCX46/OLP-XT-077)
+Referencia: OLP008/HCX46/OLP-XT-077
+Fecha: 2023/10/20
+Precio: 11400.0
+--------------------------------
+Concepto: FILTRO COMB  TRAMPA FLEETGUARD FS1
+Referencia: FS1241
+Fecha: 2022/08/23
+Precio: 76000.0
+--------------------------------
+Concepto: FILTRO ACEITE TOYOTA HILUX 2.5 DIESEL (HCX7 / OLP067)
+Referencia: HCX7/OLP067
+Fecha: 2022/06/24
+Precio: 14025.0
+--------------------------------
+Concepto: PASTILLAS DE FRENO MERCEDES ORIGINAL (A9064210800)
+Referencia: A9064210800
+Fecha: 2022/08/05
+Precio: 0.0
+--------------------------------
+Concepto: FILTRO COMB FORD RANGER 2.2 Y 3.2 (FLP-395 / HCP11507)
+Referencia: FLP-395 / HCP11507
+Fecha: 2023/06/29
+Precio: 18600.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR TOYOTA HILUX 2.5 (AIP651/SFA-17801-OC-010)
+Referencia: AIP651/SFA-17801-OC-010
+Fecha: 2023/01/14
+Precio: 29940.0
+--------------------------------
+Concepto: MULTILUBRICANTE ZX4 SIMONITZ 400ML (ZX4- MULTILUB)
+Referencia: ZX4- MULTILUB
+Fecha: 2022/07/18
+Precio: 14600.0
+--------------------------------
+Concepto: LIMPIADOR ELECTRONICO SIMONITZ 400ML (LIMP ELECTRONIC)
+Referencia: LIMP ELECTRONIC
+Fecha: 2023/07/13
+Precio: 25000.0
+--------------------------------
+Concepto: VAL. EXPANSION (4318)
+Referencia: 4318
+Fecha: 2023/07/13
+Precio: 46218.0
+--------------------------------
+Concepto: FILTRO ACEITE HINO 500 / FC9J (A7155 / PC7155)
+Referencia: A7155 / PC7155
+Fecha: 2023/03/08
+Precio: 73000.0
+--------------------------------
+Concepto: FILTRO COMB TRAMPA HINO FC9J LV150
+Referencia: SFC113240194-0
+Fecha: 2022/08/08
+Precio: 0.0
+--------------------------------
+Concepto: FILTRO COMB HINO FC9J (SFC23304 EV040)
+Referencia: SFC23304 EV040
+Fecha: 2023/03/08
+Precio: 21700.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR INTERNO HINO FC9J (SFA178013371)
+Referencia: SFA178013371
+Fecha: 2023/06/13
+Precio: 32020.0
+--------------------------------
+Concepto: ACEITE 15W40 SHELL RIMULA (RIM15W40)
+Referencia: RIM15W40
+Fecha: 2023/07/24
+Precio: 17045.45
+--------------------------------
+Concepto: FILTRO ACEITE   DMAX / MAZDA BT50 (HCX-3682)
+Referencia: HCX-3682
+Fecha: 2021/04/17
+Precio: 13125.0
+--------------------------------
+Concepto: FILTRO COMB TRAMPA RACOR 2010 (RACOR 2010)
+Referencia: RACOR 2010
+Fecha: 2023/01/14
+Precio: 13260.0
+--------------------------------
+Concepto: ACEITE 15W40 MOBIL DELVAC MX CUARTO (MX15W40)
+Referencia: MX15W40
+Fecha: 2023/06/26
+Precio: 15000.0
+--------------------------------
+Concepto: GRASA FIBRA LIBRA (MARFAK HD2)
+Referencia: MARFAK HD2
+Fecha: 2022/05/17
+Precio: 0.0
+--------------------------------
+Concepto: FILTRO COMBUSTIBLE PLANTA SERVITECA (HCXME016872)
+Referencia: HCXME016872
+Fecha: 2022/05/30
+Precio: 13500.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR EXT HINO FC 500 (SFA178013380)
+Referencia: SFA178013380
+Fecha: 2023/03/08
+Precio: 155400.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR EXT NPR NHR (SFA-RS2863-1 / AIP543)
+Referencia: SFA-RS2863-1/AIP543
+Fecha: 2023/03/14
+Precio: 38775.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR EXT HINO FC9J (SFA178013360)
+Referencia: SFA178013360
+Fecha: 2023/06/13
+Precio: 57000.0
+--------------------------------
+Concepto: FILTRO AIRE KIA K2700 DIESEL (SFA-OK6B023603)
+Referencia: SFA-OK6B023603
+Fecha: 2019/11/08
+Precio: 21853.0
+--------------------------------
+Concepto: KIT GRADUACION FRENO IZQ NISSAN FRONTIER (GF-4245)
+Referencia: GF-4245
+Fecha: 2023/07/26
+Precio: 44538.0
+--------------------------------
+Concepto: FILTRO DE AIRE MOTOR SAKURA (A-76530-S)
+Referencia: A-76530-S
+Fecha: 2023/07/04
+Precio: 205000.0
+--------------------------------
+Concepto: FILTRO ACEITE HONDA CRV 2007 GASOLINA (HCX7317)
+Referencia: 95631277
+Fecha: 2020/06/23
+Precio: 17000.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR MITSUBISHI  L200 (HCA-2098 / AIP681)
+Referencia: HCA-2098/AIP681
+Fecha: 2023/11/17
+Precio: 25612.5
+--------------------------------
+Concepto: RESORTES BANDAS FRENO NISSAN NP300 (R-5091)
+Referencia: R-5091
+Fecha: 2022/04/27
+Precio: 6723.0
+--------------------------------
+Concepto: FILTRO AIRE ACOND TOYOTA HILUX (SFATOYOTARAV / ACP-071)
+Referencia: SFATOYOTARAV/ACP-071
+Fecha: 2023/10/20
+Precio: 12600.0
+--------------------------------
+Concepto: GRASA DE LITIO GLOBAL (CUÑETE)
+Referencia: CUÑETE
+Fecha: 2022/05/13
+Precio: 190000.0
+--------------------------------
+Concepto: FILTRO AIRE POLEN FOTON TUNLAND (SFAAA18081900090070)
+Referencia: GPLC01
+Fecha: 2020/06/04
+Precio: 19688.0
+--------------------------------
+Concepto: HIDRAULICO 68 TERPEL (CUARTOS)
+Referencia: B68TERP
+Fecha: 2019/10/25
+Precio: 10700.0
+--------------------------------
+Concepto: FILTRO ACEITE  FOTON TUNLAND (OLP-122 / HCH6016)
+Referencia: OLP-122 / HCH6016
+Fecha: 2022/09/12
+Precio: 60010.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR FOTON TUNLAND (SFA915/AIP915)
+Referencia: SFA1119019001/AIP915
+Fecha: 2022/04/19
+Precio: 21660.0
+--------------------------------
+Concepto: FILTRO COMBUSTIBLE NHR REWARD (HCX446)
+Referencia: HCX446
+Fecha: 2021/04/07
+Precio: 20244.0
+--------------------------------
+Concepto: FILTRO ACEITE CHEVROLET  NHR REWARD (HCX28NK/OLP-002D)
+Referencia: HCX28NK/OLP-002D
+Fecha: 2022/11/29
+Precio: 20220.0
+--------------------------------
+Concepto: FILTRO COMB TRAMPA 2010 PMR (P5552010 /FLP407/SFC2010)
+Referencia: P5552010 /FLP407/SFC2010
+Fecha: 2023/10/09
+Precio: 12600.0
+--------------------------------
+Concepto: REFRIGRANTE ROJO CUARTO (3600RF-01)
+Referencia: 3600RF-01
+Fecha: 2021/08/02
+Precio: 21000.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR BUS YUTONG EXTERNO  (DA8001)
+Referencia: DA8001
+Fecha: 2023/04/30
+Precio: 149800.0
+--------------------------------
+Concepto: KIT GRADUACION FRENO FORD RANGER (GF-41-35)
+Referencia: GF-41
+Fecha: 2022/06/21
+Precio: 22269.0
+--------------------------------
+Concepto: FILTRO COMB CAMIONETA JAC J7 TRAMPRA (BF 988)
+Referencia: BF 988
+Fecha: 2023/06/26
+Precio: 45000.0
+--------------------------------
+Concepto: FILTRO AGUA ACERO INOXIDABLE (SFWA2432MM)
+Referencia: SFWA2432MM
+Fecha: 2019/01/02
+Precio: 110000.0
+--------------------------------
+Concepto: LIMPIADOR ELECTRONICO 240 ML (LIMPIADOR240ML)
+Referencia: LIMPIADOR240ML
+Fecha: 2020/08/27
+Precio: 20500.0
+--------------------------------
+Concepto: FILTRO COMBUSTIBLE NISSAN CABSTAR (FLP-448)
+Referencia: FLP-448
+Fecha: 2022/07/30
+Precio: 42720.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR NISSAN CABSTAR (SFA-16546/ AIP-770)
+Referencia: SFA-16546/ AIP-770
+Fecha: 2023/02/16
+Precio: 24660.0
+--------------------------------
+Concepto: FILTRO ACEITE VW AMAROK / CRAFTER 50 HOM (OLP-086/ OLP-097 / OLP-109)
+Referencia: OLP-109/03L115562+
+Fecha: 2023/05/09
+Precio: 15420.0
+--------------------------------
+Concepto: TAPONES PARA CARTER (TPCRT-01)
+Referencia: TPCRT-01
+Fecha: 2019/02/27
+Precio: 12500.0
+--------------------------------
+Concepto: FILTRO ACEITE MITSUBISHI L200 - KIA (HCX4302 / OLP039)
+Referencia: HCX4302 / OLP039
+Fecha: 2023/09/21
+Precio: 12900.0
+--------------------------------
+Concepto: FILTRO ACEITE HINO FC9J EU V DUAL (OLP083)
+Referencia: OLP083
+Fecha: 2022/05/26
+Precio: 36300.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR INTER / FREIGHTLINER (ACH10281/CA4700)
+Referencia: ACH10281/CA4700
+Fecha: 2022/08/12
+Precio: 191662.0
+--------------------------------
+Concepto: FILTRO ACEITE INTER FREIGHTILINER (HU95/2X/HV9452X/BD7250)
+Referencia: HU95/2X/HU9452X/BD7250
+Fecha: 2021/08/02
+Precio: 152500.0
+--------------------------------
+Concepto: FILTRO COMBUST. 2  INTER FREIGHTILINER (PU1046X)
+Referencia: PU1046X
+Fecha: 2021/02/06
+Precio: 95000.0
+--------------------------------
+Concepto: FILTRO COMB 1  INTER FREIGHTILINER (BF1292/ HCP9262)
+Referencia: HCP9262/BF1292
+Fecha: 2022/08/12
+Precio: 27525.0
+--------------------------------
+Concepto: PARRAGON MABE / HACEB ORG 1004175 (1004175/3715)
+Referencia: 1004175/3715
+Fecha: 2023/07/05
+Precio: 19327.73
+--------------------------------
+Concepto: FILTRO AIRE ACOND MITSUBISHI L200 POLEN (SFA-7803A112 / ACP-113)
+Referencia: SFA-7803A112/ACP-113
+Fecha: 2023/10/20
+Precio: 12600.0
+--------------------------------
+Concepto: VALVULINERA 5GL ARCO (VALV5GL)
+Referencia: VALV5GL
+Fecha: 2019/05/01
+Precio: 359000.0
+--------------------------------
+Concepto: FILTRO AIRE ACONDICIONADO FOTON TUNLAND (SFAAA180801900/ACP1
+Referencia: SFAAA180801900/ACP105
+Fecha: 2022/04/19
+Precio: 11220.0
+--------------------------------
+Concepto: GRASA MULTIPROPOSITO X2K (FORZA-EPZ)
+Referencia: FORZA-EPZ
+Fecha: 2022/12/02
+Precio: 12500.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR VOLKSWAGUEN WORKER (SFA283A)
+Referencia: SFA283A
+Fecha: 2019/08/21
+Precio: 30967.0
+--------------------------------
+Concepto: FILTRO COMBUSTIBLE VOLKSWAGUEN WORKER (PC1510023)
+Referencia: PC1510023
+Fecha: 2019/06/03
+Precio: 29517.0
+--------------------------------
+Concepto: FILTRO COMBUSTIBLE1 VOLKSWAGUEN WORKER (PCRO27177)
+Referencia: PCRO27177
+Fecha: 2019/06/03
+Precio: 30409.0
+--------------------------------
+Concepto: FILTRO ACEITE MOTOR VOLKSWAGUEN WORKER (PC90588005)
+Referencia: PC90588005
+Fecha: 2019/06/03
+Precio: 16368.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR INTER FREIGLINER (P607965)
+Referencia: P607965
+Fecha: 2020/12/23
+Precio: 35766.0
+--------------------------------
+Concepto: FILTRO COMBUSTIBLE1 INTER FREIHGLINER (BF9898-0)
+Referencia: BF9898-0
+Fecha: 2020/01/09
+Precio: 100000.0
+--------------------------------
+Concepto: FILTRO AIRE INTERNO MOTOR CAMION INTER (SFA AF25732)
+Referencia: SFA AF25732
+Fecha: 2021/07/17
+Precio: 56204.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR INTER / FREIGHTLINER (SFA SF25707)
+Referencia: SFA SF25707
+Fecha: 2021/07/17
+Precio: 81752.0
+--------------------------------
+Concepto: FILTRO AIRE ACOND. INTER FREIGLINER (SFA920141R)
+Referencia: SFA920141R
+Fecha: 2020/12/23
+Precio: 21656.0
+--------------------------------
+Concepto: FILTRO  ACEITE CHEVROLET FVZ (HCX3757)
+Referencia: HCX3757
+Fecha: 2022/09/12
+Precio: 37500.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR INTERNO CHEVROLET FVZ (SFARS3722)
+Referencia: SFARS3722
+Fecha: 2020/12/23
+Precio: 48662.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR EXTERNO CHEVROLET FVZ (SFARS3548)
+Referencia: SFARS3548
+Fecha: 2020/12/23
+Precio: 71533.0
+--------------------------------
+Concepto: FILTRO ACEITE MERCEDES BENZ 515 (HU7010Z /OLP020)
+Referencia: HU7010Z /OLP020
+Fecha: 2023/07/04
+Precio: 35000.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR MICR MERCEDES BENZ 515 (C4312/1 / AIP756)
+Referencia: C4312/1 / AIP756
+Fecha: 2023/07/04
+Precio: 50500.0
+--------------------------------
+Concepto: FILTRO COMB MERCEDES SPRINTER 515 (WK820/18 /FLP469)
+Referencia: WK820/18 /FLP469
+Fecha: 2023/07/04
+Precio: 280000.0
+--------------------------------
+Concepto: FILTRO COMBUSTIBLE HIUNDAY COUNTY (HCX-5900)
+Referencia: HCX-5900
+Fecha: 2019/08/21
+Precio: 32550.0
+--------------------------------
+Concepto: FILTRO COMB TRAMPA VOLSWAGUEN WORKER (HCX6643)
+Referencia: HCX6643
+Fecha: 2022/11/05
+Precio: 10435.0
+--------------------------------
+Concepto: FILTRO ACEITE MOTOR VOLSWAGUEN WORKER (HCX7549)
+Referencia: HCX7549
+Fecha: 2019/08/21
+Precio: 17150.0
+--------------------------------
+Concepto: FILTRO COMBUSTIB MOTOR VOLSWAGUEN WORKER (HCX8183)
+Referencia: HCX8183
+Fecha: 2019/08/21
+Precio: 20935.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR HIUNDAY COUNTY (SFA281305A500)
+Referencia: SFA281305A500
+Fecha: 2019/08/21
+Precio: 46007.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR INTERNO NPR NHR (SFA-RS2863-1SY)
+Referencia: SFA-RS2863-1SY
+Fecha: 2023/09/21
+Precio: 29711.02
+--------------------------------
+Concepto: LIQUIDO DE FRENOS SL DOT4 ATE LITRO (DOT4 SL)
+Referencia: DOT4 SL
+Fecha: 2023/08/30
+Precio: 16500.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR NISSAN D23 HOM (HCA2530/AIP961/SFA16546KVOA)
+Referencia: HCA2530/AIP961/SFA16546KVOA
+Fecha: 2023/11/17
+Precio: 39564.0
+--------------------------------
+Concepto: FILTRO AIRE COMPRESOR TALLER SERVITECA (SFAIR835)
+Referencia: SFA-AIR835
+Fecha: 2020/02/13
+Precio: 6741.0
+--------------------------------
+Concepto: FILTRO COMBUSTIBLE MOTOR NPR 2011 DIE (58764100410)
+Referencia: 58764100410/5876100410/HCX10575
+Fecha: 2021/04/07
+Precio: 19119.0
+--------------------------------
+Concepto: FILTRO COMBUSTIBLE TOYOTA COASTER GF (A22SP)
+Referencia: A22SP
+Fecha: 2020/02/20
+Precio: 22756.0
+--------------------------------
+Concepto: FILTRO ACEITE TOYOTA HILUX REVO (HCX2870A/OLP-XT056)
+Referencia: HCX2870A/OLP-XT-056/SAKURA-C-6205/A178
+Fecha: 2023/09/05
+Precio: 26000.0
+--------------------------------
+Concepto: FILTRO SEPARADOR DE AGUA A23 (A23FLT)
+Referencia: A23FLT
+Fecha: 2020/02/20
+Precio: 19461.0
+--------------------------------
+Concepto: FILTRO ACIETE PLANTA PERKINS 40KWA (2654403)
+Referencia: 2654403
+Fecha: 2020/07/13
+Precio: 30000.0
+--------------------------------
+Concepto: FILTRO COMBUSTIBLE PLANTA PERKINS 40KWA (4816635)
+Referencia: 4816635
+Fecha: 2022/07/18
+Precio: 50000.0
+--------------------------------
+Concepto: FILTRO AIRE PLANTA PERKINS 40KWA (SFARS3542)
+Referencia: SFARS3542
+Fecha: 2020/03/19
+Precio: 30966.0
+--------------------------------
+Concepto: FILTRO COMBUSTIBLE MITSUBISHI FUSO (BF12920)
+Referencia: BF12920
+Fecha: 2020/06/04
+Precio: 140000.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR EXT CAMION INTER 7600 (SFARS-4862 /a 5441s)
+Referencia: SFARS-4862
+Fecha: 2023/06/13
+Precio: 395000.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR MITSUBISHI FUSO (SFAME017246)
+Referencia: SFAME017246
+Fecha: 2022/05/30
+Precio: 45988.8
+--------------------------------
+Concepto: PASTILLAS DE FRENO MERCEDES ORIGINAL (A9074205201)
+Referencia: A9074205201
+Fecha: 2022/08/05
+Precio: 0.0
+--------------------------------
+Concepto: FILTRO DE COMBUSTIBLE VOLKSWAGUEN AMAROK (FLP 479)
+Referencia: FLP 479
+Fecha: 2020/11/01
+Precio: 65340.0
+--------------------------------
+Concepto: FILTRO COMB VW AMAROK ORIG (HCH7401D)
+Referencia: DIS004
+Fecha: 2022/11/05
+Precio: 72100.0
+--------------------------------
+Concepto: FILTRO COMBUSTIBLE CHEVROLET FRR (HCX7716)
+Referencia: HCX7716 /FLP433
+Fecha: 2022/06/07
+Precio: 41250.0
+--------------------------------
+Concepto: FILTRO ACEITE CHEVROLET NKR REWARD (SF8980188580 / OLP100)
+Referencia: SF8980188580 / OLP100
+Fecha: 2022/07/15
+Precio: 13440.0
+--------------------------------
+Concepto: SUPER KOTE PROTECTOR DE MOTOR (SKOTE)
+Referencia: SKOTE
+Fecha: 2020/09/25
+Precio: 50000.0
+--------------------------------
+Concepto: FILTRO COMBUST. 3  INTER FREIGHTILINER (ES54030)
+Referencia: ES54030
+Fecha: 2021/07/17
+Precio: 70000.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR FOTON AUMARK (SFA40527 / SFA40829/AIP970)
+Referencia: AIP970
+Fecha: 2022/10/05
+Precio: 33275.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR HINO DUTRO 300 (AIP-879 / SFA178017811)
+Referencia: AIP-879/SFA178017811/A13570-SAKURA
+Fecha: 2023/11/16
+Precio: 87000.0
+--------------------------------
+Concepto: FILTRO COMBUSTIBLE HINO TRAMPA (SFC234011682)
+Referencia: SFC234011682
+Fecha: 2022/06/24
+Precio: 19194.0
+--------------------------------
+Concepto: FILTRO COMBUSTIBLE HINO MOTOR (CFC066)
+Referencia: CFC066
+Fecha: 2022/03/23
+Precio: 14976.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR INT CAMION INTER 7600 (SFARS-4863)
+Referencia: SFARS-4863
+Fecha: 2021/07/17
+Precio: 66180.0
+--------------------------------
+Concepto: ACEITE 15W40 URSA TEXACO 1/4 GAL (URSA 15W40 CUART)
+Referencia: URSA 15W40 QT
+Fecha: 2021/08/10
+Precio: 18800.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR EXT FRR REWARD (AIP321 / SFARS3538)
+Referencia: AIP321/SFARS3538
+Fecha: 2023/07/27
+Precio: 46200.0
+--------------------------------
+Concepto: FILTRO DE ACEITE HINO (HCX 3766A)
+Referencia: HCX 3766A
+Fecha: 2022/03/23
+Precio: 28210.0
+--------------------------------
+Concepto: FILTRO ACEITE NISSAN D22 3.0 (OLP040)
+Referencia: OLP040
+Fecha: 2022/05/13
+Precio: 16380.0
+--------------------------------
+Concepto: HIDRAULICO ISO 20 LIMPIEZA (HIDRAULICO)
+Referencia: HIDRAULICO
+Fecha: 2022/05/13
+Precio: 8000.0
+--------------------------------
+Concepto: FILTRO ACEITE FLEETGUARD
+Referencia: HU9452X/LF3882/ LF3883/
+Fecha: 2022/08/12
+Precio: 68000.0
+--------------------------------
+Concepto: FILTRO DE COMBUSTIBLE TRAMPA COLORADO
+Referencia: BF957
+Fecha: 2022/08/23
+Precio: 52000.0
+--------------------------------
+Concepto: ACEITE 20W50 CELERITY 4T TERPEL
+Referencia: 20W50TERP
+Fecha: 2022/09/05
+Precio: 0.0
+--------------------------------
+Concepto: FILTRO  COMBUSTIBLE (HCP4870)
+Referencia: DIS002
+Fecha: 2022/09/12
+Precio: 38962.0
+--------------------------------
+Concepto: FILTRO ACEITE HOMO (HCX10575)
+Referencia: 1948771
+Fecha: 2022/09/12
+Precio: 12412.0
+--------------------------------
+Concepto: BUJE TEMPLETE TRAS NISSAN D23 NP300 (712042)
+Referencia: 712042/54560-E
+Fecha: 2023/07/27
+Precio: 33650.0
+--------------------------------
+Concepto: FILTRO AIRE ACONDICIONADO VAN MERCEDEZ (SFAA9108301100/SFAA008354800)
+Referencia: SFAA9108301100
+Fecha: 2022/11/08
+Precio: 45000.0
+--------------------------------
+Concepto: FILTRO ACEITE JAC (HCP8106H)
+Referencia: HCP8106H / O-2160
+Fecha: 2023/06/26
+Precio: 30000.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR JAC (SFAJACT6)
+Referencia: SFAJACT6 / FA40829
+Fecha: 2023/06/27
+Precio: 38000.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR MITSUBISHI L200 (2022) (AIP898/A33411)
+Referencia: AIP898/A33411
+Fecha: 2023/11/16
+Precio: 47800.0
+--------------------------------
+Concepto: FILTRO ACEITE RENAULT (HCXR9/OLP055)
+Referencia: HCXR9/OLP055
+Fecha: 2023/11/17
+Precio: 12037.5
+--------------------------------
+Concepto: FILTRO COMB CHEV LUV (HCF7393/FLP323)
+Referencia: HCF7393/FLP323
+Fecha: 2023/11/17
+Precio: 22987.5
+--------------------------------
+Concepto: FILTRO COMB PERKINS (REC817/EF51040)
+Referencia: REC817/EF51040
+Fecha: 2023/11/17
+Precio: 44000.0
+--------------------------------
+Concepto: FILTRO AIRE RENAULT DUSTER SANDERO (HCA11654/AIP968)
+Referencia: HCA11654/AIP968
+Fecha: 2023/11/17
+Precio: 27562.5
+--------------------------------
+Concepto: FORRO MANTENIMIENTO AIRE 810X250X280 (705)
+Referencia: 705
+Fecha: 2023/11/07
+Precio: 46218.48
+--------------------------------
+Concepto: KIT EMBRAGUE KIA K 2700 (KITOK75A++)
+Referencia: 614003/2020
+Fecha: 2019/02/06
+Precio: 232754.28
+--------------------------------
+Concepto: PUNTA EJE L/C FORD RANGER (NO147)
+Referencia: NO147
+Fecha: 2022/11/07
+Precio: 310924.0
+--------------------------------
+Concepto: POLEA TENSORA MULTIMARCA (PTM-01)
+Referencia: PTM-01
+Fecha: 2023/10/27
+Precio: 54621.98
+--------------------------------
+Concepto: TENSOR CORREA ACCESORIOS FORD RANGER (1D00-15-980 KBS)
+Referencia: 1D00-15-980 KBS
+Fecha: 2023/05/26
+Precio: 184874.0
+--------------------------------
+Concepto: RODILLO AGUJAS CHEV COLORADO (HK4012-INA)
+Referencia: HK4012-INA
+Fecha: 2023/07/29
+Precio: 12605.0
+--------------------------------
+Concepto: CORREA STRAFLEX (AX36SML/)
+Referencia: AX36SML
+Fecha: 2023/08/28
+Precio: 15126.0
+--------------------------------
+Concepto: CORREA MITUBOSHI 22400 (22400ALT)
+Referencia: 22400ALT
+Fecha: 2023/08/28
+Precio: 25210.0
+--------------------------------
+Concepto: CRUCETA CARDAN (GU-1000GMD)
+Referencia: GU-1000GMD
+Fecha: 2023/08/28
+Precio: 33613.0
+--------------------------------
+Concepto: CORREA BX52 (BX52SML/0801604039140)
+Referencia: BX52SML/0801604039140
+Fecha: 2023/08/28
+Precio: 37815.0
+--------------------------------
+Concepto: POLEA TENSORA NISSAN (11927-1HC0A-SD/VKM62022)
+Referencia: 11927-1HC0A-SD/VKM62022
+Fecha: 2023/08/28
+Precio: 54622.0
+--------------------------------
+Concepto: CRUCETA CARDAN GUD-86KYM (GUD-89KYM)
+Referencia: GUD-89
+Fecha: 2023/09/05
+Precio: 23529.0
+--------------------------------
+Concepto: TENSOR CORREA DISTR SKF (VKM11115)
+Referencia: VKM11115
+Fecha: 2023/10/04
+Precio: 184874.0
+--------------------------------
+Concepto: CRUCETA CARDAN MITSUBISHI L200 (GUIS74KYM-7)
+Referencia: GUIS74KYM-7
+Fecha: 2023/11/07
+Precio: 25210.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR BUS YUTONG INTERNO  (AF25277)
+Referencia: FA25277
+Fecha: 2023/06/13
+Precio: 98000.0
+--------------------------------
+Concepto: TAPA COMBUSTIBLE GOLLETE  SIN LLAVE (TG819)
+Referencia: TG819
+Fecha: 2020/09/04
+Precio: 21009.5
+--------------------------------
+Concepto: ANTIRUIDOS NISSAN D23 (AP3385-4)
+Referencia: AP3385-4
+Fecha: 2023/09/27
+Precio: 22689.0
+--------------------------------
+Concepto: BAYETILLA ROJA (BYE50)
+Referencia: 23390-0L070
+Fecha: 2020/08/14
+Precio: 1260.5
+--------------------------------
+Concepto: BOTIQUIN LONA 19 ELEM. CUELLO ORTOPEDICO (BNP40)
+Referencia: BNP40
+Fecha: 2023/11/24
+Precio: 10840.34
+--------------------------------
+Concepto: Bomba de agua ford ranger rm (BAFR)
+Referencia: BAFR
+Fecha: 2022/10/15
+Precio: 150000.0
+--------------------------------
+Concepto: 152092W200 (152092W200)
+Referencia: 152092W200
+Fecha: 2023/08/30
+Precio: 14285.0
+--------------------------------
+Concepto: BOMBA ROTATIVA TROPER (BOMEX-25-10067)
+Referencia: BOMEX-25-10067
+Fecha: 2023/08/30
+Precio: 190000.0
+--------------------------------
+Concepto: FILTRO AIRE HINO 500 FCJ9 EURO V (H17801-7801)
+Referencia: H17801-7801
+Fecha: 2023/11/16
+Precio: 205000.0
+--------------------------------
+Concepto: STOP MITSUBISHI SPORTERO L200 2.5 DIESEL (14140STL200)
+Referencia: 14140STL200
+Fecha: 2023/10/31
+Precio: 512605.0
+--------------------------------
+Concepto: FILTRO ACEITE DFSK HOMO (FADFSK)
+Referencia: FADFSK
+Fecha: 2022/10/26
+Precio: 12605.0
+--------------------------------
+Concepto: FILTRO GASOLINA DFSK HOMOLOGADO (FGDFSK)
+Referencia: FGDFSK
+Fecha: 2022/10/26
+Precio: 21008.0
+--------------------------------
+Concepto: FILTRO DE AIRE DFSK HOMOLOGADO (FAMDFSK)
+Referencia: FAMDFSK
+Fecha: 2022/10/26
+Precio: 29412.0
+--------------------------------
+Concepto: FILTRO ACEITE HINO DUTRO 300 EURO IV (OLP-021 / FL9-021)
+Referencia: OLP-021/B7130/P550422/LF3642/51725
+Fecha: 2023/07/27
+Precio: 21900.0
+--------------------------------
+Concepto: FILTRO COMB HINO DUTRO EURO IV (FLP-352)
+Referencia: FLP-352
+Fecha: 2023/07/27
+Precio: 21360.0
+--------------------------------
+Concepto: FILTRO COMB ELEMENTO HINO DUTRO (FLP-424)
+Referencia: FLP-424
+Fecha: 2023/07/27
+Precio: 21900.0
+--------------------------------
+Concepto: FILTRO AIRE MOTOR RENAULT DUSTER - CAPTU (AIP968)
+Referencia: AIP968
+Fecha: 2022/07/15
+Precio: 17820.0
+--------------------------------
+Concepto: FILTRO COMBUSTIBLE HOMO (FLP398)
+Referencia: FLP398
+Fecha: 2022/10/25
+Precio: 22200.0
+--------------------------------
+Concepto: COMPRA DE SOFTWARE
+Referencia: 21
+Fecha: 2018/08/27
+Precio: 2575000.0
+--------------------------------
+Concepto: CORREA 6PK1513 (6PK1513)
+Referencia: 6PK1513
+Fecha: 2022/10/31
+Precio: 37815.0
+--------------------------------
+Concepto: CORREA A35 AIRE ACONDICIONADO BUS WCS094 (CORA35)
+Referencia: CORA35
+Fecha: 2018/04/10
+Precio: 8403.0
+--------------------------------
+Concepto: CORREA 17490 ACCESORIOS BUS WCS094 (COR17490)
+Referencia: COR17490
+Fecha: 2018/04/10
+Precio: 25210.0
+--------------------------------
+Concepto: CALIPER CAUCHOS (BRAKE PACK KL-150)
+Referencia: BRAKE PACK KL-150
+Fecha: 2021/02/03
+Precio: 16807.0
+--------------------------------
+Concepto: PASADOR MORDAZA (KCM K707-10-12-13)
+Referencia: K7122
+Fecha: 2021/05/13
+Precio: 16638.65
+--------------------------------
+Concepto: RESORTES BANDAS FRENO TOYOTA REVO (R-5066)
+Referencia: R-5066
+Fecha: 2023/10/06
+Precio: 9244.0
+--------------------------------
+Concepto: BANDA FRENO NHR BRAKE PAK (BP4458)
+Referencia: BP4458
+Fecha: 2022/10/04
+Precio: 184874.0
+--------------------------------
+Concepto: JUEGO DE BANDAS TOYOTA HILUX (BP2305)
+Referencia: BP2305
+Fecha: 2022/09/13
+Precio: 126050.0
+--------------------------------
+Concepto: CILINDRO DE FRENO VIGO HOMOLOGADO (CR4603)
+Referencia: CR4603/CR-46-02
+Fecha: 2023/10/04
+Precio: 65546.0
+--------------------------------
+Concepto: PASADOR MORDAZA FORD RANGER 3.2 DIESEL (K7133)
+Referencia: K7133
+Fecha: 2022/09/26
+Precio: 26050.0
+--------------------------------
+Concepto: BANDAS FRENO DIMAX R750 / MIT. L200 HOM (BP-6605C)
+Referencia: BP-6605C
+Fecha: 2023/10/20
+Precio: 140336.0
+--------------------------------
+Concepto: DISCO FRENO DEL MAZDA BT50 (DF-0048)
+Referencia: DF-0048
+Fecha: 2023/09/18
+Precio: 289076.0
+--------------------------------
+Concepto: DISCO FRENO TRAS MAZDA BT50 (D-1052-V)
+Referencia: D-1052-V
+Fecha: 2023/09/18
+Precio: 289076.0
+--------------------------------
+Concepto: MORDAZA NISSAN FRONTIER MN DER (MORDAZA)
+Referencia: MORDAZA
+Fecha: 2023/10/02
+Precio: 1075630.0
+--------------------------------
+Concepto: CILINDRO FRENO CHEVROLETH LUV (CF-0118)
+Referencia: CF-0118
+Fecha: 2023/10/04
+Precio: 0.0
+--------------------------------
+Concepto: CARDAN  DELANTERO MITSUBISHI HOMOLOGADO
+Referencia: 34330509
+Fecha: 2022/08/23
+Precio: 647058.0
+--------------------------------
+Concepto: DESINCRUSTANTE GALON CLEANER (DCR45010)
+Referencia: DCR45010
+Fecha: 2019/06/27
+Precio: 25210.0
+--------------------------------
+Concepto: FILTRO ACEITE MB CANTER FUSO (FO092 / BD28 / AD092 / OLP004)
+Referencia: FO092 / BD28 / AD092 / OLP004
+Fecha: 2023/07/04
+Precio: 38000.0
+--------------------------------
+Concepto: BASE EXTINTOR DE 10 LBS (BSEXT10)
+Referencia: FSMAXI100AMP
+Fecha: 2019/09/24
+Precio: 16000.0
+--------------------------------
+Concepto: SOPORTE EXTINTOR 20 LM (SPTEXT-01-20LB)
+Referencia: SPTEXT-01-20LB
+Fecha: 2022/07/26
+Precio: 23000.0
+--------------------------------
+Concepto: REVISION Y MANTENIMIENTO EXTINTOR
+Referencia: 26
+Fecha: 2022/08/19
+Precio: 0.0
+--------------------------------
+Concepto: FILTRO COMBUSTIBLE VASO YUTONG (FF5796)
+Referencia: FF5796
+Fecha: 2023/04/12
+Precio: 70000.0
+--------------------------------
+Concepto: FILTRO ACEITE BUS - BUSETA YUTONG (LF 16015 /FO7237)
+Referencia: LF 16015 /FO7237
+Fecha: 2023/07/04
+Precio: 77000.0
+--------------------------------
+Concepto: FILTRO COMB TRAMPA BUS YOYUNG (FF5612)
+Referencia: FF5612
+Fecha: 2023/04/30
+Precio: 45000.0
+--------------------------------
+Concepto: FILTRO AIRE EXTERNO YUTONG BUSETA (DA8191)
+Referencia: DA8191/AF36531
+Fecha: 2023/07/26
+Precio: 90000.0
+--------------------------------
+Concepto: FILTRO AIRE INTERNO YUTONG BUSETA (DA9191 / FA25277)
+Referencia: DA9191/FA25277/AF26532
+Fecha: 2023/07/26
+Precio: 60000.0
+--------------------------------
+Concepto: FILTRO COMB YUTONG ACPM (BF7813)
+Referencia: BF7813
+Fecha: 2023/07/13
+Precio: 60000.0
+--------------------------------
+Concepto: AUTOMATICO MITSUBISHI (AUT-ZM-5698/02ZM-5698)
+Referencia: AUT-ZM-5698/02ZM-5698
+Fecha: 2023/11/22
+Precio: 126050.0
+--------------------------------
+Concepto: BENDIX MAZDA BT50 (BDX-1024/1024)
+Referencia: BDX-1024
+Fecha: 2023/11/22
+Precio: 75630.0
+--------------------------------
+Concepto: PITO CLAXON 24V (PLC24V)
+Referencia: PLC24V
+Fecha: 2021/01/05
+Precio: 22000.0
+--------------------------------
+Concepto: BOMBILLO H3 24V (H3-24V)
+Referencia: H3-24V
+Fecha: 2021/09/18
+Precio: 5437.0
+--------------------------------
+Concepto: RESISTENCIA VEL NISSAN HOM (5846)
+Referencia: 5846
+Fecha: 2022/09/26
+Precio: 63025.0
+--------------------------------
+Concepto: CONDENSADOR FORD RANGER HOM (9887)
+Referencia: 9887
+Fecha: 2022/09/26
+Precio: 382353.0
+--------------------------------
+Concepto: CAJA ORIGIN (5153)
+Referencia: 5153
+Fecha: 2023/08/22
+Precio: 25210.0
+--------------------------------
+Concepto: LUBRICANTE HPG SAE 80W 90 EUROL (E1160 5L)
+Referencia: DIS013
+Fecha: 2019/07/17
+Precio: 11904.0
+--------------------------------
+Concepto: CLEANER BRAKE EUROL SPRAY (E701445)
+Referencia: E701445
+Fecha: 2019/10/12
+Precio: 9297.0
+--------------------------------
+Concepto: COMPRESOR DIMAX AIRE ACONDICIONADO (087)
+Referencia: 087
+Fecha: 2023/05/26
+Precio: 1100000.0
+--------------------------------
+Concepto: LLANTA 245/75R16 M/T ADVENTURO GT (9000020000100)
+Referencia: 9000020000100
+Fecha: 2023/10/27
+Precio: 373949.58
+--------------------------------
+Concepto: PERNO RUEDA 12 X 40 P.1.25 EST 13 (P-25)
+Referencia: P-25
+Fecha: 2023/08/28
+Precio: 4201.68
+--------------------------------
+Concepto: TUERCA CONICA 12 X 13/16 X 35P 1.25 (TLN0206)
+Referencia: TLN0206
+Fecha: 2023/08/28
+Precio: 2521.01
+--------------------------------
+Concepto: TUERCA CONICA 12 X 13/16 X 29 P 1.50 (TNL0207B)
+Referencia: TNL0207B
+Fecha: 2023/08/28
+Precio: 2521.01
+--------------------------------
+Concepto: PERNO RUEDA 12 X 45 P.1.5 EST 14 (P-41)
+Referencia: P-41
+Fecha: 2023/09/05
+Precio: 3109.24
+--------------------------------
+Concepto: TUERCA CUELLO CON ARANDELA 12X21X46 (TLN2307L)
+Referencia: TLN2307L
+Fecha: 2023/09/05
+Precio: 5882.36
+--------------------------------
+Concepto: GUAYA CENTRAL FRENO DE MANO TOYOTA HILUX (GFCTO1)
+Referencia: GFCTO1
+Fecha: 2018/05/02
+Precio: 116383.0
+--------------------------------

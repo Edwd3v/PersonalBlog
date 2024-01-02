@@ -68,7 +68,7 @@ def run():
 
     
     win_matches = list(filter(lambda item: item['home_team_result'] == 'Win', matches))
-#    print(win_matches)
+    print(win_matches)
 
     cont = 1
     for game in win_matches:
