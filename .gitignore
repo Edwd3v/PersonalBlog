@@ -1,1 +1,9 @@
 *.csv
+*.xls
+*.xlsx
+*.txt
+*.pyc
+__pycache__/
+build/
+dist/
+aplication3.spec

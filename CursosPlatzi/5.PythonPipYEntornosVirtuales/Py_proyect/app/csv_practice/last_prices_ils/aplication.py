@@ -20,7 +20,7 @@ def write_csv(data, output_path):
 
 # Tu lista de datos
 def run():
-    data = read_csv_module.read_csv('./0.documentos_need/data.csv')
+    data = read_csv_module.read_csv('data83.csv')
 
     # Estructurar datos
     id_proveedor = []
@@ -43,10 +43,10 @@ def run():
 
     for proveedor in id_proveedor:
         referencia = proveedor['referencia']
-        fecha_proveedor = datetime.strptime(proveedor['fecha'], '%Y/%m/%d')
+        fecha_proveedor = datetime.strptime(proveedor['fecha'], '%Y-%m-%d')
 
         if referencia in referencias_mas_recientes:
-            fecha_existente = datetime.strptime(referencias_mas_recientes[referencia]['fecha'], '%Y/%m/%d')
+            fecha_existente = datetime.strptime(referencias_mas_recientes[referencia]['fecha'], '%Y-%m-%d')
             if fecha_proveedor > fecha_existente:
                 referencias_mas_recientes[referencia] = proveedor
         else:
